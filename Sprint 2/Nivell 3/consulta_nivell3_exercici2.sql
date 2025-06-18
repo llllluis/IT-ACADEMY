@@ -7,7 +7,7 @@ SELECT
         WHERE t.company_id = c.id
       ) > 400
       THEN 'SI'
-      ELSE 'NO'
+      ELSE 'NO'	
     END AS mes_de_400
 FROM company c
 order by mes_de_400

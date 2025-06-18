@@ -1,4 +1,5 @@
-SELECT company_name as EMPRESA, phone as TELEFON, country as PAIS, DATE_FORMAT(timestamp, '%d/%m/%Y') as DATA, amount as TRANSACCIO 
+SELECT company_name as EMPRESA, phone as TELEFON, country as PAIS, 
+DATE_FORMAT(timestamp, '%d/%m/%Y') as DATA, amount as TRANSACCIO 
 FROM transactions.transaction t
 INNER JOIN company c ON c.id = t.company_id
 where (amount between 350 and 400) and date(timestamp) in (
