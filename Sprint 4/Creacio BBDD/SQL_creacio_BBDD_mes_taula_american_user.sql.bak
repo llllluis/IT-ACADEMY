@@ -1,0 +1,19 @@
+/* Sprint 4: consulta nivell 1 - exercici 1 - punt 1*/
+/* Dissenya una base de dades amb un esquema d'estrella que contingui, almenys 4 taules.*/
+/* Creo la BBDD Sprint4.*/
+CREATE DATABASE IF NOT EXISTS Sprint4;
+USE Sprint4;
+
+/* Creo la taula de dimensions american_user.*/
+CREATE TABLE IF NOT EXISTS american_user (
+	id CHAR(10) PRIMARY KEY,
+	name VARCHAR(100),
+	surname VARCHAR(100),
+	phone VARCHAR(150),
+	email VARCHAR(150),
+	birth_date VARCHAR(100),
+	country VARCHAR(150),
+	city VARCHAR(150),
+	postal_code VARCHAR(100),
+	address VARCHAR(255)    
+);

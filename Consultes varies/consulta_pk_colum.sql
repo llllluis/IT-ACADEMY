@@ -1,0 +1,3 @@
+SHOW COLUMNS FROM user LIKE 'id';
+SHOW INDEX FROM user WHERE Key_name = 'PRIMARY';
+
