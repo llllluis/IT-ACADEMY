@@ -14,8 +14,8 @@ estado_tarjetas AS (
 )
 SELECT cc.id as card_id,
     CASE 
-        WHEN et.total = 3 AND et.total_declined = 0 THEN 0 /*desactivada*/
-        ELSE 1 /*activada*/
+        WHEN et.total = 3 AND et.total_declined = 3 THEN 1 /*desactivada*/
+        ELSE 0 /*activada*/
     END AS status
 FROM credit_card cc
 LEFT JOIN estado_tarjetas et ON cc.id = et.card_id
