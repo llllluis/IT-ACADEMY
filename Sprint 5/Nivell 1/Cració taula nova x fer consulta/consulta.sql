@@ -1,0 +1,1 @@
+SELECT count(*) FROM sprint4.theatersnew where state = 'CA';

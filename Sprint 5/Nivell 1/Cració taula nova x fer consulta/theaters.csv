@@ -1,0 +1,1565 @@
+"_id","location.address.city","location.address.state","location.address.street1","location.address.street2","location.address.zipcode","location.geo.type","theaterId"
+"59a47286cfa9a3a73e51e72c","Bloomington","MN","340 W Market","","55425","Point",1000
+"59a47286cfa9a3a73e51e72d","California","MD","45235 Worth Ave.","","20619","Point",1003
+"59a47286cfa9a3a73e51e72e","Vacaville","CA","1621 E Monte Vista Ave","","95688","Point",1008
+"59a47286cfa9a3a73e51e72f","Birmingham","AL","5072 Pinnacle Sq","","35235","Point",1004
+"59a47286cfa9a3a73e51e730","Tempe","AZ","1900 E Rio Salado Pkwy","","85281","Point",1002
+"59a47286cfa9a3a73e51e731","Clarksville","IN","1025 Veterans Pkwy","","47129","Point",1010
+"59a47286cfa9a3a73e51e732","Sparks","NV","155 Los Altos Pkwy","","89436","Point",1014
+"59a47286cfa9a3a73e51e733","Bismarck","ND","1207 W Century Ave","","58503","Point",1012
+"59a47286cfa9a3a73e51e734","Long Beach","CA","6310 E Pacific Coast Hwy","","90803","Point",1009
+"59a47286cfa9a3a73e51e735","Glen Allen","VA","9901 Brook Rd","","23059","Point",1013
+"59a47286cfa9a3a73e51e736","San Angelo","TX","4325 Sunset Dr","","76904","Point",1017
+"59a47286cfa9a3a73e51e737","Glendora","CA","1307 E Gladstone St","","91740","Point",1018
+"59a47286cfa9a3a73e51e738","Altoona","PA","1721 Osgood Dr","","16602","Point",1015
+"59a47286cfa9a3a73e51e739","El Segundo","CA","740 S Sepulveda Blvd","","90245","Point",1011
+"59a47286cfa9a3a73e51e73a","Salinas","CA","390 Northridge Mall","","93906","Point",1019
+"59a47286cfa9a3a73e51e73b","Mission Viejo","CA","25422 El Paseo","","92691","Point",101
+"59a47286cfa9a3a73e51e73c","San Rafael","CA","700 Du Bois St","","94901","Point",1021
+"59a47286cfa9a3a73e51e73d","La Quinta","CA","79220 Hwy 111","","92253","Point",1020
+"59a47286cfa9a3a73e51e73e","Enfield","CT","95 Elm St","","06082","Point",1026
+"59a47286cfa9a3a73e51e73f","Sherman","TX","823 N Creek Dr","","75092","Point",1023
+"59a47286cfa9a3a73e51e740","Leesburg","VA","609 Potomac Station Dr NE","","20176","Point",1022
+"59a47286cfa9a3a73e51e741","Noblesville","IN","17200 Mercantile Blvd","","46060","Point",1025
+"59a47286cfa9a3a73e51e742","Weatherford","TX","138 E Interstate 20","Ste 120","76087","Point",1024
+"59a47286cfa9a3a73e51e743","Fort Worth","TX","5944 Quebec St","","76135","Point",1027
+"59a47286cfa9a3a73e51e744","New York","NY","529 5th Ave","","10017","Point",1028
+"59a47286cfa9a3a73e51e745","Newnan","GA","312 Newnan Crossing Byp E","","30265","Point",1037
+"59a47286cfa9a3a73e51e746","Mohegan Lake","NY","3105 E Main St","","10547","Point",1029
+"59a47286cfa9a3a73e51e747","Flower Mound","TX","6060 Long Prairie Rd","","75028","Point",1038
+"59a47286cfa9a3a73e51e748","Pueblo","CO","5890 N Elizabeth St","","81008","Point",1030
+"59a47286cfa9a3a73e51e749","Grand Island","NE","3404 W 13th St","","68803","Point",1034
+"59a47286cfa9a3a73e51e74a","Boulder","CO","1740 30th St","","80301","Point",1031
+"59a47286cfa9a3a73e51e74b","Irving","TX","1900 Market Place Blvd","","75063","Point",1032
+"59a47286cfa9a3a73e51e74c","Appleton","WI","2411 S Kensington Dr","","54915","Point",1047
+"59a47286cfa9a3a73e51e74d","Mansfield","TX","2041 Highway 287 N","","76063","Point",1035
+"59a47286cfa9a3a73e51e74e","Elmira","NY","950 County Road 64","","14903","Point",1036
+"59a47286cfa9a3a73e51e74f","West Covina","CA","1800 Plaza Dr.","","91790","Point",102
+"59a47286cfa9a3a73e51e750","Muncy","PA","115 Lycoming Mall Cir","","17756","Point",1039
+"59a47286cfa9a3a73e51e751","City Of Industry","CA","17545 Gale Ave","","91748","Point",103
+"59a47286cfa9a3a73e51e752","Lacey","WA","1240 Marvin Rd Ne","","98516","Point",1043
+"59a47286cfa9a3a73e51e753","Las Vegas","NV","6950 Arroyo Crossing Pkwy","","89113","Point",1044
+"59a47286cfa9a3a73e51e754","Mountain View","CA","2460 E Charleston Rd","","94043","Point",1045
+"59a47286cfa9a3a73e51e755","Eagan","MN","1235 Town Centre Dr","Ste F1","55123","Point",1055
+"59a47286cfa9a3a73e51e756","Kalispell","MT","2407 Highway 93 N","","59901","Point",1016
+"59a47286cfa9a3a73e51e757","Homewood","IL","17800 S Halsted St","","60430","Point",1048
+"59a47286cfa9a3a73e51e758","Avon","OH","1600 Center Rd","","44011","Point",1050
+"59a47286cfa9a3a73e51e759","Peachtree City","GA","2703 Hwy 54","","30269","Point",1049
+"59a47286cfa9a3a73e51e75a","Durham","NC","7001 Fayetteville Rd","","27713","Point",1051
+"59a47286cfa9a3a73e51e75b","Plover","WI","1145 Commons Cir","","54467","Point",1052
+"59a47286cfa9a3a73e51e75c","Hawthorne","CA","5000 W 147th St","","90250","Point",104
+"59a47286cfa9a3a73e51e75d","Hanover","MD","7000 Arundel Mills Circle","Ste F1","21076","Point",1053
+"59a47286cfa9a3a73e51e75e","Brentwood","CA","6600 Lone Tree Way","","94513","Point",1046
+"59a47286cfa9a3a73e51e75f","Mt Juliet","TN","401 S Mt Juliet Rd","","37122","Point",1064
+"59a47286cfa9a3a73e51e760","Mesa","AZ","1628 S Signal Butte Rd","","85209","Point",1056
+"59a47286cfa9a3a73e51e761","Gresham","OR","1148 Nw Norman Ave","","97030","Point",1058
+"59a47286cfa9a3a73e51e762","Hixson","TN","5591 Hwy 153","","37343","Point",1070
+"59a47286cfa9a3a73e51e763","Marina","CA","101 General Stillwell Dr","","93933","Point",1061
+"59a47286cfa9a3a73e51e764","Minot","ND","1018 24th Ave SW","","58701","Point",1063
+"59a47286cfa9a3a73e51e765","Tinley Park","IL","7330 191st St","","60477","Point",1066
+"59a47286cfa9a3a73e51e766","Temecula","CA","32937 Temecula Parkway 79","","92592","Point",1076
+"59a47286cfa9a3a73e51e767","Trumbull","CT","100 Hawley Ln","","06611","Point",1067
+"59a47286cfa9a3a73e51e768","Sierra Vista","AZ","2200 El Mercado Loop","","85635","Point",1077
+"59a47286cfa9a3a73e51e769","Rancho Cucamonga","CA","12260 Foothill Blvd","","91739","Point",105
+"59a47286cfa9a3a73e51e76a","Lawrence","NY","345 Rockaway Tpke","","11559","Point",1069
+"59a47286cfa9a3a73e51e76b","Quincy","IL","6020 Broadway St","","62305","Point",1073
+"59a47286cfa9a3a73e51e76c","Gainesville","GA","670 Dawsonville Hwy","","30501","Point",1071
+"59a47286cfa9a3a73e51e76d","Spring","TX","19503 Interstate 45","","77388","Point",1072
+"59a47286cfa9a3a73e51e76e","Winchester","VA","601 East Jubal Early Dr","","22601","Point",1086
+"59a47286cfa9a3a73e51e76f","Longmont","CO","210 Ken Pratt Blvd","","80501","Point",1079
+"59a47286cfa9a3a73e51e770","Everett","MA","162 Santilli Hwy","","02149","Point",1088
+"59a47286cfa9a3a73e51e771","Nampa","ID","16485 N Marketplace Blvd","","83687","Point",1078
+"59a47286cfa9a3a73e51e772","Torrance","CA","3675 Pacific Coast Hwy","","90505","Point",107
+"59a47286cfa9a3a73e51e773","San Antonio","TX","3142 SE Military Dr","","78235","Point",1081
+"59a47286cfa9a3a73e51e774","San Antonio","TX","2003 N Loop 1604 E","","78232","Point",1082
+"59a47286cfa9a3a73e51e775","Lake Charles","LA","715 W Prien Lake Rd","","70601","Point",1080
+"59a47286cfa9a3a73e51e776","Bee Cave","TX","12909 Shops Pkwy","","78738","Point",1083
+"59a47286cfa9a3a73e51e777","Carmel","IN","10025 N Michigan Rd","","46032","Point",1094
+"59a47286cfa9a3a73e51e778","Chesterfield","MI","50400 Waterside Dr","","48051","Point",1095
+"59a47286cfa9a3a73e51e779","Grove City","OH","1632 Stringtown Rd","","43123","Point",1096
+"59a47286cfa9a3a73e51e77a","Oxford","AL","1100 Oxford Exchange Blvd","","36203","Point",1097
+"59a47286cfa9a3a73e51e77b","Palmdale","CA","39330 10th St W","","93551","Point",106
+"59a47286cfa9a3a73e51e77c","Watertown","NY","21085 Salmon Run Mall Loop W","","13601","Point",1089
+"59a47286cfa9a3a73e51e77d","Victorville","CA","12133 Mall Blvd","","92392","Point",108
+"59a47286cfa9a3a73e51e77e","Plattsburgh","NY","60 Smithfield Blvd","","12901","Point",1091
+"59a47286cfa9a3a73e51e77f","Bayamon","PR","60 Ave Rio Hondo","Ste 60","00961","Point",1090
+"59a47286cfa9a3a73e51e780","Los Angeles","CA","11301 W Pico Blvd","","90064","Point",109
+"59a47286cfa9a3a73e51e781","Strongsville","OH","16630 Royalton Road","","44136","Point",1099
+"59a47286cfa9a3a73e51e782","Manhattan","KS","329 Tuttle Creek Blvd","","66502","Point",1101
+"59a47286cfa9a3a73e51e783","Papillion","NE","7949 Towne Center Pkwy","","68046","Point",1093
+"59a47286cfa9a3a73e51e784","Portland","OR","2055 N Tomahawk Island Drive","","97217","Point",1104
+"59a47286cfa9a3a73e51e785","Washington","DC","3100 14th St Nw","","20010","Point",1092
+"59a47286cfa9a3a73e51e786","Maplewood","MN","1795 County Rd D E","","55109","Point",10
+"59a47286cfa9a3a73e51e787","Willmar","MN","2323 1st St S","","56201","Point",1106
+"59a47286cfa9a3a73e51e788","Charlotte","NC","14125 River Gate Pkwy","","28273","Point",1107
+"59a47286cfa9a3a73e51e789","Avondale","AZ","10035 W Mcdowell Rd","","85323","Point",1109
+"59a47286cfa9a3a73e51e78a","Charlotte","NC","1055 Metropolitan Ave","","28204","Point",1108
+"59a47286cfa9a3a73e51e78b","Jefferson City","MO","3225 Missouri Blvd","","65109","Point",1102
+"59a47286cfa9a3a73e51e78c","El Centro","CA","2901 S Dogwood Rd","","92243","Point",1113
+"59a47286cfa9a3a73e51e78d","Flushing","NY","13107 40th Road c300","","11354","Point",1115
+"59a47286cfa9a3a73e51e78e","York","PA","2865 Concord Rd","","17402","Point",1087
+"59a47286cfa9a3a73e51e78f","Beaufort","SC","332-A Robert Smalls Pkwy","","29906","Point",1110
+"59a47286cfa9a3a73e51e790","Signal Hill","CA","2701 Cherry Ave","","90755","Point",1119
+"59a47286cfa9a3a73e51e791","Rosedale","MD","8645 Pulaski Hwy","","21237","Point",1057
+"59a47286cfa9a3a73e51e792","Bristol","VA","16680 Highlands Center Dr","","24202","Point",1085
+"59a47286cfa9a3a73e51e793","Riverside","CA","3900 Tyler St","","92503","Point",110
+"59a47286cfa9a3a73e51e794","Flagstaff","AZ","5005 E Marketplace Dr","","86004","Point",1084
+"59a47286cfa9a3a73e51e795","Dorchester","MA","14 Allstate Rd","","02125","Point",1126
+"59a47286cfa9a3a73e51e796","Charleston","SC","1987 Sam Rittenberg Blvd","","29407","Point",1120
+"59a47286cfa9a3a73e51e797","Owensboro","KY","5101 Frederica St","","42301","Point",1121
+"59a47286cfa9a3a73e51e798","San Juan","PR","230 Calle Federico Costa Hato Rey","","00918","Point",1118
+"59a47286cfa9a3a73e51e799","Westminster","CA","500 Westminster Mall Rd","","92683","Point",111
+"59a47286cfa9a3a73e51e79a","Bourbonnais","IL","1584 N State Route 50","","60914","Point",1123
+"59a47286cfa9a3a73e51e79b","Cherry Hill","NJ","2130 Route 70 W","","08002","Point",1098
+"59a47286cfa9a3a73e51e79c","San Francisco","CA","2675 Geary Blvd","Suite 300","94118","Point",1125
+"59a47286cfa9a3a73e51e79d","Grand Junction","CO","585 24 1/2 Rd","","81505","Point",1124
+"59a47286cfa9a3a73e51e79e","DeWitt","NY","3401 Erie Blvd E","","13214","Point",1127
+"59a47286cfa9a3a73e51e79f","Tucson","AZ","5311 S Calle Santa Cruz","","85706","Point",1112
+"59a47286cfa9a3a73e51e7a0","Vallejo","CA","1182 Admiral Callaghan Lane","","94591","Point",1128
+"59a47286cfa9a3a73e51e7a1","Wheaton","MD","10901 Georgia Ave","","20902","Point",1129
+"59a47286cfa9a3a73e51e7a2","Thousand Oaks","CA","390 N Moorpark Rd","","91360","Point",112
+"59a47286cfa9a3a73e51e7a3","Nashville","TN","6810 Charlotte Pike","","37209","Point",1130
+"59a47286cfa9a3a73e51e7a4","Buffalo","NY","3701 Mckinley Pkwy","","14219","Point",1131
+"59a47286cfa9a3a73e51e7a5","Bradenton","FL","4210 14th St W","","34205","Point",1141
+"59a47286cfa9a3a73e51e7a6","Concord","NC","6390 Bayfield Pkwy","","28027","Point",1132
+"59a47286cfa9a3a73e51e7a7","Aurora","CO","3511 N Salida Ct","","80011","Point",1134
+"59a47286cfa9a3a73e51e7a8","Coral Springs","FL","650 N University Dr","","33071","Point",1136
+"59a47286cfa9a3a73e51e7a9","Fort Myers","FL","10033 Gulf Center Dr","","33913","Point",1135
+"59a47286cfa9a3a73e51e7aa","Howell","NJ","4250 Route 9","","07731","Point",1137
+"59a47286cfa9a3a73e51e7ab","Topsham","ME","105 Topsham Fair Mall Rd","","04086","Point",1138
+"59a47286cfa9a3a73e51e7ac","Fullerton","CA","120 E Imperial Hwy","","92835","Point",114
+"59a47286cfa9a3a73e51e7ad","Mansfield","MA","280 School St","","02048","Point",1140
+"59a47286cfa9a3a73e51e7ae","Chicago","IL","555 W Roosevelt Rd","","60607","Point",1142
+"59a47286cfa9a3a73e51e7af","Mooresville","NC","633 River Hwy","","28117","Point",1133
+"59a47286cfa9a3a73e51e7b0","Oro Valley","AZ","11855 N Oracle Rd","","85737","Point",1143
+"59a47286cfa9a3a73e51e7b1","Santee","CA","9680 Mission Gorge Rd","","92071","Point",1145
+"59a47286cfa9a3a73e51e7b2","Baton Rouge","LA","1977 Millerville Rd","","70816","Point",1157
+"59a47286cfa9a3a73e51e7b3","Kohler","WI","3600 County Trunk Hwy A","","53044","Point",1147
+"59a47286cfa9a3a73e51e7b4","Christiansburg","VA","105 Shoppers Way","","24073","Point",1149
+"59a47286cfa9a3a73e51e7b5","Rogers","AR","2220 Promenade Blvd","","72758","Point",1148
+"59a47286cfa9a3a73e51e7b6","Santa Clarita","CA","26531 Bouquet Canyon Rd","","91350","Point",113
+"59a47286cfa9a3a73e51e7b7","Cheektowaga","NY","1 Galleria Dr","J107","14225","Point",1152
+"59a47286cfa9a3a73e51e7b8","Austin","TX","1201 Barbara Jordan Blvd","","78723","Point",1153
+"59a47286cfa9a3a73e51e7b9","Monmouth Jct","NJ","4180 Us Hwy 1","Ste 400C","08852","Point",1154
+"59a47286cfa9a3a73e51e7ba","Charlotte","NC","10221 Perimeter Pkwy","","28216","Point",1155
+"59a47286cfa9a3a73e51e7bb","Winter Garden","FL","3367 Daniels Rd","","34787","Point",1156
+"59a47286cfa9a3a73e51e7bc","Wellington","FL","1040 S State Road 7","","33414","Point",1168
+"59a47286cfa9a3a73e51e7bd","Canoga Park","CA","21601 Victory Blvd","","91303","Point",116
+"59a47286cfa9a3a73e51e7be","Murrieta","CA","25080 Madison Ave","","92562","Point",115
+"59a47286cfa9a3a73e51e7bf","Houston","TX","13238 Northwest Fwy","","77040","Point",1160
+"59a47286cfa9a3a73e51e7c0","Tarentum","PA","1015 Village Center Drive","","15084","Point",1164
+"59a47286cfa9a3a73e51e7c1","Alabaster","AL","100 S Colonial Dr","","35007","Point",1162
+"59a47286cfa9a3a73e51e7c2","Mchenry","IL","3200 Shoppers Dr","","60050","Point",1166
+"59a47286cfa9a3a73e51e7c3","Northbrook","IL","1072 Willow Road","","60062","Point",1165
+"59a47286cfa9a3a73e51e7c4","Marysville","OH","770 Colemans Crossing Blvd","","43040","Point",1167
+"59a47286cfa9a3a73e51e7c5","Algonquin","IL","1561 S Randall Rd","","60102","Point",1169
+"59a47286cfa9a3a73e51e7c6","West Jordan","UT","7643 Jordan Landing Blvd","","84084","Point",1146
+"59a47286cfa9a3a73e51e7c7","Acworth","GA","3335 Cobb Pkwy Nw","","30101","Point",1159
+"59a47286cfa9a3a73e51e7c8","Oswego","IL","2600 Us Hwy 34","","60543","Point",1170
+"59a47286cfa9a3a73e51e7c9","Centennial","CO","6707 S Vine St","Ste. D","80122","Point",1171
+"59a47286cfa9a3a73e51e7ca","Bronx","NY","610 Exterior Street","","10451","Point",1172
+"59a47286cfa9a3a73e51e7cb","Gulfport","MS","10545 Hwy 49","","39503","Point",1174
+"59a47286cfa9a3a73e51e7cc","Manahawkin","NJ","215 Stafford Park Blvd","","08050","Point",1177
+"59a47286cfa9a3a73e51e7cd","Florida City","FL","33590 S Dixie Hwy","","33034","Point",1178
+"59a47286cfa9a3a73e51e7ce","Cerritos","CA","12989 Park Plaza Dr","","90703","Point",117
+"59a47286cfa9a3a73e51e7cf","Northridge","CA","19350 #B Nordhoff Way","","91324","Point",1180
+"59a47286cfa9a3a73e51e7d0","Liverpool","NY","3967 State Route 31","","13090","Point",1183
+"59a47286cfa9a3a73e51e7d1","Warner Robins","GA","3040 Watson Blvd","","31093","Point",1185
+"59a47286cfa9a3a73e51e7d2","Davenport","FL","6300 Grandview Pkwy","","33837","Point",1184
+"59a47286cfa9a3a73e51e7d3","Canton","GA","1810 Cumming Hwy","Suite 600","30114","Point",1186
+"59a47286cfa9a3a73e51e7d4","Encinitas","CA","1046 N El Camino Real","","92024","Point",1187
+"59a47286cfa9a3a73e51e7d5","Clovis","CA","655 W Herndon Ave","","93612","Point",1188
+"59a47286cfa9a3a73e51e7d6","Gilbert","AZ","2288 E Williams Field Rd","","85295","Point",1189
+"59a47286cfa9a3a73e51e7d7","Auburn","CA","1760 Grass Valley Highway","","95603","Point",1190
+"59a47286cfa9a3a73e51e7d8","Oxnard","CA","2300 N Rose Ave","","93036","Point",118
+"59a47286cfa9a3a73e51e7d9","Kenosha","WI","11840 71st St","","53142","Point",1191
+"59a47286cfa9a3a73e51e7da","Grafton","WI","1070 N Port Washington Rd","","53024","Point",1192
+"59a47286cfa9a3a73e51e7db","Collegeville","PA","400 Front Street","","19426","Point",1193
+"59a47286cfa9a3a73e51e7dc","Greeley","CO","4210 Centerplace Dr","","80634","Point",1194
+"59a47286cfa9a3a73e51e7dd","Lancaster","PA","1801 Hempstead Road","","17601","Point",1197
+"59a47286cfa9a3a73e51e7de","Richmond","IN","3720 National Road E","","47374","Point",1252
+"59a47286cfa9a3a73e51e7df","Davie","FL","2200 S University Dr","","33324","Point",1258
+"59a47286cfa9a3a73e51e7e0","Costa Mesa","CA","901 S Coast Dr","Ste F","92626","Point",119
+"59a47286cfa9a3a73e51e7e1","Santa Rosa","CA","1950 Santa Rosa Ave","","95407","Point",120
+"59a47286cfa9a3a73e51e7e2","Blaine","MN","300 Northtown Dr Ne","","55434","Point",11
+"59a47286cfa9a3a73e51e7e3","Fresno","CA","7550 N Blackstone Ave","","93720","Point",121
+"59a47286cfa9a3a73e51e7e4","Lakewood","CO","384 S. Wadsworth Blvd","","80226","Point",1224
+"59a47286cfa9a3a73e51e7e5","Issaquah","WA","6000 E Lake Sammamish Parkway SE","","98027","Point",1220
+"59a47286cfa9a3a73e51e7e6","Las Vegas","NV","2050 N Rainbow Blvd","","89108","Point",122
+"59a47286cfa9a3a73e51e7e7","Palm Desert","CA","72369 Highway 111","","92260","Point",124
+"59a47286cfa9a3a73e51e7e8","Tucson","AZ","575 E Wetmore Rd","","85705","Point",123
+"59a47286cfa9a3a73e51e7e9","Orange","CA","2375 N Tustin St","","92865","Point",1198
+"59a47286cfa9a3a73e51e7ea","Northridge","CA","19929 Rinaldi St","","91326","Point",130
+"59a47286cfa9a3a73e51e7eb","Pasadena","CA","3415 E Foothill Blvd","","91107","Point",125
+"59a47286cfa9a3a73e51e7ec","Charleston","WV","39 RHL Blvd","","25309","Point",1266
+"59a47286cfa9a3a73e51e7ed","Johnstown","PA","430 Town Centre Dr","","15904","Point",1267
+"59a47286cfa9a3a73e51e7ee","Yorba Linda","CA","23000 Savi Ranch Pkwy","","92885","Point",126
+"59a47286cfa9a3a73e51e7ef","Lakewood","CA","5101 Clark Ave","","90712","Point",127
+"59a47286cfa9a3a73e51e7f0","Burbank","CA","1501 N Victory Pl","","91504","Point",137
+"59a47286cfa9a3a73e51e7f1","Reno","NV","5575 S Virginia St","","89502","Point",128
+"59a47286cfa9a3a73e51e7f2","Roseville","CA","1236 Galleria Blvd","","95678","Point",129
+"59a47286cfa9a3a73e51e7f3","Montclair","CA","8960 Central Ave","","91763","Point",131
+"59a47286cfa9a3a73e51e7f4","Fairfax","VA","9652 Main Street","","22031","Point",1199
+"59a47286cfa9a3a73e51e7f5","Sacramento","CA","1901 Arden Way","","95815","Point",133
+"59a47286cfa9a3a73e51e7f6","Dublin","CA","4820 Dublin Blvd","","94568","Point",134
+"59a47286cfa9a3a73e51e7f7","Hammond","LA","2020 Hammond Square Dr","","70403","Point",1388
+"59a47286cfa9a3a73e51e7f8","Pinole","CA","1490 Fitzgerald Rd","","94564","Point",138
+"59a47286cfa9a3a73e51e7f9","Saint Cloud","MN","4130 W Division St","","56301","Point",12
+"59a47286cfa9a3a73e51e7fa","Vestal","NY","3209 Vestal Parkway East","","13850","Point",1380
+"59a47286cfa9a3a73e51e7fb","Chicago","IL","875 N Michigan Ave","","60611","Point",1381
+"59a47286cfa9a3a73e51e7fc","Farragut","TN","11491 Parkside Dr","","37934","Point",1382
+"59a47286cfa9a3a73e51e7fd","Spring Hill","FL","1389 Wendy Court","","34607","Point",1383
+"59a47286cfa9a3a73e51e7fe","Waynesville","NC","45 Plaza PL","","28786-6875","Point",1385
+"59a47286cfa9a3a73e51e7ff","La Mesa","CA","8401 Fletcher Pkwy","","91942","Point",1386
+"59a47286cfa9a3a73e51e800","New Braunfels","TX","187 Creekside Way","","78130","Point",1387
+"59a47286cfa9a3a73e51e801","Fargo","ND","1615 38th St S","","58103","Point",13
+"59a47286cfa9a3a73e51e802","Fairfield","CA","1547 Gateway Blvd","","94533","Point",136
+"59a47286cfa9a3a73e51e803","Easton","PA","4413 Birkland Place","","18045","Point",1403
+"59a47286cfa9a3a73e51e804","Monroe","NY","128 Bailey Farm Rd","","10950","Point",1394
+"59a47286cfa9a3a73e51e805","Quakertown","PA","646 N West End Blvd","","18951","Point",1395
+"59a47286cfa9a3a73e51e806","Woodland","CA","2165 Bronze Star Dr.","","95776-5406","Point",1396
+"59a47286cfa9a3a73e51e807","Humble","TX","19125 W. Lake Houston Pkwy","","77346","Point",1397
+"59a47286cfa9a3a73e51e808","Memphis","TN","5821 Poplar Ave","","38119","Point",1399
+"59a47286cfa9a3a73e51e809","Rochester","NY","2833 W Ridge Rd","","14626","Point",1400
+"59a47286cfa9a3a73e51e80a","Pleasant Hill","CA","3260 Buskirk Ave","","94523","Point",135
+"59a47286cfa9a3a73e51e80b","American Fork","UT","763 W Grasslands Dr","","84003","Point",1402
+"59a47286cfa9a3a73e51e80c","Owasso","OK","9055 N 121st East Ave","","74055","Point",1401
+"59a47286cfa9a3a73e51e80d","Goleta","CA","7090 Market Place Dr","","93117","Point",1391
+"59a47286cfa9a3a73e51e80e","Rosenberg","TX","24230 Commercial Dr","","77471","Point",1404
+"59a47286cfa9a3a73e51e80f","Wesley Chapel","FL","5947 Wesley Grove Blvd","","33544","Point",1405
+"59a47286cfa9a3a73e51e810","Allen Park","MI","3349 Fairlane Dr","","48101","Point",1406
+"59a47286cfa9a3a73e51e811","Menifee","CA","30178 Haun Rd","","92584","Point",1409
+"59a47286cfa9a3a73e51e812","Milford","MA","208 Fortune Blvd","","01757","Point",1407
+"59a47286cfa9a3a73e51e813","San Carlos","CA","1127 Industrial Rd","","94070","Point",140
+"59a47286cfa9a3a73e51e814","Cumming","GA","2085 Market Place Blvd","","30041","Point",1408
+"59a47286cfa9a3a73e51e815","Parker","CO","11267 Pikes Peak Dr","","80138","Point",1410
+"59a47286cfa9a3a73e51e816","Kissimmee","FL","1620 W Osceola Pkwy","","34741","Point",1411
+"59a47286cfa9a3a73e51e817","Garland","TX","3171 N George Bush Fwy","","75040","Point",1412
+"59a47286cfa9a3a73e51e818","Cypress","TX","25525 Highway 290","","77429","Point",1413
+"59a47286cfa9a3a73e51e819","Marysville","WA","16924 Twin Lakes Ave","","98271","Point",1415
+"59a47286cfa9a3a73e51e81a","Rockwall","TX","995 E I-30","","75087","Point",1417
+"59a47286cfa9a3a73e51e81b","Denver","CO","104 W 104th Ave","","80234","Point",1416
+"59a47286cfa9a3a73e51e81c","Oklahoma City","OK","6421 Sw 3rd St","","73128","Point",1419
+"59a47286cfa9a3a73e51e81d","Auburn","ME","649 Turner St","","04210","Point",1420
+"59a47286cfa9a3a73e51e81e","Modesto","CA","3900 Sisk Rd Ste B","","95356","Point",141
+"59a47286cfa9a3a73e51e81f","Las Vegas","NV","6455 N Decatur Blvd","","89131","Point",1421
+"59a47286cfa9a3a73e51e820","San Jose","CA","181 Curtner Ave","","95125","Point",1423
+"59a47286cfa9a3a73e51e821","Margate","FL","3300 Nw 62nd Ave","","33063","Point",1424
+"59a47286cfa9a3a73e51e822","Tualatin","OR","7041 Sw Nyberg St","","97062","Point",1422
+"59a47286cfa9a3a73e51e823","Murfreesboro","TN","2615 Medical Center Pkwy","","37129","Point",1425
+"59a47286cfa9a3a73e51e824","Edwardsville","IL","6670 Edwardsville Crossing Drive","","62025","Point",1426
+"59a47286cfa9a3a73e51e825","Midwest City","OK","7231 SE 29th St","","73110","Point",1427
+"59a47286cfa9a3a73e51e826","Perrysburg","OH","10017 Fremont Pike","","43551","Point",1429
+"59a47286cfa9a3a73e51e827","Milpitas","CA","63 Ranch Ave","","95035","Point",142
+"59a47286cfa9a3a73e51e828","Summerville","SC","321 Azalea Square Blvd","","29483","Point",1428
+"59a47286cfa9a3a73e51e829","Compton","CA","230 Towne Center Dr","","90220","Point",1432
+"59a47286cfa9a3a73e51e82a","Wentzville","MO","1283 W Pearce Blvd","","63385","Point",1434
+"59a47286cfa9a3a73e51e82b","Leominster","MA","33 Orchard Hill Park Dr","","01453","Point",1433
+"59a47286cfa9a3a73e51e82c","Owings Mills","MD","10400 Owings Mills Blvd","","21117","Point",1436
+"59a47286cfa9a3a73e51e82d","Midlothian","VA","4931 Commonwealth Centre Pkwy","","23112","Point",1437
+"59a47286cfa9a3a73e51e82e","Conway","AR","600 Elsinger Blvd","","72032","Point",1438
+"59a47286cfa9a3a73e51e82f","Chesterfield","MO","178 Thf Blvd","","63005","Point",143
+"59a47286cfa9a3a73e51e830","Meridian","MS","133 S Frontage Rd","","39301","Point",1439
+"59a47286cfa9a3a73e51e831","Stroudsburg","PA","300 Shoppes Stroud","","18360","Point",1442
+"59a47286cfa9a3a73e51e832","Beaumont","CA","1650 2nd St","","92223","Point",1441
+"59a47286cfa9a3a73e51e833","Blaine","MN","10985 Ulysses St Ne","","55434","Point",1443
+"59a47286cfa9a3a73e51e834","Williamsburg","VA","210 Whittakers Trace","","23185","Point",1444
+"59a47286cfa9a3a73e51e835","Hagerstown","MD","18053 Garland Groh Blvd","","21740","Point",1445
+"59a47286cfa9a3a73e51e836","Fultondale","AL","3453 Lowery Pkwy","","35068","Point",1446
+"59a47286cfa9a3a73e51e837","Southaven","MS","304 Market Plz","","38671","Point",1447
+"59a47286cfa9a3a73e51e838","New York","NY","1880 Broadway","","10023","Point",1448
+"59a47286cfa9a3a73e51e839","Gainesville","VA","13093 Gateway Center Dr","","20155","Point",1449
+"59a47286cfa9a3a73e51e83a","Morehead City","NC","5171 US Highway 70 W","","28557","Point",1451
+"59a47286cfa9a3a73e51e83b","Union City","CA","31350 Courthouse Dr","","94587","Point",144
+"59a47286cfa9a3a73e51e83c","Raleigh","NC","7980 Skyland Ridge Pkwy","","27617","Point",1453
+"59a47286cfa9a3a73e51e83d","Sarasota","FL","135 N Cattleman Rd","","34243","Point",1452
+"59a47286cfa9a3a73e51e83e","Beaverton","OR","8905 SW Cascade Ave","","97008","Point",1454
+"59a47286cfa9a3a73e51e83f","Temple","TX","3550 S General Bruce Dr","","76504","Point",1457
+"59a47286cfa9a3a73e51e840","Lake Jackson","TX","104 Highway 332 E","Ste 200","77566","Point",1458
+"59a47286cfa9a3a73e51e841","San Antonio","TX","5419 W Loop 1604 N","","78253","Point",1459
+"59a47286cfa9a3a73e51e842","Buffalo","NY","4401 Transit Rd","","14221","Point",1455
+"59a47286cfa9a3a73e51e843","New Orleans","LA","1138 S Clearview Pkwy","","70123","Point",1456
+"59a47286cfa9a3a73e51e844","Heath","OH","701 Hebron Rd","","43056","Point",145
+"59a47286cfa9a3a73e51e845","Virginia Beach","VA","3334 Princess Anne Rd","","23456","Point",1460
+"59a47286cfa9a3a73e51e846","Taunton","MA","2 Galleria Mall Dr","","02780","Point",1461
+"59a47286cfa9a3a73e51e847","Bossier City","LA","2641 Beene Blvd","","71111","Point",1462
+"59a47286cfa9a3a73e51e848","Shakopee","MN","8100 Old Carriage Ct","","55379","Point",1463
+"59a47286cfa9a3a73e51e849","Mechanicsville","VA","7297 Battle Hill Dr","","23111","Point",1465
+"59a47286cfa9a3a73e51e84a","Augusta","ME","14 Crossing Way","Suite 4","04330","Point",1464
+"59a47286cfa9a3a73e51e84b","Lexington","SC","5135 Sunset Blvd","","29072","Point",1466
+"59a47286cfa9a3a73e51e84c","West Simsbury","CT","44a Albany Tpke","","06092","Point",1468
+"59a47286cfa9a3a73e51e84d","Baldwin","NY","660 Sunrise Hwy","","11510","Point",1467
+"59a47286cfa9a3a73e51e84e","Sterling","VA","45575 Dulles Eastern Plz","Ste 188","20165","Point",146
+"59a47286cfa9a3a73e51e84f","El Paso","TX","1834 Joe Battle Blvd","","79936","Point",1470
+"59a47286cfa9a3a73e51e850","League City","TX","2510 Gulf Fwy S","","77573","Point",1469
+"59a47286cfa9a3a73e51e851","McAllen","TX","8012 N 10th St","","78504","Point",1473
+"59a47286cfa9a3a73e51e852","Cincinnati","OH","9845 Colerain Ave","","45251","Point",1474
+"59a47286cfa9a3a73e51e853","Jacksonville","FL","13141 City Station Dr","","32218","Point",1475
+"59a47286cfa9a3a73e51e854","Stafford","VA","1455 Stafford Market Pl","","22556","Point",1476
+"59a47286cfa9a3a73e51e855","Lexington","KY","1979 Pavillion Wy","","40509","Point",1477
+"59a47286cfa9a3a73e51e856","Mechanicsburg","PA","6416 Carlisle Pike","","17050","Point",1478
+"59a47286cfa9a3a73e51e857","Cary","NC","237 Crossroads Blvd","","27518","Point",147
+"59a47286cfa9a3a73e51e858","Newark","DE","1281 Churchmans Rd","","19713","Point",1480
+"59a47286cfa9a3a73e51e859","Hiram","GA","5025 Jimmy Lee Smith Pkwy","","30141","Point",1486
+"59a47286cfa9a3a73e51e85a","Phoenix","AZ","2440 W Happy Valley Rd","","85085","Point",1481
+"59a47286cfa9a3a73e51e85b","Lake Geneva","WI","700 N Edwards Blvd","","53147","Point",1489
+"59a47286cfa9a3a73e51e85c","Apple Valley","CA","18811 Bear Valley Rd","","92308","Point",1482
+"59a47286cfa9a3a73e51e85d","Grapevine","TX","1515 W State Hwy 114","","76051","Point",148
+"59a47287cfa9a3a73e51e85e","North Haven","CT","398 Universal Dr N","","06473","Point",1488
+"59a47287cfa9a3a73e51e85f","Knightdale","NC","214 Hinton Oaks Blvd","","27545","Point",1492
+"59a47287cfa9a3a73e51e860","Hillsboro","OR","18085 Nw Evergreen Pkwy","","97006","Point",1491
+"59a47287cfa9a3a73e51e861","Fort Worth","TX","9581 Sage Meadow Trail","","76177","Point",1494
+"59a47287cfa9a3a73e51e862","Carolina","PR","Villa Fontana","","00983","Point",1496
+"59a47287cfa9a3a73e51e863","Timonium","MD","1717 York Rd","","21093","Point",149
+"59a47287cfa9a3a73e51e864","Tulsa","OK","7308 S Olympia Ave","","74132","Point",1499
+"59a47287cfa9a3a73e51e865","Miami Beach","FL","1131 5th Street","","33139","Point",1498
+"59a47287cfa9a3a73e51e866","Rochester","MN","4050 Hwy 52 N","","55901","Point",14
+"59a47287cfa9a3a73e51e867","Kansas City","MO","9130 N Skyview Ave","","64154","Point",1501
+"59a47287cfa9a3a73e51e868","Vauxhall","NJ","2255 Springfield Ave","","07088","Point",1506
+"59a47287cfa9a3a73e51e869","Miami","FL","10760 Nw 17th St","","33172","Point",1502
+"59a47287cfa9a3a73e51e86a","Miami","FL","11905 S Dixie Hwy","","33156","Point",1503
+"59a47287cfa9a3a73e51e86b","Monroe","LA","4429 Pecanland Mall Dr","","71203","Point",1507
+"59a47287cfa9a3a73e51e86c","Riverbank","CA","2339 Claribel Rd","","95367","Point",1509
+"59a47287cfa9a3a73e51e86d","San Bernardino","CA","888 Harriman Pl","","92408","Point",150
+"59a47287cfa9a3a73e51e86e","Odessa","TX","6300 E Highway 191","","79762","Point",1526
+"59a47287cfa9a3a73e51e86f","Culver City","CA","6000 Sepulveda Blvd.","","90230","Point",1510
+"59a47287cfa9a3a73e51e870","Wichita","KS","2441 North Maize Rd","","67205","Point",1513
+"59a47287cfa9a3a73e51e871","Ankeny","IA","1955 SE Delaware Ave","","50021","Point",1512
+"59a47287cfa9a3a73e51e872","Hutchinson","MN","1350 Highway 15 South","","55350","Point",1514
+"59a47287cfa9a3a73e51e873","Columbia","SC","10136 Two Notch Rd","Ste. 109D","29229","Point",1515
+"59a47287cfa9a3a73e51e874","Bastrop","TX","761 Hwy 71 W","","78602","Point",1516
+"59a47287cfa9a3a73e51e875","Richmond","TX","5340 West Grand Parkway South","","77406","Point",1517
+"59a47287cfa9a3a73e51e876","Brooklyn","NY","5102 Avenue U","Ste 0171","11234","Point",1520
+"59a47287cfa9a3a73e51e877","Madison","MS","175 Grandview Blvd","","39110","Point",1519
+"59a47287cfa9a3a73e51e878","Pacoima","CA","13510 West Paxton St","","91331","Point",1511
+"59a47287cfa9a3a73e51e879","Martinsburg","WV","276 Retail Commons Parkway","","25403","Point",1528
+"59a47287cfa9a3a73e51e87a","Casper","WY","601 SE Wyoming Blvd","","82609","Point",1527
+"59a47287cfa9a3a73e51e87b","San Antonio","TX","6001 NW Loop 410","","78238","Point",152
+"59a47287cfa9a3a73e51e87c","Orlando","FL","4155 Millenia Blvd","","32839","Point",1530
+"59a47287cfa9a3a73e51e87d","New York","NY","52 E 14th St","#64","10003","Point",1531
+"59a47287cfa9a3a73e51e87e","Burlington","MA","84 Middlesex Turnpike","","01803","Point",1532
+"59a47287cfa9a3a73e51e87f","San Diego","CA","11160 Rancho Carmel Drive","","92128","Point",1533
+"59a47287cfa9a3a73e51e880","Harrisonburg","VA","259 Burgess Rd","","22801","Point",1534
+"59a47287cfa9a3a73e51e881","Jersey City","NJ","125 18th Street","","07310","Point",1535
+"59a47287cfa9a3a73e51e882","Greensboro","NC","1701 South 40 Drive","","27407","Point",155
+"59a47287cfa9a3a73e51e883","Phillipsburg","NJ","1202 New Brunswick Ave","","08865","Point",1538
+"59a47287cfa9a3a73e51e884","Montebello","CA","2415 Via Campo","","90640","Point",1537
+"59a47287cfa9a3a73e51e885","Port Charlotte","FL","18700 Veterans Blvd","Unit 13","33954","Point",1539
+"59a47287cfa9a3a73e51e886","Springdale","OH","865 E Kemper Rd","","45246","Point",153
+"59a47287cfa9a3a73e51e887","Tuscaloosa","AL","1800 McFarland Blvd. E","","35404","Point",1540
+"59a47287cfa9a3a73e51e888","Victor","NY","7550 Commons Blvd","","14564","Point",1541
+"59a47287cfa9a3a73e51e889","Metairie","LA","3780 Veterans Memorial Blvd","","70002","Point",1542
+"59a47287cfa9a3a73e51e88a","Port Arthur","TX","8725 Memorial Blvd","","77640","Point",1545
+"59a47287cfa9a3a73e51e88b","Cincinnati","OH","650 Eastgate South Dr","","45245","Point",154
+"59a47287cfa9a3a73e51e88c","Annapolis","MD","2643 Housley Rd","","21401","Point",163
+"59a47287cfa9a3a73e51e88d","Dublin","OH","5800 Britton Pkwy","","43016","Point",156
+"59a47287cfa9a3a73e51e88e","Orlando","FL","4601 East Colonial Drive","","32803","Point",157
+"59a47287cfa9a3a73e51e88f","Winston Salem","NC","1980 Griffith Rd","","27103","Point",158
+"59a47287cfa9a3a73e51e890","Oakdale","MN","8301 3rd St N","","55128","Point",15
+"59a47287cfa9a3a73e51e891","Nottingham","MD","5200 Campbell Blvd","","21236","Point",159
+"59a47287cfa9a3a73e51e892","Durham","NC","5454 New Hope Commons Dr","","27707","Point",160
+"59a47287cfa9a3a73e51e893","Florence","KY","100 Meijer Dr.","","41042","Point",161
+"59a47287cfa9a3a73e51e894","Cleveland","OH","7400 Brookpark Rd","","44129","Point",162
+"59a47287cfa9a3a73e51e895","Jonesboro","AR","3000 East Highland Drive","Ste 400","72401","Point",1536
+"59a47287cfa9a3a73e51e896","Lone Tree","CO","8682 Park Meadows Center Dr","","80124","Point",164
+"59a47287cfa9a3a73e51e897","Braintree","MA","250 Granite Street","#1098","02184","Point",1658
+"59a47287cfa9a3a73e51e898","North Attleboro","MA","999 South Washington Street","#E131","02760","Point",1667
+"59a47287cfa9a3a73e51e899","Manchester","NH","1500 South Willow Street","#N115","03103","Point",1659
+"59a47287cfa9a3a73e51e89a","Boca Raton","FL","6000 Glades Road","#1097","33431","Point",1660
+"59a47287cfa9a3a73e51e89b","Dallas","TX","13350 Dallas Parkway","#3475","75240","Point",1664
+"59a47287cfa9a3a73e51e89c","Salem","NH","99 Rockingham Park Blvd","#E127B","03079","Point",1663
+"59a47287cfa9a3a73e51e89d","Miami","FL","11401 N.W. 12 Street","STE #117A","33172","Point",1665
+"59a47287cfa9a3a73e51e89e","Cambridge","MA","100 CambridgeSide Place","#W224","02141","Point",1662
+"59a47287cfa9a3a73e51e89f","Memphis","TN","2755 Germantown Pkwy","","38133","Point",165
+"59a47287cfa9a3a73e51e8a0","Towson","MD","825 Dulaney Valley Rd","#3245","21204","Point",1674
+"59a47287cfa9a3a73e51e8a1","Santa Ana","CA","2800 N. Main Street","#272","92705","Point",1673
+"59a47287cfa9a3a73e51e8a2","Burnsville","MN","1178 Burnsville Center","#2057","55306","Point",1679
+"59a47287cfa9a3a73e51e8a3","St. Cloud","MN","4101 West Division Street","#B0019","56301","Point",1677
+"59a47287cfa9a3a73e51e8a4","Mentor","OH","7830 Plaza Blvd","","44060","Point",168
+"59a47287cfa9a3a73e51e8a5","The Woodlands","TX","1550 Lake Woodlands Dr","","77380","Point",167
+"59a47287cfa9a3a73e51e8a6","Fredericksburg","VA","1541 Carl D Silver Pkwy","","22401","Point",166
+"59a47287cfa9a3a73e51e8a7","San Antonio","TX","6301 NW Loop 410","Suite T11","78238","Point",1676
+"59a47287cfa9a3a73e51e8a8","Knoxville","TN","8925 Towne And Country Cir","","37923","Point",169
+"59a47287cfa9a3a73e51e8a9","Memphis","TN","7771 Winchester Rd","","38125","Point",171
+"59a47287cfa9a3a73e51e8aa","Fayetteville","NC","2034 Skibo Rd","","28314","Point",174
+"59a47287cfa9a3a73e51e8ab","Madison","TN","2311 Gallatin Pike N","","37115","Point",172
+"59a47287cfa9a3a73e51e8ac","West Des Moines","IA","4100 University Ave","Ste 240","50265","Point",16
+"59a47287cfa9a3a73e51e8ad","Gastonia","NC","3054 E Franklin Blvd","","28056","Point",175
+"59a47287cfa9a3a73e51e8ae","Brentwood","TN","1600 Galleria Blvd","","37027","Point",170
+"59a47287cfa9a3a73e51e8af","Anchorage","AK","1200 N. Muldoon Rd","Suite G","99504","Point",1760
+"59a47287cfa9a3a73e51e8b0","Lanham","MD","2300 Petrie Lane","","20706","Point",1776
+"59a47287cfa9a3a73e51e8b1","Charlotte","NC","9839 Rea Rd","","28277","Point",1767
+"59a47287cfa9a3a73e51e8b2","Park City","UT","1209 Center Drive","","84098","Point",1761
+"59a47287cfa9a3a73e51e8b3","Downingtown","PA","871 E Lancaster Ave","","19335","Point",1764
+"59a47287cfa9a3a73e51e8b4","Pottstown","PA","Upland Square Drive ","Suite 200","19464","Point",1771
+"59a47287cfa9a3a73e51e8b5","D'Iberville","MS","3889 Promenade Parkway","","39540","Point",1781
+"59a47287cfa9a3a73e51e8b6","Houston","TX","6006 E. Sam Houston Pkwy N","","77049","Point",1768
+"59a47287cfa9a3a73e51e8b7","Fort Worth","TX","5604 SW Loop 820","","76132","Point",176
+"59a47287cfa9a3a73e51e8b8","Duarte","CA","1470 Mountain Ave.","","91010","Point",1782
+"59a47287cfa9a3a73e51e8b9","Lady Lake","FL","552 N Us Hwy 27","","32159","Point",1763
+"59a47287cfa9a3a73e51e8ba","Chicago","IL","3262 W Belmont Ave","","60618","Point",1777
+"59a47287cfa9a3a73e51e8bb","Pflugerville","TX","19000 Limestone Commercial Dr","","78660","Point",1762
+"59a47287cfa9a3a73e51e8bc","Allen","TX","190 E Stacy Rd","","75002","Point",1780
+"59a47287cfa9a3a73e51e8bd","Highland","IN","10243 Indianapolis Blvd","","46322","Point",1774
+"59a47287cfa9a3a73e51e8be","North Aurora","IL","1830 Towne Centre Drive","","60542","Point",1778
+"59a47287cfa9a3a73e51e8bf","Phoenix","AZ","5051 East Ray Rd","","85044","Point",177
+"59a47287cfa9a3a73e51e8c0","Chula Vista","CA","2015 Birch Rd ","Ste 2300","91915","Point",1769
+"59a47287cfa9a3a73e51e8c1","Branson","MO","977 Branson Hills Pkwy","","65616-7470","Point",1793
+"59a47287cfa9a3a73e51e8c2","Prattville","AL","2431 Cobbs Ford Rd","","36066","Point",1785
+"59a47287cfa9a3a73e51e8c3","McAllen","TX","3400 E Expressway 83","","78501","Point",1784
+"59a47287cfa9a3a73e51e8c4","Moore","OK","2700 S Service Rd","","73160","Point",1787
+"59a47287cfa9a3a73e51e8c5","Sparks","NV","1315 Scheels Drive","","89434","Point",1783
+"59a47287cfa9a3a73e51e8c6","Culver City","CA","10799 Washington Blvd","","90232","Point",179
+"59a47287cfa9a3a73e51e8c7","Selinsgrove","PA","110 Marketplace Blvd","","17870","Point",1794
+"59a47287cfa9a3a73e51e8c8","Cedar Park","TX","11066 Pecan Park Blvd","","78613","Point",178
+"59a47287cfa9a3a73e51e8c9","Frisco","TX","5299 Eldorado Pkwy","","75034","Point",1773
+"59a47287cfa9a3a73e51e8ca","San Francisco","CA","1717 Harrison Street","","94103","Point",187
+"59a47287cfa9a3a73e51e8cb","Hot Springs","AR","1462 Higdon Ferry Rd","","71913","Point",1800
+"59a47287cfa9a3a73e51e8cc","Los Angeles","CA","2909 Los Feliz Blvd","","90039","Point",183
+"59a47287cfa9a3a73e51e8cd","Frisco","TX","3333 Preston Rd","Ste 200","75034","Point",180
+"59a47287cfa9a3a73e51e8ce","Selma","TX","8210 Agora Pkwy","","78154","Point",181
+"59a47287cfa9a3a73e51e8cf","Sioux Falls","SD","2101 W 41st St Ste 3","","57105","Point",17
+"59a47287cfa9a3a73e51e8d0","Jacksonville","FL","4873 Town Center Pkwy","","32246","Point",1790
+"59a47287cfa9a3a73e51e8d1","Killeen","TX","3209 E Central Texas Expy","","76543","Point",182
+"59a47287cfa9a3a73e51e8d2","Triadelphia","WV","150 Satterfield Dr","","26059","Point",1798
+"59a47287cfa9a3a73e51e8d3","Laredo","TX","2455 Monarch Dr","","78045","Point",1888
+"59a47287cfa9a3a73e51e8d4","Brooklyn","NY","369 Gateway Drive","","11239","Point",1886
+"59a47287cfa9a3a73e51e8d5","Benton","AR","20815 Interstate 30 S","","72015","Point",1797
+"59a47287cfa9a3a73e51e8d6","El Cajon","CA","149 Fletcher Pkwy","","92020","Point",184
+"59a47287cfa9a3a73e51e8d7","Waxahachie","TX","1168 Hwy 287","","75165","Point",1889
+"59a47287cfa9a3a73e51e8d8","Bronx","NY","402 E. Fordham Rd","","10458","Point",1891
+"59a47287cfa9a3a73e51e8d9","Chula Vista","CA","59 N Broadway","","91910","Point",188
+"59a47287cfa9a3a73e51e8da","Oshkosh","WI","1550 S Koeller St","","54902","Point",1890
+"59a47287cfa9a3a73e51e8db","Eatontown","NJ","50 State Route 36","","07724","Point",1895
+"59a47287cfa9a3a73e51e8dc","Wilson","NC","3401 Raleigh Rd Parkway","Suite 5D","27896","Point",1892
+"59a47287cfa9a3a73e51e8dd","Kingsport","TN","2716 East Stone Drive","","37660","Point",1894
+"59a47287cfa9a3a73e51e8de","San Bruno","CA","1250 El Camino Real","","94066","Point",1896
+"59a47287cfa9a3a73e51e8df","Raleigh","NC","4325 Glenwood Ave","#2015","27612","Point",1900
+"59a47287cfa9a3a73e51e8e0","Onalaska","WI","9420 State Road 16","","54650","Point",18
+"59a47287cfa9a3a73e51e8e1","Manchester","MO","151 Highlands Blvd Dr","","63011","Point",1897
+"59a47287cfa9a3a73e51e8e2","New York","NY","750 Seventh Ave","","10019","Point",1908
+"59a47287cfa9a3a73e51e8e3","El Cajon","CA","415 Parkway Plaza","#Y1","92020","Point",1904
+"59a47287cfa9a3a73e51e8e4","Spartanburg","SC","205 West Blackstock Rd","","29301","Point",1917
+"59a47287cfa9a3a73e51e8e5","Cary","NC","1105 Walnut Street","","27511","Point",1903
+"59a47287cfa9a3a73e51e8e6","Valencia","CA","24201 West Valencia Blvd","#2019","91355","Point",1905
+"59a47287cfa9a3a73e51e8e7","Indianapolis","IN","6020 East 82nd Street","#410C","46250","Point",1910
+"59a47287cfa9a3a73e51e8e8","San Jose","CA","5065 Almaden Expy","","95118","Point",190
+"59a47287cfa9a3a73e51e8e9","Myrtle Beach","SC","2000 Coastal Grand Circle","","29577","Point",1914
+"59a47287cfa9a3a73e51e8ea","Charleston","SC","2150 Northwoods Blvd","","29406","Point",1915
+"59a47287cfa9a3a73e51e8eb","Raleigh","NC","5959 Triangle Town Blvd","Suite 1018","27616","Point",1916
+"59a47287cfa9a3a73e51e8ec","Asheville","NC","3 South Tunnel Road","","28805","Point",1912
+"59a47287cfa9a3a73e51e8ed","New York","NY","2 Union Square","","10003","Point",1906
+"59a47287cfa9a3a73e51e8ee","Silver Spring","MD","11160 Veirs Mill Road","","20902","Point",1929
+"59a47287cfa9a3a73e51e8ef","Chico","CA","2005 Forest Ave","","95928","Point",191
+"59a47287cfa9a3a73e51e8f0","Athens","GA","3700 Atlanta Highway","#100","30606","Point",1920
+"59a47287cfa9a3a73e51e8f1","Vernon Hills","IL","122 Hawthorn Center","#526","60061","Point",1922
+"59a47287cfa9a3a73e51e8f2","Exton","PA","260 Exton Square Parkway","","19341","Point",1919
+"59a47287cfa9a3a73e51e8f3","Lithonia","GA","2929 Turner Hill Road","#2370","30038","Point",1923
+"59a47287cfa9a3a73e51e8f4","Moorestown","NJ","400 W Route 38","#1310","08057","Point",1926
+"59a47287cfa9a3a73e51e8f5","Olathe","KS","11750 S Strang Line Rd","","66062","Point",193
+"59a47287cfa9a3a73e51e8f6","Bensalem","PA","505 Neshaminy Mall","","19020","Point",1927
+"59a47287cfa9a3a73e51e8f7","Manchester","CT","194 Buckland Hills Drive","#1022","06042","Point",1928
+"59a47287cfa9a3a73e51e8f8","Salisbury","MD","2300 N. Salisbury Blvd","#K107","21801","Point",1918
+"59a47287cfa9a3a73e51e8f9","Santa Maria","CA","2326 S Bradley Rd","","93455","Point",192
+"59a47287cfa9a3a73e51e8fa","Annapolis","MD","2002 Annapolis Mall","#113","21401","Point",1931
+"59a47287cfa9a3a73e51e8fb","Bethesda","MD","7101 Democracy Blvd","","20817","Point",1932
+"59a47287cfa9a3a73e51e8fc","Meriden","CT","470 Lewis Avenue","#23","06451","Point",1934
+"59a47287cfa9a3a73e51e8fd","Paramus","NJ","1 Garden State Plaza","#B01C","07652","Point",1936
+"59a47287cfa9a3a73e51e8fe","Buford","GA","3333 Buford Drive","#1006","30519","Point",1924
+"59a47287cfa9a3a73e51e8ff","Milford","CT","1201 Boston Post Road","#2421","06460","Point",1938
+"59a47287cfa9a3a73e51e900","Peabody","MA","210 Andover Street","#W1117","01960","Point",1957
+"59a47287cfa9a3a73e51e901","Massapequa","NY","One Sunrise Mall","#2090","11758","Point",1940
+"59a47287cfa9a3a73e51e902","Arlington","TX","3811 South Cooper Street","#2050","76015","Point",1951
+"59a47287cfa9a3a73e51e903","Whitehall","PA","236 Lehigh Valley Mall","#2081A","18052","Point",1946
+"59a47287cfa9a3a73e51e904","Fort Worth","TX","4800 South Hulen Street","#2605","76132","Point",1950
+"59a47287cfa9a3a73e51e905","Eden Prairie","MN","8251 Flying Cloud Drive","","55344-5306","Point",1952
+"59a47287cfa9a3a73e51e906","Plano","TX","6121 W Park Blvd","#B109","75093","Point",1954
+"59a47287cfa9a3a73e51e907","Mesquite","TX","2063 Town East Mall","#2220","75150","Point",1953
+"59a47287cfa9a3a73e51e908","Gurnee","IL","6170 Grand Avenue","#441","60031","Point",1955
+"59a47287cfa9a3a73e51e909","Merrillville","IN","2109 Southlake Mall","#234","46410","Point",1945
+"59a47287cfa9a3a73e51e90a","Spring","TX","1201 Lake Woodlands Drive","#2038","77380","Point",1959
+"59a47287cfa9a3a73e51e90b","Houston","TX","2000 Willowbrook Mall","#1550","77070","Point",1958
+"59a47287cfa9a3a73e51e90c","Wichita Falls","TX","4100 Kemp Blvd","","76308","Point",195
+"59a47287cfa9a3a73e51e90d","Sunrise","FL","12801 W Sunrise Blvd","#283","33323","Point",1960
+"59a47287cfa9a3a73e51e90e","Marlborough","MA","601 Donald Lynch Boulevard","#N137","01752","Point",1966
+"59a47287cfa9a3a73e51e90f","Houston","TX","5135 W Alabama St","#7210","77056","Point",1961
+"59a47287cfa9a3a73e51e910","Plano","TX","2800 N Central Expy","","75074","Point",202
+"59a47287cfa9a3a73e51e911","Austin","TX","9607 Research Blvd","Ste 500","78759","Point",203
+"59a47287cfa9a3a73e51e912","Omaha","NE","115 N 76th St","","68114","Point",206
+"59a47287cfa9a3a73e51e913","Peoria","IL","5001 N Big Hollow Rd","","61615","Point",207
+"59a47287cfa9a3a73e51e914","Madison","WI","7357 W Towne Way","","53719","Point",208
+"59a47287cfa9a3a73e51e915","Des Moines","IA","5100 Se 14th St","","50320","Point",19
+"59a47287cfa9a3a73e51e916","Westminster","CO","9369 Sheridan Blvd","","80030","Point",209
+"59a47287cfa9a3a73e51e917","Cedar Rapids","IA","4650 1st Ave Ne","","52402","Point",20
+"59a47287cfa9a3a73e51e918","Denver","CO","4100 E Mexico Ave","Ste A","80222","Point",211
+"59a47287cfa9a3a73e51e919","Littleton","CO","5395 S Wadsworth Blvd","","80123","Point",210
+"59a47287cfa9a3a73e51e91a","Houston","TX","7318 Fm 1960 Rd W","","77070","Point",214
+"59a47287cfa9a3a73e51e91b","Houston","TX","10777 North Fwy","","77037","Point",215
+"59a47287cfa9a3a73e51e91c","Houston","TX","8210 S Gessner Dr","","77036","Point",213
+"59a47287cfa9a3a73e51e91d","Colorado Springs","CO","3150 New Center Point","","80922","Point",212
+"59a47287cfa9a3a73e51e91e","San Antonio","TX","125 NW Loop 410","Ste 201","78216","Point",201
+"59a47287cfa9a3a73e51e91f","Tucson","AZ","6025 E Broadway Blvd","","85711","Point",198
+"59a47287cfa9a3a73e51e920","Irving","TX","3915 W Airport Fwy","","75062","Point",205
+"59a47287cfa9a3a73e51e921","Sugar Land","TX","16980 Southwest Fwy","","77479","Point",199
+"59a47287cfa9a3a73e51e922","Oklahoma City","OK","1409 W I 240 Service Road","","73159","Point",219
+"59a47287cfa9a3a73e51e923","King of Prussia","PA","310 Goddard Blvd","","19406","Point",197
+"59a47287cfa9a3a73e51e924","Austin","TX","4970 Us Hwy. 290 W","","78735","Point",204
+"59a47287cfa9a3a73e51e925","Albuquerque","NM","55 Hotel Cir NE","","87123","Point",223
+"59a47287cfa9a3a73e51e926","Houston","TX","9670 Katy Freeway","","77055","Point",216
+"59a47287cfa9a3a73e51e927","Aurora","CO","13801 E Mississippi Ave","","80012","Point",217
+"59a47287cfa9a3a73e51e928","Amarillo","TX","101 Westgate Pkwy","","79121","Point",218
+"59a47287cfa9a3a73e51e929","McKinney","TX","1751 N Central Expy","Ste C","75070","Point",196
+"59a47287cfa9a3a73e51e92a","Coralville","IA","1431 Coral Ridge Avenue","","52241","Point",21
+"59a47287cfa9a3a73e51e92b","Oklahoma City","OK","5801 N May Ave","","73112","Point",220
+"59a47287cfa9a3a73e51e92c","Tulsa","OK","10303 E 71st St","","74133","Point",221
+"59a47287cfa9a3a73e51e92d","North Little Rock","AR","4229 E McCain Blvd","","72117","Point",222
+"59a47287cfa9a3a73e51e92e","Wichita","KS","6700 W Kellogg Dr","","67209","Point",224
+"59a47287cfa9a3a73e51e92f","East Northport","NY","3124 Jericho Tpke","","11731","Point",200
+"59a47287cfa9a3a73e51e930","Fort Collins","CO","4040 S College Ave","","80525","Point",225
+"59a47287cfa9a3a73e51e931","Lubbock","TX","5916 W Loop 289","","79424","Point",226
+"59a47287cfa9a3a73e51e932","Evansville","IN","6300 E Lloyd Expressway","","47715","Point",227
+"59a47287cfa9a3a73e51e933","Fort Wayne","IN","737 Northcrest Shopping Ctr","","46805","Point",228
+"59a47287cfa9a3a73e51e934","Indianapolis","IN","5820 E 82nd St","","46250","Point",229
+"59a47287cfa9a3a73e51e935","Largo","FL","10455 Ulmerton Rd.","","33771","Point",2378
+"59a47287cfa9a3a73e51e936","El Paso","TX","8889 Gateway Blvd. West","Suite 100","79925","Point",237
+"59a47287cfa9a3a73e51e937","Indianapolis","IN","4625 Lafayette Road","","46254","Point",231
+"59a47287cfa9a3a73e51e938","Indianapolis","IN","9977 E Washington St","","46229","Point",232
+"59a47287cfa9a3a73e51e939","Houston","TX","510 Gulfgate Center Mall","","77087","Point",233
+"59a47287cfa9a3a73e51e93a","Fort Worth","TX","6750 West Fwy","","76116","Point",234
+"59a47287cfa9a3a73e51e93b","Corpus Christi","TX","4717 S Padre Island Dr","","78411","Point",235
+"59a47287cfa9a3a73e51e93c","McAllen","TX","700 S Jackson Rd","","78501","Point",236
+"59a47287cfa9a3a73e51e93d","Fort Lauderdale","FL","1489 SE 17th Street","","33316","Point",2370
+"59a47287cfa9a3a73e51e93e","Miami","FL","1790 Biscayne Blvd","Ste D","33132","Point",2371
+"59a47287cfa9a3a73e51e93f","Davenport","IA","5153 Elmore Ave","","52807","Point",22
+"59a47287cfa9a3a73e51e940","Greenwood","IN","562 W. Fry Rd","","46142","Point",230
+"59a47287cfa9a3a73e51e941","Richfield","MN","6601 Nicollet Ave S","","55423","Point",2387
+"59a47287cfa9a3a73e51e942","Webster","TX","19425 Gulf Fwy","","77598","Point",242
+"59a47287cfa9a3a73e51e943","Beaumont","TX","5885 Eastex Fwy","","77706","Point",238
+"59a47287cfa9a3a73e51e944","Merritt Island","FL","777 E Merritt Island Causeway","Ste F10A","32952","Point",2393
+"59a47287cfa9a3a73e51e945","San Antonio","TX","5215 De Zavala Road","","78249","Point",2394
+"59a47287cfa9a3a73e51e946","Bradenton","FL","901 Cortez Road W","","34207","Point",2396
+"59a47287cfa9a3a73e51e947","Brooklyn Center","MN","5625 Xerxes Ave N","","55430","Point",2399
+"59a47287cfa9a3a73e51e948","Moline","IL","4401 16th St","","61265","Point",23
+"59a47287cfa9a3a73e51e949","Houston","TX","2480 Highway 6 S","","77077","Point",239
+"59a47287cfa9a3a73e51e94a","Omaha","NE","333 N 170th St","","68118","Point",240
+"59a47287cfa9a3a73e51e94b","Laredo","TX","7905 San Dario Ave","","78045","Point",241
+"59a47287cfa9a3a73e51e94c","San Antonio","TX","5819 NW Loop 410","Ste 101","78238","Point",2382
+"59a47287cfa9a3a73e51e94d","Toledo","OH","4505 Monroe St","","43613","Point",243
+"59a47287cfa9a3a73e51e94e","Burbank","IL","7602 S Cicero Avenue","","60459","Point",2447
+"59a47287cfa9a3a73e51e94f","Apple Valley","MN","15300 Cedar Ave","","55124","Point",245
+"59a47287cfa9a3a73e51e950","Waco","TX","4627 S Jack Kultgen Pkwy","","76711","Point",244
+"59a47287cfa9a3a73e51e951","Tyler","TX","5514 S Broadway Ave","","75703","Point",246
+"59a47287cfa9a3a73e51e952","Holland","OH","1405 Spring Meadows Dr","","43528","Point",247
+"59a47287cfa9a3a73e51e953","Phoenix","AZ","2727 W Thunderbird Rd","","85053","Point",249
+"59a47287cfa9a3a73e51e954","Fort Smith","AR","4195 Phoenix Avenue","","72903","Point",248
+"59a47287cfa9a3a73e51e955","Terre Haute","IN","3676 South US Highway 41","","47802","Point",2501
+"59a47287cfa9a3a73e51e956","Dallas","TX","5301 Beltline Road","Suite 110","75254","Point",2504
+"59a47287cfa9a3a73e51e957","Stillwater","OK","1940 N Perkins Road","","74075","Point",2503
+"59a47287cfa9a3a73e51e958","La Jolla","CA","8657 Villa La Jolla Dr","Suite #113","92037","Point",2505
+"59a47287cfa9a3a73e51e959","Millbury","MA","70 Worcester Providence Turnpike","","01527","Point",2506
+"59a47287cfa9a3a73e51e95a","College Park","MD","4710 Cherry Hill Road","","20740","Point",2508
+"59a47287cfa9a3a73e51e95b","Alexandria","LA","2657 South MacArthur Drive","","71301","Point",2507
+"59a47287cfa9a3a73e51e95c","Riverdale","NJ","48 Route 23 North","","07457","Point",2509
+"59a47287cfa9a3a73e51e95d","Houston","TX","100 Meyerland Plaza Mall","","77096-1607","Point",2510
+"59a47287cfa9a3a73e51e95e","Phoenix","AZ","12645 N 48th St","","85032","Point",250
+"59a47287cfa9a3a73e51e95f","Muskogee","OK","900 West Shawnee","","74401","Point",2511
+"59a47287cfa9a3a73e51e960","Tampa","FL","18071 Highwood Preserve Parkway","","33647","Point",2513
+"59a47287cfa9a3a73e51e961","Columbus","IN","1343 North National Avenue","","47201","Point",2512
+"59a47287cfa9a3a73e51e962","Fullerton","CA","123 Orange Fair Mall Rd","","92832","Point",2514
+"59a47287cfa9a3a73e51e963","Austin","TX","9600 I-35 South","","78748","Point",2516
+"59a47287cfa9a3a73e51e964","Marquette","MI","3725 US 41 West","","49855","Point",2515
+"59a47287cfa9a3a73e51e965","Medford","OR","2370 Poplar Drive","","97504","Point",2517
+"59a47287cfa9a3a73e51e966","Saint Joseph","MO","3702 Frederick Ave","Ste 47","64506","Point",2519
+"59a47287cfa9a3a73e51e967","Brooklyn","NY","625 Atlantic Ave","Ste A7","11217","Point",2518
+"59a47287cfa9a3a73e51e968","Glendale","AZ","8290 W Bell Rd","","85308","Point",251
+"59a47287cfa9a3a73e51e969","Altoona","PA","5580 Goods Lane","Suite 2113","16602","Point",2537
+"59a47287cfa9a3a73e51e96a","Spokane","WA","4750 N Division","Ste 1136","99207","Point",2520
+"59a47287cfa9a3a73e51e96b","Columbia","MO","2300 Bernadette Dr","Spc 606","65203","Point",2522
+"59a47287cfa9a3a73e51e96c","Harrisburg","PA","4600 Jonestown Road","Space 55","17109","Point",2524
+"59a47287cfa9a3a73e51e96d","Trumbull","CT","5065 Main Street","Suite 133","06611","Point",2525
+"59a47287cfa9a3a73e51e96e","Bakersfield","CA","2701 Ming Avenue","Space 234","93304","Point",2526
+"59a47287cfa9a3a73e51e96f","Ocala","FL","2645 SW College Road","Suite 102","34471","Point",2530
+"59a47287cfa9a3a73e51e970","Memphis","TN","4465 Poplar Ave.","Ste 1005","38117","Point",2531
+"59a47287cfa9a3a73e51e971","San Antonio","TX","5539 W Loop 1604 N","","78251","Point",2533
+"59a47287cfa9a3a73e51e972","Roseville","MN","2100 Snelling Avenue North","Suite 66A","55113","Point",2535
+"59a47287cfa9a3a73e51e973","Odessa","TX","4101 E. 42nd Street","STE C21","79762","Point",2521
+"59a47287cfa9a3a73e51e974","Sandusky","OH","4314 Milan Road","Suite 310","44870","Point",2538
+"59a47287cfa9a3a73e51e975","Mcallen","TX","2200 S. 10th Street","Suite E08","78503","Point",2539
+"59a47287cfa9a3a73e51e976","Boardman","OH","561 Boardman Poland Rd","","44512","Point",257
+"59a47287cfa9a3a73e51e977","Norman","OK","3301 West Main Street","Suite 417","73072","Point",2541
+"59a47287cfa9a3a73e51e978","Lexington","KY","3220 Nicholasville Rd","","40503","Point",259
+"59a47287cfa9a3a73e51e979","Orlando","FL","8001 S. Orange Blossom Trail","302A","32809","Point",2542
+"59a47287cfa9a3a73e51e97a","Mesa","AZ","1455 West Southern Road","Suite 1082","85202","Point",260
+"59a47287cfa9a3a73e51e97b","San Antonio","TX","2310 SW Military Drive","Ste 315","78224","Point",2545
+"59a47287cfa9a3a73e51e97c","Victoria","TX","7800 N Navarro Street","Suite 205","77904","Point",2544
+"59a47287cfa9a3a73e51e97d","Mesa","AZ","6315 E Southern Ave","","85206","Point",254
+"59a47287cfa9a3a73e51e97e","Farmers Branch","TX","4255 Lyndon B Johnson Fwy","","75244","Point",256
+"59a47287cfa9a3a73e51e97f","Columbia","SC","370 Harbison Blvd","","29212","Point",264
+"59a47287cfa9a3a73e51e980","Phoenix","AZ","1949 E Camelback Rd","Ste 101","85016","Point",253
+"59a47287cfa9a3a73e51e981","Lewisville","TX","2601 S Stemmons Fwy","","75067","Point",258
+"59a47287cfa9a3a73e51e982","Knoxville","TN","7600 Kingston Pike","Suite 1164","37919","Point",2540
+"59a47287cfa9a3a73e51e983","Greenfield","WI","4610 S 76th St","","53220","Point",25
+"59a47287cfa9a3a73e51e984","Springfield","VA","6555 Frontier Dr","","22150","Point",269
+"59a47287cfa9a3a73e51e985","St. Paul","MN","3001 White Bear Ave N","#2026A","55109","Point",2701
+"59a47287cfa9a3a73e51e986","Matthews","NC","2109 Matthews Township Parkway","","28105","Point",261
+"59a47287cfa9a3a73e51e987","Elkridge","MD","8251 Gateway Overlook Dr","","21075","Point",263
+"59a47287cfa9a3a73e51e988","Humble","TX","20408 Highway 59 N","","77338","Point",255
+"59a47287cfa9a3a73e51e989","Greenwood","IN","1251 US Hwy 31 N","#C07A","46142","Point",2704
+"59a47287cfa9a3a73e51e98a","Fairborn","OH","2907 Centre Dr","","45324","Point",266
+"59a47287cfa9a3a73e51e98b","Concord","NC","8210 Concord Mills Blvd","","28027","Point",268
+"59a47287cfa9a3a73e51e98c","Farmington","NM","4601 E Main Street","Suite 850","87402","Point",2543
+"59a47287cfa9a3a73e51e98d","Carlsbad","CA","2525 El Camino Real","#240","92008","Point",2707
+"59a47287cfa9a3a73e51e98e","Pineville","NC","10600 Centrum Pkwy","","28134","Point",262
+"59a47287cfa9a3a73e51e98f","National City","CA","3030 Plaza Bonita Road","Ste. 1450","91950","Point",2712
+"59a47287cfa9a3a73e51e990","Rochester","MN","1201 12th Street SW","#670","55902","Point",2702
+"59a47287cfa9a3a73e51e991","Friendswood","TX","500 Baybrook Mall","#1154","77546","Point",2714
+"59a47287cfa9a3a73e51e992","Laurel","MD","14160 Baltimore Ave","","20707","Point",265
+"59a47287cfa9a3a73e51e993","Lafayette","IN","2415 Sagamore Parkway South","#B10","47905","Point",2705
+"59a47287cfa9a3a73e51e994","Plantation","FL","8000 West Broward Boulevard","#1317","33388","Point",2706
+"59a47287cfa9a3a73e51e995","Hyannis","MA","763 Iyannough Road","#S155","02601","Point",2700
+"59a47287cfa9a3a73e51e996","Columbia","SC","7006 Two Notch Rd","","29223","Point",270
+"59a47287cfa9a3a73e51e997","Doral","FL","1455 NW 107th Avenue","#732","33172","Point",2710
+"59a47287cfa9a3a73e51e998","Sanford","FL","259 Towne Center Circle","#M06A","32771","Point",2721
+"59a47287cfa9a3a73e51e999","Columbia","MD","10300 Little Patuxent Pkwy","#2385","21044","Point",2722
+"59a47287cfa9a3a73e51e99a","Coral Springs","FL","9469 West Atlantic Boulevard","#9117","33071","Point",2713
+"59a47287cfa9a3a73e51e99b","Wayne","NJ","1400 Willowbrook Mall","#1240","07470","Point",2703
+"59a47287cfa9a3a73e51e99c","Tampa","FL","8021 Citrus Park Town Center","#7979","33625","Point",2725
+"59a47287cfa9a3a73e51e99d","Bloomington","IN","2856 E 3rd St","#C10D","47401","Point",2716
+"59a47287cfa9a3a73e51e99e","Evansville","IN","800 North Green River Road","#74","47715","Point",2717
+"59a47287cfa9a3a73e51e99f","Duluth","MN","1600 Miller Trunk Highway","#L01A","55811","Point",2718
+"59a47287cfa9a3a73e51e9a0","Greendale","WI","5300 S 76 Street","#590","53129","Point",2719
+"59a47287cfa9a3a73e51e9a1","San Diego","CA","1640 Camino Del Rio North","#322","92108","Point",2711
+"59a47287cfa9a3a73e51e9a2","Mayfield Heights","OH","1417 Golden Gate Blvd","","44124","Point",271
+"59a47287cfa9a3a73e51e9a3","Wauwatosa","WI","2401 North Mayfair Road","","53226","Point",26
+"59a47287cfa9a3a73e51e9a4","Daytona Beach","FL","1700 W International Speedway Blvd.","#578","32114","Point",2723
+"59a47287cfa9a3a73e51e9a5","Orlando","FL","8001 South Orange Blossom Trail","#780","32809","Point",2724
+"59a47287cfa9a3a73e51e9a6","Brookfield","WI","95 North Moorland Rd","#D-30","53005","Point",2715
+"59a47287cfa9a3a73e51e9a7","Fort Wayne","IN","4201 Coldwater Road","#G10","46805","Point",2727
+"59a47287cfa9a3a73e51e9a8","Canoga Park","CA","6600 Topanga Canyon Boulevard","#1022","91303","Point",2728
+"59a47287cfa9a3a73e51e9a9","Clearwater","FL","27001 US Highway 19 North","#2050","33761","Point",2729
+"59a47287cfa9a3a73e51e9aa","Aurora","CO","14200 East Alameda Avenue","#2011","80012","Point",2730
+"59a47287cfa9a3a73e51e9ab","Greenville","SC","1125 Woodruff Rd","","29607","Point",272
+"59a47287cfa9a3a73e51e9ac","Greensboro","NC","410 Four Seasons Town Centre","#131","27407","Point",2731
+"59a47287cfa9a3a73e51e9ad","Winston Salem","NC","3320 Silas Creek Parkway","#FL-2232","27103","Point",2732
+"59a47287cfa9a3a73e51e9ae","Newport News","VA","12300 Jefferson Avenue","#403","23602","Point",2733
+"59a47287cfa9a3a73e51e9af","Altamonte Springs","FL","451 East Altamonte Drive","#1141","32701","Point",2734
+"59a47287cfa9a3a73e51e9b0","Happy Valley","OR","12000 SE 82nd Avenue","","97086","Point",2736
+"59a47287cfa9a3a73e51e9b1","Green Bay","WI","639 Bay Park Square","","54304","Point",2735
+"59a47287cfa9a3a73e51e9b2","Appleton","WI","4301 West Wisconsin Ave","#232","54913","Point",2738
+"59a47287cfa9a3a73e51e9b3","Lakewood","CO","14500 West Colfax Avenue","#260","80401","Point",2737
+"59a47287cfa9a3a73e51e9b4","Virginia Beach","VA","701 Lynnhaven Parkway","#B11B","23452","Point",2739
+"59a47287cfa9a3a73e51e9b5","Fairfax","VA","13058 Fairlakes Shopping Ctr","","22033","Point",273
+"59a47287cfa9a3a73e51e9b6","Denver","CO","3000 East First Ave","#296","80206","Point",2740
+"59a47287cfa9a3a73e51e9b7","Aurora","IL","1208 Fox Valley Center Drive","#H5","60504","Point",2743
+"59a47287cfa9a3a73e51e9b8","Chicago Ridge","IL","578 Chicago Ridge Mall","Suite 412 A1","60415","Point",2741
+"59a47287cfa9a3a73e51e9b9","Jacksonville","FL","10300 Southside Blvd","#3140","32256","Point",2744
+"59a47287cfa9a3a73e51e9ba","Fayetteville","NC","237 Cross Creek Mall","#TC-7","28303","Point",2746
+"59a47287cfa9a3a73e51e9bb","St. Peters","MO","1232 Mid Rivers Mall","","63376","Point",2748
+"59a47287cfa9a3a73e51e9bc","Portland","OR","1061 Lloyd Center","SPC #B228","97232","Point",2747
+"59a47287cfa9a3a73e51e9bd","Dayton","OH","131 Mall Woods Dr","","45449","Point",274
+"59a47287cfa9a3a73e51e9be","Santa Rosa","CA","1024 Santa Rosa Plaza","","95401","Point",2750
+"59a47287cfa9a3a73e51e9bf","San Bruno","CA","1150 El Camino Real","#111","94066","Point",2751
+"59a47287cfa9a3a73e51e9c0","Concord","CA","357 Sun Valley Mall","#E202B","94520","Point",2752
+"59a47287cfa9a3a73e51e9c1","Wichita","KS","4600 W. Kellogg Drive","#Q15","67209","Point",2753
+"59a47287cfa9a3a73e51e9c2","Tulsa","OK","7021 South Memorial Drive","#217","74133","Point",2754
+"59a47287cfa9a3a73e51e9c3","Tukwila","WA","841 Southcenter Mall","","98188","Point",2755
+"59a47287cfa9a3a73e51e9c4","Chattanooga","TN","2100 Hamilton Place Blvd.","#153","37421","Point",2758
+"59a47287cfa9a3a73e51e9c5","Eau Claire","WI","4800 Golf Road","#402","54701","Point",2757
+"59a47287cfa9a3a73e51e9c6","Fairview Heights","IL","134 St. Clair Square","#154B","62208","Point",2759
+"59a47287cfa9a3a73e51e9c7","Little Rock","AR","11800 Chenal Pkwy","","72211","Point",275
+"59a47287cfa9a3a73e51e9c8","Joliet","IL","3340 Mall Loop Drive","#1326","60431","Point",2761
+"59a47287cfa9a3a73e51e9c9","Omaha","NE","10000 California St.","#2688","68114","Point",2762
+"59a47287cfa9a3a73e51e9ca","Sioux Falls","SD","5000 W Empire Mall","#326","57106","Point",2763
+"59a47287cfa9a3a73e51e9cb","Murfreesboro","TN","1720 Old Fort Parkway","#C130","37129","Point",2764
+"59a47287cfa9a3a73e51e9cc","Huntsville","AL","2801 Memorial Parkway SW","#108","35801","Point",2766
+"59a47287cfa9a3a73e51e9cd","Overland Park","KS","11525 Metcalf Ave","","66210","Point",277
+"59a47287cfa9a3a73e51e9ce","Tuscaloosa","AL","1701 McFarland Blvd. East","D27/D28","35404","Point",2767
+"59a47287cfa9a3a73e51e9cf","Gretna","LA","197 Westbank Expressway","#1315","70053","Point",2772
+"59a47287cfa9a3a73e51e9d0","Arlington","VA","1201 S Hayes St","Ste B","22202","Point",276
+"59a47287cfa9a3a73e51e9d1","Fayetteville","AR","4201 N Shiloh Dr.","#1505","72703","Point",2773
+"59a47287cfa9a3a73e51e9d2","Louisville","KY","4801 Outer Loop","#C572","40219","Point",2774
+"59a47287cfa9a3a73e51e9d3","Fairfield","CA","1350 Travis Blvd.","#H16","94533","Point",2777
+"59a47287cfa9a3a73e51e9d4","Roseville","CA","1151 Galleria Blvd.","#2245","95678","Point",2776
+"59a47287cfa9a3a73e51e9d5","San Jose","CA","925 Blossom Hill Road","#1699","95123","Point",2778
+"59a47287cfa9a3a73e51e9d6","Modesto","CA","3401 Dale Rd.","#180","95356","Point",2779
+"59a47287cfa9a3a73e51e9d7","Bloomington","IL","1615 East Empire St","#1410","61701","Point",2765
+"59a47287cfa9a3a73e51e9d8","Goodlettsville","TN","1000 Rivergate Pkwy","#1970","37072","Point",2780
+"59a47287cfa9a3a73e51e9d9","Cincinnati","OH","4601 Eastgate Mall","#312","45245","Point",2794
+"59a47287cfa9a3a73e51e9da","St. Petersburg","FL","6901 Tyrone Square","","33710","Point",2784
+"59a47287cfa9a3a73e51e9db","Madison","WI","132 W Towne Mall","","53719","Point",2783
+"59a47287cfa9a3a73e51e9dc","Toledo","OH","5001 Monroe Street","#1255","43623","Point",2785
+"59a47287cfa9a3a73e51e9dd","Beavercreek","OH","2727 Fairfield Commons","#E225","45431","Point",2786
+"59a47287cfa9a3a73e51e9de","Akron","OH","2000 Brittain Road","#480","44310","Point",2789
+"59a47287cfa9a3a73e51e9df","Cuyahoga Falls","OH","445 Howe Ave.","","44221","Point",278
+"59a47287cfa9a3a73e51e9e0","North Olmsted","OH","228 Great Northern Mall","","44070","Point",2791
+"59a47287cfa9a3a73e51e9e1","Rochester","NY","271 Greece Ridge Center Drive","#J4","14626","Point",2801
+"59a47287cfa9a3a73e51e9e2","Rochester","NY","501 Miracle Mile Drive","","14623","Point",2802
+"59a47287cfa9a3a73e51e9e3","Sacramento","CA","1689 Arden Way","#2054","95815","Point",2781
+"59a47287cfa9a3a73e51e9e4","Louisville","KY","7900 Shelbyville Rd","#D13","40222","Point",2795
+"59a47287cfa9a3a73e51e9e5","Lincoln","NE","5 Gateway Mall","#200","68505","Point",2796
+"59a47287cfa9a3a73e51e9e6","St. Louis","MO","123 W County Center","#2095","63131","Point",2797
+"59a47287cfa9a3a73e51e9e7","Flint","MI","3341 S. Linden Rd","Space 270","48507","Point",2799
+"59a47287cfa9a3a73e51e9e8","Hickory","NC","1960 Hwy 70","#236","28602","Point",2798
+"59a47287cfa9a3a73e51e9e9","Appleton","WI","4240 W Wisconsin Ave","","54913","Point",27
+"59a47287cfa9a3a73e51e9ea","North Olmsted","OH","5140 Great Northern Plz S","","44070","Point",279
+"59a47287cfa9a3a73e51e9eb","Canton","OH","4230 Belden Village Mall","#A13A","44718","Point",2790
+"59a47287cfa9a3a73e51e9ec","Portage","MI","6650 S. Westnedge Avenue","#209","49024","Point",2800
+"59a47287cfa9a3a73e51e9ed","State College","PA","2901 East College Ave.","#603","16801","Point",2811
+"59a47287cfa9a3a73e51e9ee","Midland","TX","2511 W Loop 250 N","","79705","Point",280
+"59a47287cfa9a3a73e51e9ef","Strongsville","OH","500 Southpark Center","Ste EL520","44136","Point",2804
+"59a47287cfa9a3a73e51e9f0","Champaign","IL","2000 North Neil St.","#608","61820","Point",2805
+"59a47287cfa9a3a73e51e9f1","Christianburg","VA","782 New River Rd","#750","24073","Point",2808
+"59a47287cfa9a3a73e51e9f2","Charlottesville","VA","1600 East Rio Rd","#1516","22901","Point",2807
+"59a47287cfa9a3a73e51e9f3","Camp Hill","PA","3537 Capital City Mall Drive","#632","17011","Point",2809
+"59a47287cfa9a3a73e51e9f4","Mankato","MN","1850 Adams Street","#430","56001","Point",2792
+"59a47287cfa9a3a73e51e9f5","Troy","MI","412 W. 14 Mile Rd.","#860","48083","Point",2812
+"59a47287cfa9a3a73e51e9f6","Kingston","NY","1300 Ulster Avenue","#L03","12401","Point",2813
+"59a47287cfa9a3a73e51e9f7","Victor","NY","210 Eastview Mall","","14564","Point",2803
+"59a47287cfa9a3a73e51e9f8","Hagerstown","MD","17301 Valley Mall Road","#538","21740","Point",2810
+"59a47287cfa9a3a73e51e9f9","York","PA","2899 Whiteford Road","Space #176","17402","Point",2814
+"59a47287cfa9a3a73e51e9fa","Okemos","MI","1982 W. Grand River Avenue","#359A","48864","Point",2817
+"59a47287cfa9a3a73e51e9fb","St. Louis","MO","18 South County Center Way","#73","63129","Point",2815
+"59a47287cfa9a3a73e51e9fc","Plymouth Meeting","PA","500 W. Germantown Pike","#1300","19462","Point",2818
+"59a47287cfa9a3a73e51e9fd","Baltimore","MD","1701 Belmont Ave","","21244","Point",282
+"59a47287cfa9a3a73e51e9fe","Richfield","MN","1000 West 78th St.","","55423","Point",281
+"59a47287cfa9a3a73e51e9ff","Midland","MI","6800 Eastman Avenue","#D412","48642","Point",2820
+"59a47287cfa9a3a73e51ea00","Fort Myers","FL","4125 Cleveland Street","#1540","33901","Point",2821
+"59a47287cfa9a3a73e51ea01","Fresno","CA","541 East Shaw Avenue","","93710","Point",2822
+"59a47287cfa9a3a73e51ea02","Florence","KY","2823 Florence Mall","#2148","41042","Point",2823
+"59a47287cfa9a3a73e51ea03","Franklin","TN","1800 Galleria Blvd","Ste 2100","37067","Point",2824
+"59a47287cfa9a3a73e51ea04","Auburn Hills","MI","4000 Baldwin Rd.","#800","48326","Point",2825
+"59a47287cfa9a3a73e51ea05","West Des Moines","IA","101 Jordan Creek Pkwy","Ste. 12060","50266","Point",2828
+"59a47287cfa9a3a73e51ea06","Daly City","CA","125 Serramonte Center","#639","94015","Point",2819
+"59a47287cfa9a3a73e51ea07","Vancouver","WA","8700 NE Vancouver Mall Drive","#147","98662","Point",2830
+"59a47287cfa9a3a73e51ea08","Seattle","WA","401 NE Northgate Way","#765","98125","Point",2831
+"59a47287cfa9a3a73e51ea09","Louisville","KY","5000 Shelbyville Rd","#1760","40207","Point",2833
+"59a47287cfa9a3a73e51ea0a","Monroe","LA","4700 Millhaven Road","#1442","71203","Point",2834
+"59a47287cfa9a3a73e51ea0b","Bossier City","LA","2950 East Texas Street","#36","71111","Point",2835
+"59a47287cfa9a3a73e51ea0c","Westland","MI","35000 Warren Rd.","Suite #531","48185","Point",2836
+"59a47287cfa9a3a73e51ea0d","Hattiesburg","MS","1000 Turtle Creek Drive","#325","39402","Point",2849
+"59a47287cfa9a3a73e51ea0e","Poughkeepsie","NY","2001 South Rd #209","","12601","Point",2838
+"59a47287cfa9a3a73e51ea0f","Albany","NY","1 Crossgates Mall Road","#L101A","12203","Point",2841
+"59a47287cfa9a3a73e51ea10","New Hartford","NY","8555 Seneca Tpke","#A12","13413","Point",2842
+"59a47287cfa9a3a73e51ea11","Wauwatosa","WI","2500 N Mayfair Rd","Spc 614A","53226","Point",2845
+"59a47287cfa9a3a73e51ea12","Holyoke","MA","50 Holyoke Street","Spc #B216","01040","Point",2843
+"59a47287cfa9a3a73e51ea13","Houma","LA","5953 West Park Avenue","#3035","70364","Point",2848
+"59a47287cfa9a3a73e51ea14","Lawton","OK","200 SW C Ave Suite 68","","73501","Point",2847
+"59a47287cfa9a3a73e51ea15","Elyria","OH","6650 Midway Blvd","","44035","Point",284
+"59a47287cfa9a3a73e51ea16","Syracuse","NY","9090 Destiny USA Drive","#E106","13204","Point",2850
+"59a47287cfa9a3a73e51ea17","Falls Church","VA","5799 Leesburg Pike","","22041","Point",283
+"59a47287cfa9a3a73e51ea18","Middletown","NY","1 N Galleria Dr","#D101","10941","Point",2851
+"59a47287cfa9a3a73e51ea19","Nashua","NH","310 Daniel Webster Hwy","Ste. 200 Space W115A","03060","Point",2861
+"59a47287cfa9a3a73e51ea1a","Lubbock","TX","6002 Slide Rd","","79414","Point",2854
+"59a47287cfa9a3a73e51ea1b","Brownsville","TX","2370 N  Expressway","#1142","78521","Point",2855
+"59a47287cfa9a3a73e51ea1c","Bellingham","WA","1 Bellis Fair Pkwy","Ste 326","98226","Point",2864
+"59a47287cfa9a3a73e51ea1d","Amherst","NY","756 Alberta Drive","Ste. 459","14226","Point",2865
+"59a47287cfa9a3a73e51ea1e","Tucson","AZ","4500 N Oracle Rd","Ste 128","85705","Point",2866
+"59a47287cfa9a3a73e51ea1f","Clarksville","TN","2801 Wilma Rudolph Blvd.","Ste. 565","37040","Point",2859
+"59a47287cfa9a3a73e51ea20","Akron","OH","96 Rothrock Rd","","44321","Point",285
+"59a47287cfa9a3a73e51ea21","Paducah","KY","5010 Hinkleville Rd.","Ste. 565","42001","Point",2860
+"59a47287cfa9a3a73e51ea22","Norridge","IL","4156-E North Harlem Ave","","60706","Point",2862
+"59a47287cfa9a3a73e51ea23","Albuquerque","NM","10000 Coors Bypass","#F03","87114","Point",2853
+"59a47287cfa9a3a73e51ea24","Fargo","ND","3902 13th Ave S","Suite 525","58103","Point",2863
+"59a47287cfa9a3a73e51ea25","Wichita Falls","TX","3111 Midwestern Parkway","#632","76308","Point",2856
+"59a47287cfa9a3a73e51ea26","Langhorne","PA","2300 E Lincoln Highway","Ste 215","19047","Point",2857
+"59a47287cfa9a3a73e51ea27","Dover","DE","1365 N Dupont Hwy","Ste 3088","19901","Point",2858
+"59a47287cfa9a3a73e51ea28","Janesville","WI","2500 Milton Ave","#150","53545","Point",2867
+"59a47287cfa9a3a73e51ea29","Colonial Heights","VA","230 Southpark Circle","#F70","23834","Point",2868
+"59a47287cfa9a3a73e51ea2a","Visalia","CA","2163 S Mooney Blvd","","93277","Point",2870
+"59a47287cfa9a3a73e51ea2b","San Jose","CA","2200 Eastridge Loop","#1094","95122","Point",2871
+"59a47287cfa9a3a73e51ea2c","North Canton","OH","6595 Strip Ave Nw","","44720","Point",286
+"59a47287cfa9a3a73e51ea2d","Hayward","CA","269 Southland Mall","","94545","Point",2872
+"59a47287cfa9a3a73e51ea2e","Waco","TX","6001 W Waco Dr. #21","","76710","Point",2884
+"59a47287cfa9a3a73e51ea2f","Columbus","GA","3131 Manchester Expy","Suite F11","31909","Point",2875
+"59a47287cfa9a3a73e51ea30","Amarillo","TX","7701 W Interstate 40","#624","79121","Point",2877
+"59a47287cfa9a3a73e51ea31","Sarasota","FL","8201 S Tamiami Trail","#A13","34238","Point",2878
+"59a47287cfa9a3a73e51ea32","Scranton","PA","100 Viewmont Mall","#828","18508","Point",2879
+"59a47287cfa9a3a73e51ea33","Woodbridge","VA","2730 Prince William Pkwy","","22192","Point",287
+"59a47287cfa9a3a73e51ea34","Frederick","MD","5500 Buckeystown Pike","Ste 426","21703","Point",2880
+"59a47287cfa9a3a73e51ea35","Tucson","AZ","5870 E Broadway Blvd","Suite 360","85711","Point",2881
+"59a47287cfa9a3a73e51ea36","Albuquerque","NM","6600 Menaul Blve NE","","87110","Point",2882
+"59a47287cfa9a3a73e51ea37","Brockton","MA","200 Westgate Dr","Ste E105","02301","Point",2883
+"59a47287cfa9a3a73e51ea38","Chesapeake","VA","1401 Greenbrier Parkway South","#1094","23320","Point",2873
+"59a47287cfa9a3a73e51ea39","Victorville","CA","14400 Bear Valley Rd","#811","92392","Point",2885
+"59a47287cfa9a3a73e51ea3a","Cedar Park","TX","11200 Lakeline Mall Dr","#M09","78613","Point",2886
+"59a47287cfa9a3a73e51ea3b","Springfield","MO","2825 S Glenstone Ave","#T04","65804","Point",2887
+"59a47287cfa9a3a73e51ea3c","St Louis","MO","1155 Saint Louis Galleria","Ste 2077","63117","Point",2897
+"59a47287cfa9a3a73e51ea3d","Lincolnwood","IL","3333 W Touhy Ave","Ste #G10B","60712","Point",2889
+"59a47287cfa9a3a73e51ea3e","Albany","GA","2601 Dawson Rd","Ste B05","31707","Point",2899
+"59a47287cfa9a3a73e51ea3f","Boise","ID","350 N Milwaukee St","Ste 2093","83704","Point",2890
+"59a47287cfa9a3a73e51ea40","Green Bay","WI","825 Pilgrim Way","Ste A","54304","Point",28
+"59a47287cfa9a3a73e51ea41","Idaho Falls","ID","2300 East 17th Street","#1190","83404","Point",2891
+"59a47287cfa9a3a73e51ea42","Little Rock","AR","6000 W Markham St","Ste 3162","72205","Point",2893
+"59a47287cfa9a3a73e51ea43","Atlanta","GA","1349 Cumberland Mall","","30339","Point",2894
+"59a47287cfa9a3a73e51ea44","Atlanta","GA","4800 Briarcliff Road","Ste 1019","30345","Point",2895
+"59a47287cfa9a3a73e51ea45","Plano","TX","811 N Central Expressway","Ste 1205","75075","Point",2896
+"59a47287cfa9a3a73e51ea46","Gaithersburg","MD","701 Russell Avenue","#H139","20877","Point",2888
+"59a47287cfa9a3a73e51ea47","Lewisville","TX","2401 S Stemmons Fwy","Ste 1324","75067","Point",2898
+"59a47287cfa9a3a73e51ea48","Gaithersburg","MD","15750 Shady Grove Rd","","20877","Point",288
+"59a47287cfa9a3a73e51ea49","Las Vegas","NV","3820 S Maryland Pkwy","","89119","Point",289
+"59a47287cfa9a3a73e51ea4a","Midland","TX","4511 N Midkiff Dr","Ste E05A","79705","Point",2892
+"59a47287cfa9a3a73e51ea4b","Glen Burnie","MD","6722 Ritchie Hwy","","21061","Point",290
+"59a47287cfa9a3a73e51ea4c","Humble","TX","20131 Highway 59 North","Ste. 2356","77338","Point",2900
+"59a47287cfa9a3a73e51ea4d","Calumet City","IL","96 River Oaks Ctr","Ste. C19","60409","Point",2902
+"59a47287cfa9a3a73e51ea4e","Sunrise","FL","12801 W Sunrise Blvd","Ste 835","33323","Point",2904
+"59a47287cfa9a3a73e51ea4f","Ann Arbor","MI","442 Briarwood Circle","Ste. F125","48108","Point",2903
+"59a47287cfa9a3a73e51ea50","Madison","WI","5 East Towne Mall","Unit E502","53704","Point",2914
+"59a47287cfa9a3a73e51ea51","La Crosse","WI","3800 State Road 16","Spc 0161","54601","Point",2916
+"59a47287cfa9a3a73e51ea52","Colorado Springs","CO","750 Citadel Dr E","Ste 2380","80909","Point",2906
+"59a47287cfa9a3a73e51ea53","Naples","FL","1956 Tamiami Trail North","Suite H009","34102","Point",2908
+"59a47287cfa9a3a73e51ea54","Lexington","KY","3615 Nicholasville Rd","Ste E516","40503","Point",2909
+"59a47287cfa9a3a73e51ea55","Houston","TX","5133 Richmond Ave","","77056","Point",291
+"59a47287cfa9a3a73e51ea56","N Little Rock","AR","3929 McCain Blvd","Ste H03A","72116","Point",2911
+"59a47287cfa9a3a73e51ea57","Woodbridge","NJ","286 Woodbridge Ctr","","07095","Point",2922
+"59a47287cfa9a3a73e51ea58","Kennesaw","GA","400 Ernest W Barrett Pkwy NW","Ste. 277","30144","Point",2923
+"59a47287cfa9a3a73e51ea59","Memphis","TN","2760 N. Germantown Parkway","","38133","Point",2913
+"59a47287cfa9a3a73e51ea5a","Youngstown","OH","7401 Market Street","Ste 267","44512","Point",2926
+"59a47287cfa9a3a73e51ea5b","Fredricksburg","VA","475 Spotsylvania Mall","","22407","Point",2927
+"59a47287cfa9a3a73e51ea5c","Douglasville","GA","6700 Douglas Blvd","Spc 1030","30135","Point",2915
+"59a47287cfa9a3a73e51ea5d","Capitola","CA","1855 41st Ave","Suite D2","95010","Point",2917
+"59a47287cfa9a3a73e51ea5e","Dublin","OH","5043 Tuttle Crossing Blvd","Spc 132","43016","Point",2919
+"59a47287cfa9a3a73e51ea5f","Auburn","MA","385 Southbridge Street","S080","01501","Point",2901
+"59a47287cfa9a3a73e51ea60","Waterbury","CT","495 Union Street Suite","Ste #2008","06706","Point",2920
+"59a47287cfa9a3a73e51ea61","Freehold","NJ","3710 Route 9","Ste 1000 - Spc B224","07728","Point",2921
+"59a47287cfa9a3a73e51ea62","Henderson","NV","1300 West Sunset Road","Space 2417","89014","Point",2933
+"59a47287cfa9a3a73e51ea63","Jackson","TN","2021 N. Highland Ave","Ste C2","38305","Point",2912
+"59a47287cfa9a3a73e51ea64","Greensburg","PA","5256 State Road 30","Ste NL7","15601","Point",2925
+"59a47287cfa9a3a73e51ea65","Joplin","MO","101 North Rangeline Road","Ste 260","64801","Point",2905
+"59a47287cfa9a3a73e51ea66","Cheyenne","WY","1400 Dell Range Blvd.","Space #39","82009","Point",2907
+"59a47287cfa9a3a73e51ea67","Omaha","NE","3001 South 144th St","Ste F11","68144","Point",2928
+"59a47287cfa9a3a73e51ea68","Hyattsville","MD","3500 East West Hwy","Spc 1234","20782","Point",2929
+"59a47287cfa9a3a73e51ea69","Reynoldsburg","OH","2782 Taylor Road Ext","","43068","Point",292
+"59a47287cfa9a3a73e51ea6a","College Station","TX","1500 Harvey Rd","Ste 5010","77840","Point",2930
+"59a47287cfa9a3a73e51ea6b","Beaumont","TX","6155 Eastex Fwy","","77706","Point",2931
+"59a47287cfa9a3a73e51ea6c","Rockville","MD","1200 Rockville Pike","","20852","Point",293
+"59a47287cfa9a3a73e51ea6d","Winchester","VA","1850 Apple Blossom Dr","Ste 57","22601","Point",2910
+"59a47287cfa9a3a73e51ea6e","Texarkana","TX","2400 Richmond Rd","Ste 85","75503","Point",2934
+"59a47287cfa9a3a73e51ea6f","Muskegon","MI","5600 Harvey St","Ste 1048","49444","Point",2935
+"59a47287cfa9a3a73e51ea70","Erie","PA","275 Millcreek Mall","","16565","Point",2936
+"59a47287cfa9a3a73e51ea71","Northridge","CA","9301 Tampa Avenue","Space 11","91324","Point",2938
+"59a47287cfa9a3a73e51ea72","Ft. Smith","AR","5111 Rogers Ave","Ste 156","72903","Point",2937
+"59a47287cfa9a3a73e51ea73","Muncie","IN","3501 N Granville Ave","Ste K00B","47303","Point",2939
+"59a47287cfa9a3a73e51ea74","Broomfield","CO","1 W Flatiron Crossing Dr","Ste. 2196","80021","Point",2953
+"59a47287cfa9a3a73e51ea75","Vineland","NJ","3849 S Delsea Dr","Ste F18A","08360","Point",2941
+"59a47287cfa9a3a73e51ea76","Miami","FL","20205 S Dixie Highway","Space 1115","33189","Point",2942
+"59a47287cfa9a3a73e51ea77","Las Vegas","NV","4300 Meadows Ln","Ste 2350","89107","Point",2932
+"59a47287cfa9a3a73e51ea78","Clarksville","IN","757 Lewis & Clark Pkwy East","Ste 416","47129","Point",2946
+"59a47287cfa9a3a73e51ea79","Dartmouth","MA","200 Dartmouth Mall","Space 1140","02747","Point",2945
+"59a47287cfa9a3a73e51ea7a","Gainesville","FL","6269 W NEWBERRY RD","","32605","Point",2948
+"59a47287cfa9a3a73e51ea7b","Jonesboro","AR","3000 East Highland Dr","Ste 209","72401","Point",2949
+"59a47287cfa9a3a73e51ea7c","Riverside","IL","7501 W Cermak Rd","Ste N006","60546","Point",2960
+"59a47287cfa9a3a73e51ea7d","Mobile","AL","3299 Bel Air Mall","Ste B8A","36606","Point",2952
+"59a47287cfa9a3a73e51ea7e","Spartanburg","SC","110 E Blackstock Rd","","29301","Point",294
+"59a47287cfa9a3a73e51ea7f","Santa Clara","CA","2855 Stevens Creek Blvd","Suite 2543","95050","Point",2940
+"59a47287cfa9a3a73e51ea80","Abilene","TX","4310 Buffalo Gap Rd","Ste 1110","79606","Point",2954
+"59a47287cfa9a3a73e51ea81","Racine","WI","5794 Durand Ave","Spc 146","53406","Point",2955
+"59a47287cfa9a3a73e51ea82","Monroeville","PA","145 Mall Circle Dr","Ste A07","15146","Point",2956
+"59a47287cfa9a3a73e51ea83","Kokomo","IN","1114 S 17th St","Space H09","46902","Point",2958
+"59a47287cfa9a3a73e51ea84","Niles","OH","5555 Youngstown Warren Rd","Unit 420","44446","Point",2957
+"59a47287cfa9a3a73e51ea85","Vero Beach","FL","6200 20th St","Ste 618","32966","Point",2961
+"59a47287cfa9a3a73e51ea86","East Brunswick","NJ","755 State Route 18","Ste. 248A","08816","Point",2970
+"59a47287cfa9a3a73e51ea87","Las Vegas","NV","3562 S Maryland Pkwy","Ste 134","89169","Point",2971
+"59a47287cfa9a3a73e51ea88","Lakeland","FL","3800 US Highway 98 N","Ste 732","33809","Point",2962
+"59a47287cfa9a3a73e51ea89","Jensen Beach","FL","3222 NW Federal Hwy","","34957","Point",2964
+"59a47287cfa9a3a73e51ea8a","Spokane Valley","WA","14700 E Indiana","Ste 2126","99216","Point",2965
+"59a47287cfa9a3a73e51ea8b","Tupelo","MS","1001 Barnes Crossing Rd","Ste 222","38804","Point",2976
+"59a47287cfa9a3a73e51ea8c","Manhattan","KS","100 Manhattan Town Center","Ste 415","66502","Point",2967
+"59a47287cfa9a3a73e51ea8d","Hoover","AL","2000 Riverchase Galleria","Ste 236","35244","Point",2969
+"59a47287cfa9a3a73e51ea8e","Jacksonville","NC","322 Jacksonville Mall","","28546","Point",2968
+"59a47287cfa9a3a73e51ea8f","Bel Air","MD","602 Boulton Street","","21014","Point",296
+"59a47287cfa9a3a73e51ea90","Columbus","OH","3840 Morse Rd","","43219","Point",295
+"59a47287cfa9a3a73e51ea91","Augusta","GA","3450 Wrightsboro Rd.","Ste. 1075","30909","Point",2951
+"59a47287cfa9a3a73e51ea92","Wichita","KS","7700 E Kellogg Dr","Ste E-7","67207","Point",2972
+"59a47287cfa9a3a73e51ea93","Columbia","SC","100 Columbiana Circle","","29212","Point",2973
+"59a47287cfa9a3a73e51ea94","Minnetonka","MN","12313 Wayzata Blvd","Ste 1065","55305","Point",2975
+"59a47287cfa9a3a73e51ea95","Reno","NV","5000 Meadowood Mall Circle","Ste F107B","89502","Point",2974
+"59a47287cfa9a3a73e51ea96","Chesterfield","MO","291 Chesterfield Mall","Ste FC9","63017","Point",2966
+"59a47287cfa9a3a73e51ea97","Wilmington","NC","3500 Oleander Dr","Ste C28","28403","Point",2977
+"59a47287cfa9a3a73e51ea98","Oklahoma City","OK","2501 W Memorial Rd","Ste 144","73134","Point",2979
+"59a47287cfa9a3a73e51ea99","Paramus","NJ","700 Paramus Park","Ste 1420","07652","Point",2978
+"59a47287cfa9a3a73e51ea9a","Reston","VA","1861 Fountain Dr","","20190","Point",297
+"59a47287cfa9a3a73e51ea9b","Edison","NJ","55 Parsonage Rd","Spc FS01A","08837","Point",2980
+"59a47287cfa9a3a73e51ea9c","Elmhurst","NY","9015 Queens Blvd","Ste 0024","11373","Point",2984
+"59a47287cfa9a3a73e51ea9d","Waldorf","MD","11110 Mall Circle","","20603","Point",2993
+"59a47287cfa9a3a73e51ea9e","Melbourne","FL","1700 W New Haven Ave","Ste 827","32904","Point",2985
+"59a47287cfa9a3a73e51ea9f","Valley Stream","NY","2034 Green Acres Mall","#223B","11581","Point",2986
+"59a47287cfa9a3a73e51eaa0","Manassas","VA","8300 Sudley Road","Ste G3","20109","Point",2988
+"59a47287cfa9a3a73e51eaa1","Bowling Green","KY","2625 Scottsville Rd","Ste 520","42104","Point",2987
+"59a47287cfa9a3a73e51eaa2","Eatontown","NJ","180 Route 35","Spc 2138","07724","Point",2989
+"59a47287cfa9a3a73e51eaa3","Colorado Springs","CO","7675 N Academy Blvd","","80920","Point",298
+"59a47287cfa9a3a73e51eaa4","Midlothian","VA","11500 Midlothian Turnpike","Ste 400","23113","Point",2990
+"59a47287cfa9a3a73e51eaa5","Downers Grove","IL","1432 Butterfield Rd","","60515","Point",301
+"59a47287cfa9a3a73e51eaa6","Tacoma","WA","4502 S Steele St.","Ste 616","98409","Point",2991
+"59a47287cfa9a3a73e51eaa7","Cape Girardeau","MO","3049 William St","Ste 137","63703","Point",2982
+"59a47287cfa9a3a73e51eaa8","Bloomingdale","IL","350 W Army Trail Rd","","60108","Point",304
+"59a47287cfa9a3a73e51eaa9","San Antonio","TX","2747 SE Military Dr","","78223","Point",2995
+"59a47287cfa9a3a73e51eaaa","Miami Beach","FL","1517 Alton Road","","33139","Point",2998
+"59a47287cfa9a3a73e51eaab","Raleigh","NC","4325 Glenwood Ave","Ste 3006","27612","Point",299
+"59a47287cfa9a3a73e51eaac","Racine","WI","2710 S Green Bay Rd","","53406","Point",29
+"59a47287cfa9a3a73e51eaad","Orange","CT","53 Boston Post Rd","","06477","Point",300
+"59a47287cfa9a3a73e51eaae","Saint Louis","MO","7017 S Lindbergh Blvd","","63125","Point",30
+"59a47287cfa9a3a73e51eaaf","Kennewick","WA","1321 N Columbia Center Blvd","Ste 376","99336","Point",2992
+"59a47287cfa9a3a73e51eab0","Arlington Heights","IL","615 E Palatine Rd","","60004","Point",303
+"59a47287cfa9a3a73e51eab1","Evanston","IL","2301 Howard St","","60202","Point",313
+"59a47287cfa9a3a73e51eab2","Schaumburg","IL","900 E Golf Rd","","60173","Point",305
+"59a47287cfa9a3a73e51eab3","Crestwood","IL","4925 Cal Sag Rd","","60445","Point",306
+"59a47287cfa9a3a73e51eab4","Downers Grove","IL","7401 Lemont Rd","","60516","Point",316
+"59a47287cfa9a3a73e51eab5","Orland Park","IL","15854 S La Grange Rd","","60462","Point",308
+"59a47287cfa9a3a73e51eab6","Merrillville","IN","2490 E 79th Ave","","46410","Point",309
+"59a47287cfa9a3a73e51eab7","Skokie","IL","5425 Touhy Ave.","","60077","Point",302
+"59a47287cfa9a3a73e51eab8","Aurora","IL","4400 E New York St","","60504","Point",310
+"59a47287cfa9a3a73e51eab9","Burbank","IL","7600 S Cicero Ave","","60459","Point",311
+"59a47287cfa9a3a73e51eaba","Lansing","IL","17151 Torrence Ave","","60438","Point",312
+"59a47287cfa9a3a73e51eabb","Austin","TX","2901 S Capital of Texas Hwy","Ste P3","78746","Point",2994
+"59a47287cfa9a3a73e51eabc","Crystal Lake","IL","6000 Northwest Highway 14","","60014","Point",315
+"59a47287cfa9a3a73e51eabd","Joliet","IL","3351 Mall Loop Dr","","60431","Point",307
+"59a47287cfa9a3a73e51eabe","Vernon Hills","IL","701 N Milwaukee Ave","","60061","Point",318
+"59a47287cfa9a3a73e51eabf","Mankato","MN","1895 Adams St","","56001","Point",330
+"59a47287cfa9a3a73e51eac0","Fairview Heights","IL","26 Plaza Dr.","","62208","Point",31
+"59a47287cfa9a3a73e51eac1","North Riverside","IL","2358 Harlem Ave","","60546","Point",320
+"59a47287cfa9a3a73e51eac2","Melrose Park","IL","1334 Winston Plz","","60160","Point",322
+"59a47287cfa9a3a73e51eac3","Countryside","IL","11 Countryside Plz","","60525","Point",324
+"59a47287cfa9a3a73e51eac4","Chicago","IL","1000 W North Ave","","60642","Point",323
+"59a47287cfa9a3a73e51eac5","Mishawaka","IN","6502 Grape Rd","Ste 900","46545","Point",325
+"59a47287cfa9a3a73e51eac6","Lafayette","IN","2323 Sagamore Pkwy S","","47905","Point",327
+"59a47287cfa9a3a73e51eac7","Maple Grove","MN","12905 Elm Creek Blvd N","","55369","Point",329
+"59a47287cfa9a3a73e51eac8","Saint Peters","MO","5651 South Service Road","","63376","Point",32
+"59a47287cfa9a3a73e51eac9","Norridge","IL","4100a N Harlem Ave","","60706","Point",319
+"59a47287cfa9a3a73e51eaca","Danbury","CT","2 International Dr","","06810","Point",331
+"59a47287cfa9a3a73e51eacb","College Station","TX","805 Texas Ave S","","77840","Point",332
+"59a47287cfa9a3a73e51eacc","Louisville","KY","4251 Outer Loop","","40219","Point",335
+"59a47287cfa9a3a73e51eacd","Louisville","KY","5085 Shelbyville Rd","","40207","Point",333
+"59a47287cfa9a3a73e51eace","Grand Forks","ND","3751 32nd Ave S","","58201","Point",337
+"59a47287cfa9a3a73e51eacf","Lancaster","OH","1645 River Valley Cir N","","43130","Point",339
+"59a47287cfa9a3a73e51ead0","Albuquerque","NM","3741 Ellison Rd. NW","Suite D","87114","Point",338
+"59a47287cfa9a3a73e51ead1","Mobile","AL","1310 Tingle Circle East","Suite K","36606","Point",340
+"59a47287cfa9a3a73e51ead2","Wilkes Barre","PA","449 Arena Hub Plz","","18702","Point",342
+"59a47287cfa9a3a73e51ead3","Dickson City","PA","959 Viewmont Dr","","18519","Point",341
+"59a47287cfa9a3a73e51ead4","North Dartmouth","MA","27 Faunce Corner Rd","","02747","Point",343
+"59a47287cfa9a3a73e51ead5","Paramus","NJ","17 West Ridgewood Ave","","07652","Point",344
+"59a47287cfa9a3a73e51ead6","Huntington Station","NY","148 Walt Whitman Rd","","11746","Point",345
+"59a47287cfa9a3a73e51ead7","Manassas","VA","7665 Sudley Rd","","20109","Point",356
+"59a47287cfa9a3a73e51ead8","Lafayette","LA","5635 Johnston St","","70503","Point",347
+"59a47287cfa9a3a73e51ead9","Florence","AL","398 Cox Creek Parkway","","35630","Point",348
+"59a47287cfa9a3a73e51eada","Bellingham","WA","4281 Meridian St","","98226","Point",359
+"59a47287cfa9a3a73e51eadb","Bridgeton","MO","12410 St Charles Rock Rd","","63044","Point",34
+"59a47287cfa9a3a73e51eadc","Jacksonville","FL","9930 Southside Blvd","","32256","Point",350
+"59a47287cfa9a3a73e51eadd","San Diego","CA","9540 Mira Mesa Blvd","","92126","Point",352
+"59a47287cfa9a3a73e51eade","Citrus Heights","CA","6110 Birdcage Centre Ln","","95610","Point",364
+"59a47287cfa9a3a73e51eadf","Brownsville","TX","2701 Pablo Kisel Blvd","","78526","Point",353
+"59a47287cfa9a3a73e51eae0","Puyallup","WA","4102 S Meridian Ste A","","98373","Point",366
+"59a47287cfa9a3a73e51eae1","Katy","TX","20290 Katy Fwy","","77449","Point",354
+"59a47287cfa9a3a73e51eae2","State College","PA","1650 N Atherton St","","16803","Point",369
+"59a47287cfa9a3a73e51eae3","Pasadena","TX","5692 Fairmont Pkwy","","77505","Point",357
+"59a47287cfa9a3a73e51eae4","Lees Summit","MO","1608 Nw Chipman Rd","","64081","Point",370
+"59a47287cfa9a3a73e51eae5","Elk Grove","CA","9131 W Stockton Blvd","","95758","Point",349
+"59a47287cfa9a3a73e51eae6","Williston","VT","26 Cypress St","","05495","Point",360
+"59a47287cfa9a3a73e51eae7","Spokane","WA","9970 N Newport Hwy","","99218","Point",362
+"59a47287cfa9a3a73e51eae8","Yonkers","NY","2478 Central Park Ave","","10710","Point",374
+"59a47287cfa9a3a73e51eae9","Fayetteville","AR","464 E Joyce Blvd","","72703","Point",351
+"59a47287cfa9a3a73e51eaea","Macon","GA","4676 Presidential Pkwy","","31206","Point",365
+"59a47287cfa9a3a73e51eaeb","Spokane","WA","15223 E Indiana Ave","","99216","Point",355
+"59a47287cfa9a3a73e51eaec","Fort Wayne","IN","1770 Apple Glen Blvd","","46804","Point",368
+"59a47287cfa9a3a73e51eaed","Joplin","MO","3117 Turkey Creek Blvd","","64801","Point",346
+"59a47287cfa9a3a73e51eaee","Independence","MO","19110 E 39th St S","","64057","Point",36
+"59a47287cfa9a3a73e51eaef","Henderson","NV","611 Marks St","","89014","Point",358
+"59a47287cfa9a3a73e51eaf0","Kokomo","IN","1403 S Reed Rd","","46902","Point",371
+"59a47287cfa9a3a73e51eaf1","Federal Way","WA","31601 Pacific Hwy S","","98003","Point",372
+"59a47287cfa9a3a73e51eaf2","Harvey","LA","1601 Westbank Expy","Ste A","70058","Point",373
+"59a47287cfa9a3a73e51eaf3","Shreveport","LA","7080 Youree Dr","","71105","Point",363
+"59a47287cfa9a3a73e51eaf4","Santa Fe","NM","3533 Zafarano Dr","A6","87505","Point",375
+"59a47287cfa9a3a73e51eaf5","Geneva","IL","1876 S Randall Rd","","60134","Point",387
+"59a47287cfa9a3a73e51eaf6","Wilmington","NC","309 S College Rd","","28403","Point",378
+"59a47287cfa9a3a73e51eaf7","Prescott","AZ","3085 Gateway Blvd","","86303","Point",377
+"59a47287cfa9a3a73e51eaf8","Waterloo","IA","2541 Crossroads Blvd","","50702","Point",379
+"59a47287cfa9a3a73e51eaf9","Slidell","LA","200 Town Center Parkway","","70458","Point",380
+"59a47287cfa9a3a73e51eafa","Riverside","CA","2852 Canyon Springs Pkwy","","92507","Point",392
+"59a47287cfa9a3a73e51eafb","Birmingham","AL","4610 Highway 280","","35242","Point",383
+"59a47287cfa9a3a73e51eafc","Lakewood","CO","1400 Denver West Blvd","","80401","Point",382
+"59a47287cfa9a3a73e51eafd","Ithaca","NY","40 Catherwood Road","","14850","Point",384
+"59a47287cfa9a3a73e51eafe","Greenville","NC","3140 Evans St","","27834","Point",386
+"59a47287cfa9a3a73e51eaff","Plymouth","MA","228 Colony Place","","02360","Point",385
+"59a47287cfa9a3a73e51eb00","Benton Harbor","MI","1515 Orchard Xing","","49022","Point",376
+"59a47287cfa9a3a73e51eb01","Manalapan","NJ","15 Us Highway 9","","07726","Point",388
+"59a47287cfa9a3a73e51eb02","Mansfield","OH","2175 Walker Lake Rd","","44903","Point",390
+"59a47287cfa9a3a73e51eb03","Conyers","GA","1540 Dogwood Dr Se","","30013","Point",389
+"59a47287cfa9a3a73e51eb04","West Hartford","CT","1501 New Britain Ave","","06110","Point",381
+"59a47287cfa9a3a73e51eb05","W Hollywood","CA","1015 N La Brea Ave","","90038","Point",393
+"59a47287cfa9a3a73e51eb06","Tracy","CA","2550 Naglee Rd","","95304","Point",391
+"59a47287cfa9a3a73e51eb07","Pensacola","FL","5480 N 9th Ave","","32504","Point",395
+"59a47287cfa9a3a73e51eb08","Cincinnati","OH","5555 Glenway Ave","Suite 550","45238","Point",394
+"59a47287cfa9a3a73e51eb09","San Luis Obispo","CA","255 Madonna Rd","","93405","Point",396
+"59a47287cfa9a3a73e51eb0a","Vienna","VA","8449 Leesburg Pike","","22182","Point",397
+"59a47287cfa9a3a73e51eb0b","Wausau","WI","3800 Rib Mountain Dr","","54401","Point",399
+"59a47287cfa9a3a73e51eb0c","Silverdale","WA","9551 Ridgetop Blvd Nw","","98383","Point",398
+"59a47287cfa9a3a73e51eb0d","Overland Park","KS","9301 Quivira Rd","","66214","Point",39
+"59a47287cfa9a3a73e51eb0e","Holmdel","NJ","2130 State Route 35","","07733","Point",400
+"59a47287cfa9a3a73e51eb0f","Utica","MI","45520 Utica Park Blvd","","48315","Point",402
+"59a47287cfa9a3a73e51eb10","Westland","MI","35100 Cowan Rd","","48185","Point",403
+"59a47287cfa9a3a73e51eb11","Taylor","MI","23000 Eureka Rd","","48180","Point",401
+"59a47287cfa9a3a73e51eb12","Saginaw","MI","4460 Bay Rd","","48603","Point",405
+"59a47287cfa9a3a73e51eb13","Grand Rapids","MI","2650 E Beltline Ave SE","","49546","Point",406
+"59a47287cfa9a3a73e51eb14","Southfield","MI","28400 Telegraph Rd","","48034","Point",404
+"59a47287cfa9a3a73e51eb15","Ann Arbor","MI","3100 Lohr Rd","","48108","Point",408
+"59a47287cfa9a3a73e51eb16","Grand Rapids","MI","3410 Alpine Ave NW","","49544","Point",409
+"59a47287cfa9a3a73e51eb17","Roseville","MI","30701 Gratiot Ave","","48066","Point",407
+"59a47287cfa9a3a73e51eb18","Dearborn","MI","16221 Ford Rd","","48126","Point",410
+"59a47287cfa9a3a73e51eb19","Flint","MI","G3660 Miller Rd","","48507","Point",411
+"59a47287cfa9a3a73e51eb1a","Eau Claire","WI","4090 Commonwealth Ave","","54701","Point",40
+"59a47287cfa9a3a73e51eb1b","Portage","MI","6900 S Westnedge Ave","","49002","Point",413
+"59a47287cfa9a3a73e51eb1c","Bloomfield Hills","MI","2169 S. Telegraph Rd.","","48302","Point",412
+"59a47287cfa9a3a73e51eb1d","Madison Heights","MI","32320 John R Rd","","48071","Point",414
+"59a47287cfa9a3a73e51eb1e","Ft Gratiot","MI","4611 24th Ave","","48059","Point",415
+"59a47287cfa9a3a73e51eb1f","Novi","MI","21051 Haggerty Rd","","48375","Point",417
+"59a47287cfa9a3a73e51eb20","Okemos","MI","2020 W Grand River Rd","","48864","Point",416
+"59a47287cfa9a3a73e51eb21","Hickory","NC","1884 Catawba Valley Blvd SE","","28602","Point",425
+"59a47287cfa9a3a73e51eb22","Salem","NH","290 S Broadway Unit E","","03079","Point",419
+"59a47287cfa9a3a73e51eb23","Chesapeake","VA","1340 Greenbrier Pkwy","","23320","Point",421
+"59a47287cfa9a3a73e51eb24","Glen Allen","VA","11200 W Broad St","","23060","Point",423
+"59a47287cfa9a3a73e51eb25","Virginia Beach","VA","217 Independence Blvd","","23462","Point",420
+"59a47287cfa9a3a73e51eb26","Richmond","VA","1560 W Koger Center Blvd","","23235","Point",422
+"59a47287cfa9a3a73e51eb27","Frederick","MD","7300 Guilford Dr","","21704","Point",427
+"59a47287cfa9a3a73e51eb28","Gainesville","FL","3750 Sw Archer Rd","","32608","Point",424
+"59a47287cfa9a3a73e51eb29","Buford","GA","3205 Woodward Crossing Blvd","Ste A","30519","Point",426
+"59a47287cfa9a3a73e51eb2a","Holyoke","MA","50 Holyoke St","","01040","Point",418
+"59a47287cfa9a3a73e51eb2b","Jacksonville","FL","9355 Atlantic Blvd","","32225","Point",429
+"59a47287cfa9a3a73e51eb2c","Albany","NY","1 Crossgates Mall Rd","","12203","Point",428
+"59a47287cfa9a3a73e51eb2d","Fort Myers","FL","5019 S Cleveland Ave","","33907","Point",431
+"59a47287cfa9a3a73e51eb2e","Monroeville","PA","200 Mall Circle Dr","","15146","Point",432
+"59a47287cfa9a3a73e51eb2f","Rochester","NY","2345 Marketplace Dr","","14623","Point",433
+"59a47287cfa9a3a73e51eb30","Jacksonville","FL","8151 Blanding Blvd","","32244","Point",430
+"59a47287cfa9a3a73e51eb31","Dedham","MA","700 Providence Hwy","","02026","Point",436
+"59a47287cfa9a3a73e51eb32","Roanoke","VA","4707 Valley View Blvd NW","","24012","Point",434
+"59a47287cfa9a3a73e51eb33","San Diego","CA","5151 Mission Center Rd","","92108","Point",438
+"59a47287cfa9a3a73e51eb34","Oceanside","CA","2110 Vista Way","","92054","Point",437
+"59a47287cfa9a3a73e51eb35","Tallahassee","FL","1400 Apalachee Pkwy","","32301","Point",435
+"59a47287cfa9a3a73e51eb36","Duluth","MN","5105 Burning Tree Rd","","55811","Point",43
+"59a47287cfa9a3a73e51eb37","Bowling Green","KY","1875 Campbell Ln","","42104","Point",440
+"59a47287cfa9a3a73e51eb38","Bay Shore","NY","1851 Sunrise Highway","","11706","Point",442
+"59a47287cfa9a3a73e51eb39","Lynchburg","VA","4024 Wards Rd","Ste A","24502","Point",444
+"59a47287cfa9a3a73e51eb3a","Ocoee","FL","9537 W Colonial Dr","","34761","Point",443
+"59a47287cfa9a3a73e51eb3b","North Attleboro","MA","1337 S Washington St","","02760","Point",441
+"59a47287cfa9a3a73e51eb3c","Asheville","NC","83 S Tunnel Rd","","28805","Point",445
+"59a47287cfa9a3a73e51eb3d","Tukwila","WA","17364 Southcenter Pkwy","","98188","Point",447
+"59a47287cfa9a3a73e51eb3e","Waldorf","MD","11725 Berry Rd","","20603","Point",446
+"59a47287cfa9a3a73e51eb3f","Auburn Hills","MI","300 Brown Rd","","48326","Point",449
+"59a47287cfa9a3a73e51eb40","Brookfield","WI","19555 W Bluemound Rd","","53045","Point",44
+"59a47287cfa9a3a73e51eb41","Plymouth Meeting","PA","2010 Chemical Rd","","19462","Point",448
+"59a47287cfa9a3a73e51eb42","Beaverton","OR","3055 Sw Cedar Hills Blvd","","97005","Point",451
+"59a47287cfa9a3a73e51eb43","Portland","OR","9739 NE Cascades Pkwy","","97220","Point",450
+"59a47287cfa9a3a73e51eb44","Middletown","NY","1100 N Galleria Dr","","10941","Point",461
+"59a47287cfa9a3a73e51eb45","Westbury","NY","1100 Old Country Rd","","11590","Point",454
+"59a47287cfa9a3a73e51eb46","Portland","OR","9630 SE 82nd Ave","","97086","Point",452
+"59a47287cfa9a3a73e51eb47","Salem","OR","3801 Center St Ne","","97301","Point",453
+"59a47287cfa9a3a73e51eb48","Iselin","NJ","675 Us Highway 1 S","","08830","Point",456
+"59a47287cfa9a3a73e51eb49","Rockaway","NJ","345 Mount Hope Ave","","07866","Point",457
+"59a47287cfa9a3a73e51eb4a","South Setauket","NY","261 Pond Path","","11720","Point",458
+"59a47287cfa9a3a73e51eb4b","Amherst","NY","1585 Niagara Falls Blvd","","14228","Point",459
+"59a47287cfa9a3a73e51eb4c","Rockford","IL","281 Deane Dr","","61107","Point",45
+"59a47287cfa9a3a73e51eb4d","Poughkeepsie","NY","2001 South Rd","","12601","Point",460
+"59a47287cfa9a3a73e51eb4e","West Nyack","NY","1240 Palisades Center Dr","","10994","Point",455
+"59a47287cfa9a3a73e51eb4f","Tampa","FL","12675 Citrus Plaza Dr","","33625","Point",462
+"59a47287cfa9a3a73e51eb50","Bangor","ME","45 Bangor Mall Blvd","","04401","Point",463
+"59a47287cfa9a3a73e51eb51","Grandville","MI","4830 Wilson Ave SW","","49418","Point",464
+"59a47287cfa9a3a73e51eb52","Wilmington","DE","4807 Concord Pike","","19803","Point",465
+"59a47287cfa9a3a73e51eb53","Jackson","MI","1014 Jackson Xing","","49202","Point",476
+"59a47287cfa9a3a73e51eb54","Levittown","NY","3601 Hempstead Tpke","","11756","Point",467
+"59a47287cfa9a3a73e51eb55","Staten Island","NY","2795 Richmond Ave","","10314","Point",469
+"59a47287cfa9a3a73e51eb56","Champaign","IL","2117 N Prospect Ave","","61822","Point",46
+"59a47287cfa9a3a73e51eb57","Seattle","WA","330 NE Northgate Way","","98125","Point",470
+"59a47287cfa9a3a73e51eb58","Mount Vernon","NY","555 E Sandford Blvd","","10550","Point",471
+"59a47287cfa9a3a73e51eb59","Union","NJ","2391 Route 22 W","","07083","Point",472
+"59a47287cfa9a3a73e51eb5a","East Hanover","NJ","410 State Route 10","","07936","Point",473
+"59a47287cfa9a3a73e51eb5b","Secaucus","NJ","925 Paterson Plank Rd","","07094","Point",474
+"59a47287cfa9a3a73e51eb5c","Woodland Park","NJ","30 Andrews Dr","","07424","Point",468
+"59a47287cfa9a3a73e51eb5d","Brick","NJ","51 Chambersbridge Rd","","08723","Point",475
+"59a47287cfa9a3a73e51eb5e","Lynnwood","WA","19225 Alderwood Mall Pkwy","","98036","Point",477
+"59a47287cfa9a3a73e51eb5f","Long Island City","NY","5001 Northern Blvd","","11101","Point",478
+"59a47287cfa9a3a73e51eb60","Newport News","VA","12151 Jefferson Ave","","23602","Point",479
+"59a47287cfa9a3a73e51eb61","Springfield","IL","3193 S Veterans Pkwy","","62704","Point",47
+"59a47287cfa9a3a73e51eb62","Muskegon","MI","5425 Harvey St","","49444","Point",480
+"59a47287cfa9a3a73e51eb63","New York","NY","60 West 23rd Street","","10010","Point",482
+"59a47287cfa9a3a73e51eb64","Manchester","CT","120 Slater St","","06040","Point",484
+"59a47287cfa9a3a73e51eb65","Elmhurst","NY","8801 Queens Blvd","","11373","Point",483
+"59a47287cfa9a3a73e51eb66","Goodyear","AZ","1408 North Litchfield Road","","85395","Point",485
+"59a47287cfa9a3a73e51eb67","Bowie","MD","15800 Collington Rd","","20715","Point",486
+"59a47287cfa9a3a73e51eb68","Newington","CT","3377 Berlin Tpke","","06111","Point",487
+"59a47287cfa9a3a73e51eb69","Chattanooga","TN","2290 Gunbarrel Rd","Ste 114","37421","Point",488
+"59a47287cfa9a3a73e51eb6a","Avon","IN","10346 E US Highway 36","","46123","Point",489
+"59a47287cfa9a3a73e51eb6b","Topeka","KS","1600 Sw Wanamaker Rd","","66604","Point",48
+"59a47287cfa9a3a73e51eb6c","Carmel","IN","14610 N Meridian St","","46032","Point",490
+"59a47287cfa9a3a73e51eb6d","Muncie","IN","3301 N Marleon Dr","","47304","Point",491
+"59a47287cfa9a3a73e51eb6e","Carbondale","IL","1270 E Main St","","62901","Point",492
+"59a47287cfa9a3a73e51eb6f","Alexandria","VA","3401 Jefferson Davis Hwy","","22305","Point",493
+"59a47287cfa9a3a73e51eb70","Cincinnati","OH","9871 Waterstone Blvd","","45249","Point",494
+"59a47287cfa9a3a73e51eb71","Dunwoody","GA","1201 Hammond Dr","Suite C","30346","Point",503
+"59a47287cfa9a3a73e51eb72","Sandy","UT","35 E 11400 S","","84070","Point",497
+"59a47287cfa9a3a73e51eb73","Ogden","UT","1093 West Riverdale Rd","","84405","Point",496
+"59a47287cfa9a3a73e51eb74","Bellevue","WA","457 120th Ave NE","","98005","Point",498
+"59a47287cfa9a3a73e51eb75","Bloomington","IL","2103 N Veterans Pkwy","Ste 200","61704","Point",49
+"59a47287cfa9a3a73e51eb76","Oakland","CA","3700 Mandela Pkwy","","94608","Point",499
+"59a47287cfa9a3a73e51eb77","Traverse City","MI","2577 North US-31 South","","49684","Point",500
+"59a47287cfa9a3a73e51eb78","Hopkins","MN","13513 Ridgedale Dr","","55305","Point",4
+"59a47287cfa9a3a73e51eb79","Smyrna","GA","2460 Cobb Pkwy Se","","30080","Point",502
+"59a47287cfa9a3a73e51eb7a","Kennesaw","GA","850 Cobb Place Boulevard Nw","","30144","Point",501
+"59a47287cfa9a3a73e51eb7b","Baton Rouge","LA","5913 Bluebonnet Blvd","","70836","Point",495
+"59a47287cfa9a3a73e51eb7c","Morrow","GA","1980 Mount Zion Rd","","30260","Point",505
+"59a47287cfa9a3a73e51eb7d","Duluth","GA","1875 Pleasant Hill Rd","","30096","Point",504
+"59a47287cfa9a3a73e51eb7e","Augusta","GA","3667 Walton Way Ext","","30909","Point",507
+"59a47287cfa9a3a73e51eb7f","Altamonte Springs","FL","597 W State Road 436","","32714","Point",509
+"59a47287cfa9a3a73e51eb80","Savannah","GA","7929 Abercorn St","Bldg 5","31406","Point",508
+"59a47287cfa9a3a73e51eb81","Lincoln","NE","6919 O Street","","68510","Point",50
+"59a47287cfa9a3a73e51eb82","Athens","GA","1791 Oconee Connector","Suite 110 ","30606","Point",511
+"59a47287cfa9a3a73e51eb83","Anderson","SC","3601 Clemson Blvd","","29621","Point",520
+"59a47287cfa9a3a73e51eb84","Melbourne","FL","1900 Evans Rd","","32904","Point",512
+"59a47287cfa9a3a73e51eb85","Tucker","GA","4135 Lavista Rd","Suite C100","30084","Point",513
+"59a47287cfa9a3a73e51eb86","Daytona Beach","FL","1900 W International Speedway","","32114","Point",515
+"59a47287cfa9a3a73e51eb87","Huntsville","AL","5850b University Dr NW","","35806","Point",514
+"59a47287cfa9a3a73e51eb88","Alpharetta","GA","975 N Point Dr","","30022","Point",516
+"59a47287cfa9a3a73e51eb89","North Charleston","SC","7612 Rivers Ave","","29406","Point",517
+"59a47287cfa9a3a73e51eb8a","Kingston","NY","1300 Ulster Ave","","12401","Point",518
+"59a47287cfa9a3a73e51eb8b","Douglasville","GA","6875 Douglas Blvd","","30135","Point",519
+"59a47287cfa9a3a73e51eb8c","Wichita","KS","2111 North Rock Rd","Ste 121","67206","Point",51
+"59a47287cfa9a3a73e51eb8d","Orlando","FL","8350 S Orange Blossom Trl","","32809","Point",510
+"59a47287cfa9a3a73e51eb8e","Murray","UT","5181 S State St","","84107","Point",521
+"59a47287cfa9a3a73e51eb8f","Baxter","MN","14555 Edgewood Dr","","56425","Point",522
+"59a47287cfa9a3a73e51eb90","Cape Girardeau","MO","3026 William St","","63703","Point",523
+"59a47287cfa9a3a73e51eb91","Framingham","MA","1 Worcester Rd","","01701","Point",532
+"59a47287cfa9a3a73e51eb92","Naples","FL","6325 Naples Blvd","","34109","Point",524
+"59a47287cfa9a3a73e51eb93","Boise","ID","8363 W Franklin Rd","","83709","Point",526
+"59a47287cfa9a3a73e51eb94","Salt Lake City","UT","261 W 2100 S","","84115","Point",527
+"59a47287cfa9a3a73e51eb95","Cambridge","MA","100 Cambridgeside Pl","","02141","Point",537
+"59a47287cfa9a3a73e51eb96","Visalia","CA","4236 S Mooney Blvd","","93277","Point",529
+"59a47287cfa9a3a73e51eb97","Springfield","MO","3450 S Glenstone Ave","","65804","Point",52
+"59a47287cfa9a3a73e51eb98","South Portland","ME","364 Maine Mall Rd","#301","04106","Point",531
+"59a47287cfa9a3a73e51eb99","Danvers","MA","230 Independence Way","","01923","Point",533
+"59a47287cfa9a3a73e51eb9a","Braintree","MA","550 Grossman Dr","","02184","Point",530
+"59a47287cfa9a3a73e51eb9b","North Wales","PA","801 Bethlehem Pike","","19454","Point",525
+"59a47287cfa9a3a73e51eb9c","Nashua","NH","220 Daniel Webster Hwy","","03060","Point",534
+"59a47287cfa9a3a73e51eb9d","Newington","NH","45 Gosling Rd","","03801","Point",535
+"59a47287cfa9a3a73e51eb9e","Harrisburg","PA","5000 Jonestown Rd","","17112","Point",547
+"59a47287cfa9a3a73e51eb9f","Stockton","CA","5400 Pacific Ave","","95207","Point",528
+"59a47287cfa9a3a73e51eba0","Syracuse","NY","9090 Destiny USA Drive","","13290","Point",538
+"59a47287cfa9a3a73e51eba1","Anchorage","AK","800 E. Dimond","","99515","Point",539
+"59a47287cfa9a3a73e51eba2","Saratoga Springs","NY","3062 Route 50","","12866","Point",541
+"59a47287cfa9a3a73e51eba3","Coon Rapids","MN","12633 Riverdale Blvd Nw","","55448","Point",540
+"59a47287cfa9a3a73e51eba4","Fort Lauderdale","FL","2829 N Federal Hwy","","33306","Point",543
+"59a47287cfa9a3a73e51eba5","Las Vegas","NV","10950 W Charleston Blvd","","89135","Point",542
+"59a47287cfa9a3a73e51eba6","Bridgewater","NJ","300 Commons Way","","08807","Point",544
+"59a47287cfa9a3a73e51eba7","New Hartford","NY","4725 Commercial Dr","","13413","Point",545
+"59a47287cfa9a3a73e51eba8","Manchester","NH","1500 S Willow St","","03103","Point",536
+"59a47287cfa9a3a73e51eba9","Waterford","CT","913 Hartford Tpke","","06385","Point",549
+"59a47287cfa9a3a73e51ebaa","Mesquite","TX","2701 N Mesquite Dr","","75150","Point",54
+"59a47287cfa9a3a73e51ebab","West Palm Beach","FL","1880 Palm Beach Lakes Blvd","","33401","Point",550
+"59a47287cfa9a3a73e51ebac","Plantation","FL","12301 W Sunrise Blvd","","33323","Point",551
+"59a47287cfa9a3a73e51ebad","Miami","FL","12495 SW 88th Street","","33186","Point",552
+"59a47287cfa9a3a73e51ebae","Boca Raton","FL","20540 State Road 7","","33498","Point",554
+"59a47287cfa9a3a73e51ebaf","Miami","FL","7751 Bird Rd","","33155","Point",553
+"59a47287cfa9a3a73e51ebb0","Hialeah","FL","4001 W 20th Ave","","33012","Point",555
+"59a47287cfa9a3a73e51ebb1","Everett","WA","1130 Se Everett Mall Way","Ste A","98208","Point",566
+"59a47287cfa9a3a73e51ebb2","Aventura","FL","21035 Biscayne Blvd","","33180","Point",558
+"59a47287cfa9a3a73e51ebb3","Pembroke Pines","FL","11450 Pines Blvd","","33026","Point",559
+"59a47287cfa9a3a73e51ebb4","Hurst","TX","869 NE Mall Blvd","","76053","Point",55
+"59a47287cfa9a3a73e51ebb5","Brandon","FL","116 Grand Regency Blvd","","33510","Point",560
+"59a47287cfa9a3a73e51ebb6","Tampa","FL","1725 N Dale Mabry Hwy","","33607","Point",561
+"59a47287cfa9a3a73e51ebb7","Sarasota","FL","4020 S Tamiami Trl","","34231","Point",562
+"59a47287cfa9a3a73e51ebb8","Lakeland","FL","4215 Us Highway 98 N","","33809","Point",563
+"59a47287cfa9a3a73e51ebb9","Clearwater","FL","21415 Us Highway 19 N","","33765","Point",564
+"59a47287cfa9a3a73e51ebba","Miami","FL","8450 S Dixie Hwy","","33143","Point",557
+"59a47287cfa9a3a73e51ebbb","Wilmington","DE","2201 Farrand Dr","","19808","Point",575
+"59a47287cfa9a3a73e51ebbc","Orlando","FL","845 N Alafaya Trl","","32828","Point",571
+"59a47287cfa9a3a73e51ebbd","St. Petersburg","FL","6600 22nd Avenue N","","33710","Point",565
+"59a47287cfa9a3a73e51ebbe","Cedar Hill","TX","731 N U.S. Highway 67","","75104","Point",56
+"59a47287cfa9a3a73e51ebbf","Warwick","RI","24 Universal Blvd","","02886","Point",569
+"59a47287cfa9a3a73e51ebc0","Columbus","OH","1375 Polaris Pkwy","","43240","Point",570
+"59a47287cfa9a3a73e51ebc1","Metaire","LA","6205 Veterans Memorial Blvd","","70003","Point",572
+"59a47287cfa9a3a73e51ebc2","Barboursville","WV","6 Mall Rd","","25504","Point",573
+"59a47287cfa9a3a73e51ebc3","Springfield","PA","642 Baltimore Pike","","19064","Point",582
+"59a47287cfa9a3a73e51ebc4","Wyomissing","PA","1701 Crossing Dr","","19610","Point",580
+"59a47287cfa9a3a73e51ebc5","Worcester","MA","7 Neponset St","","01606","Point",567
+"59a47287cfa9a3a73e51ebc6","Pittsburgh","PA","430 Home Dr","","15275","Point",584
+"59a47287cfa9a3a73e51ebc7","Fairless Hills","PA","310 Commerce Blvd","","19030","Point",577
+"59a47287cfa9a3a73e51ebc8","Deptford","NJ","1851 Deptford Center Rd","","08096","Point",579
+"59a47287cfa9a3a73e51ebc9","Pittsburgh","PA","4801 Mcknight Rd","","15237","Point",585
+"59a47287cfa9a3a73e51ebca","Princeton","NJ","251 Nassau Park Blvd","","08540","Point",578
+"59a47287cfa9a3a73e51ebcb","Mays Landing","NJ","100 Consumer Square","","08330","Point",581
+"59a47287cfa9a3a73e51ebcc","Garner","NC","120 Shenstone Ln","","27529","Point",574
+"59a47287cfa9a3a73e51ebcd","Hyannis","MA","793 Iyannough Rd","Ste A","02601","Point",568
+"59a47287cfa9a3a73e51ebce","Mt Laurel","NJ","1420 Nixon Dr","","08054","Point",583
+"59a47287cfa9a3a73e51ebcf","Willow Grove","PA","1130 Easton Rd","","19090","Point",576
+"59a47287cfa9a3a73e51ebd0","Whitehall","PA","1504 Macarthur Rd","","18052","Point",587
+"59a47287cfa9a3a73e51ebd1","Arlington","TX","1730 Pleasant Pl","","76015","Point",57
+"59a47287cfa9a3a73e51ebd2","Pittsburgh","PA","473 Clairton Blvd","","15236","Point",588
+"59a47287cfa9a3a73e51ebd3","Philadelphia","PA","9940 Roosevelt Blvd","","19115","Point",589
+"59a47287cfa9a3a73e51ebd4","Bethel Park","PA","5000 Alicia Dr","","15102","Point",586
+"59a47287cfa9a3a73e51ebd5","Kennewick","WA","6809 West Canal Drive","","99336","Point",590
+"59a47287cfa9a3a73e51ebd6","Dallas","TX","9378 N Central Expy","","75231","Point",58
+"59a47287cfa9a3a73e51ebd7","Concord","NH","78 Damante Dr","","03301","Point",591
+"59a47287cfa9a3a73e51ebd8","Billings","MT","2450 King Ave W","","59102","Point",592
+"59a47287cfa9a3a73e51ebd9","Longview","TX","422 W Loop 281","Ste 100","75605","Point",594
+"59a47287cfa9a3a73e51ebda","Missoula","MT","2640 N Reserve St","","59808","Point",593
+"59a47287cfa9a3a73e51ebdb","Erie","PA","6650 Peach St","","16509","Point",597
+"59a47287cfa9a3a73e51ebdc","Watertown","MA","550 Arsenal St","Ste 2","02472","Point",596
+"59a47287cfa9a3a73e51ebdd","Greensburg","PA","125 Donohoe Rd","","15601","Point",595
+"59a47287cfa9a3a73e51ebde","Brooklyn","NY","8923 Bay Pkwy","","11214","Point",599
+"59a47287cfa9a3a73e51ebdf","Madison","WI","2452 E Springs Dr","","53704","Point",59
+"59a47287cfa9a3a73e51ebe0","East Brunswick","NJ","300 State Route 18","Suite 4","08816","Point",598
+"59a47287cfa9a3a73e51ebe1","New York","NY","622 Broadway","","10012","Point",609
+"59a47287cfa9a3a73e51ebe2","Aberdeen","NC","11088 N US Highway 15 501","","28315","Point",601
+"59a47287cfa9a3a73e51ebe3","Victoria","TX","7800 N Navarro St","Ste 145","77904","Point",603
+"59a47287cfa9a3a73e51ebe4","Mason City","IA","440 Indian Head Dr","","50401","Point",604
+"59a47287cfa9a3a73e51ebe5","Springfield","OR","3300 Gateway St","","97477","Point",600
+"59a47287cfa9a3a73e51ebe6","Forsyth","IL","1450 Koester DR","","62535","Point",606
+"59a47287cfa9a3a73e51ebe7","Texarkana","TX","4210 Saint Michael Dr","","75503","Point",605
+"59a47287cfa9a3a73e51ebe8","Sanford","FL","1501 Rinehart Rd","","32771","Point",608
+"59a47287cfa9a3a73e51ebe9","Hamilton","OH","3435 Princeton Rd","","45011","Point",617
+"59a47287cfa9a3a73e51ebea","Columbia","MO","2001 W Worley St","Ste 140","65203","Point",602
+"59a47287cfa9a3a73e51ebeb","South Elgin","IL","424 Randall Rd","","60177","Point",607
+"59a47287cfa9a3a73e51ebec","Covington","LA","69344 Highway 21","","70433","Point",612
+"59a47287cfa9a3a73e51ebed","St Joseph","MO","5201 N Belt Hwy","Ste 129","64506","Point",613
+"59a47287cfa9a3a73e51ebee","Oklahoma City","OK","2135 W Memorial Rd","","73134","Point",646
+"59a47287cfa9a3a73e51ebef","Kildeer","IL","20771 N Rand Rd","Bldg J","60047","Point",647
+"59a47287cfa9a3a73e51ebf0","Eden Prairie","MN","11600 Leona Rd","","55344","Point",611
+"59a47287cfa9a3a73e51ebf1","Simi Valley","CA","1173 Simi Town Center W","","93065","Point",649
+"59a47287cfa9a3a73e51ebf2","Coeur d'Alene","ID","425 W Wilbur Ave","","83815","Point",655
+"59a47287cfa9a3a73e51ebf3","Burlington","NC","1465 University Dr","","27215","Point",648
+"59a47287cfa9a3a73e51ebf4","Bluffton","SC","1007 Fording Island Rd","","29910","Point",664
+"59a47287cfa9a3a73e51ebf5","Clarksville","TN","2805 Wilma Rudolph Blvd","","37040","Point",663
+"59a47287cfa9a3a73e51ebf6","Sacramento","CA","3690 North Freeway Boulevard","","95834","Point",660
+"59a47287cfa9a3a73e51ebf7","Palm Beach Gardens","FL","11230 Legacy Ave","","33410","Point",688
+"59a47287cfa9a3a73e51ebf8","Opelika","AL","2147 Tiger Town Pkwy","","36801","Point",662
+"59a47287cfa9a3a73e51ebf9","Delafield","WI","3270 Golf Rd Ste 100","","53018","Point",667
+"59a47287cfa9a3a73e51ebfa","Burleson","TX","12820 South Freeway","","76028","Point",665
+"59a47287cfa9a3a73e51ebfb","Fox Point","WI","8755 N. Port Washington Rd.","","53217","Point",654
+"59a47287cfa9a3a73e51ebfc","Sunnyvale","CA","760 E El Camino Real","","94087","Point",685
+"59a47287cfa9a3a73e51ebfd","Hattiesburg","MS","4600 Hardy St","Ste 23","39401","Point",661
+"59a47287cfa9a3a73e51ebfe","Vineland","NJ","3849 S Delsea Dr","","08360","Point",692
+"59a47287cfa9a3a73e51ebff","Inver Grove Heights","MN","1350 50th Street E","","55077","Point",6
+"59a47287cfa9a3a73e51ec00","Menomonee Falls","WI","N94 W16855 Falls Parkway","","53051","Point",757
+"59a47287cfa9a3a73e51ec01","Meriden","CT","470 Lewis Ave","","06450","Point",760
+"59a47287cfa9a3a73e51ec02","Aurora","CO","5999 S Southlands Pkwy","","80016","Point",694
+"59a47287cfa9a3a73e51ec03","Spanish Fort","AL","10200 Eastern Shore Blvd","","36527","Point",678
+"59a47287cfa9a3a73e51ec04","Council Bluffs","IA","3115 Manawa Centre Dr","","51501","Point",759
+"59a47287cfa9a3a73e51ec05","Macedonia","OH","470 E Aurora Rd","","44056","Point",758
+"59a47287cfa9a3a73e51ec06","Tulsa","OK","5520 E Skelly Dr","","74135","Point",762
+"59a47287cfa9a3a73e51ec07","Sherman Oaks","CA","4500 Van Nuys Blvd","","91403","Point",764
+"59a47287cfa9a3a73e51ec08","Honolulu","HI","478 Alakawa St","","96817","Point",763
+"59a47287cfa9a3a73e51ec09","Kansas City","MO","8500 N Flintlock Rd","","64157","Point",768
+"59a47287cfa9a3a73e51ec0a","Chesapeake","VA","4107 Portsmouth Blvd","","23321","Point",766
+"59a47287cfa9a3a73e51ec0b","Estero","FL","8000 Mediterranean Dr","","33928","Point",767
+"59a47287cfa9a3a73e51ec0c","Mcdonough","GA","1861 Jonesboro Rd","","30253","Point",668
+"59a47287cfa9a3a73e51ec0d","Georgetown","TX","1015 W University Ave","Ste 300","78627","Point",691
+"59a47287cfa9a3a73e51ec0e","Loveland","CO","6075 Sky Pond Dr","","80538","Point",693
+"59a47287cfa9a3a73e51ec0f","Orem","UT","309 E University Pkwy","","84058","Point",773
+"59a47287cfa9a3a73e51ec10","Salisbury","MD","109 E North Pointe Dr.","","21804","Point",772
+"59a47287cfa9a3a73e51ec11","Tustin","CA","2982 El Camino Real","","92782","Point",774
+"59a47287cfa9a3a73e51ec12","Eastvale","CA","12281 Limonite Ave","","91752","Point",775
+"59a47287cfa9a3a73e51ec13","Snellville","GA","1679 Scenic Hwy N","","30078","Point",776
+"59a47287cfa9a3a73e51ec14","Tupelo","MS","3040 N Gloster St","","38804","Point",778
+"59a47287cfa9a3a73e51ec15","Surprise","AZ","13711 W Bell Rd","","85374","Point",787
+"59a47287cfa9a3a73e51ec16","Valdosta","GA","1705 Norman Dr","","31601","Point",789
+"59a47287cfa9a3a73e51ec17","Colonial Heights","VA","723 Southpark Blvd","","23834","Point",788
+"59a47287cfa9a3a73e51ec18","Springfield","OH","1709 N Bechtle Ave","","45504","Point",790
+"59a47287cfa9a3a73e51ec19","Elizabethtown","KY","2050 N Dixie Hwy","","42701","Point",791
+"59a47287cfa9a3a73e51ec1a","Dothan","AL","4863 Montgomery Hwy","Ste 100","36303","Point",793
+"59a47287cfa9a3a73e51ec1b","Sioux City","IA","4730 Sergeant Rd","","51106","Point",792
+"59a47287cfa9a3a73e51ec1c","West Des Moines","IA","6825 Mills Civic Pkwy","","50266","Point",796
+"59a47287cfa9a3a73e51ec1d","Soquel","CA","2650 41st Ave","","95073","Point",797
+"59a47287cfa9a3a73e51ec1e","Burlington","WA","1851 Marketplace Dr","","98233","Point",798
+"59a47287cfa9a3a73e51ec1f","Findlay","OH","1800 Tiffin Ave","Ste 100","45840","Point",795
+"59a47287cfa9a3a73e51ec20","Roseville","MN","1643 County Road B2","","55113","Point",7
+"59a47287cfa9a3a73e51ec21","Destin","FL","34940 Emerald Coast Pkwy","Unit 150","32541","Point",799
+"59a47287cfa9a3a73e51ec22","Atlanta","GA","6000 N. Terminal Pkwy","","30320","Point",8002
+"59a47287cfa9a3a73e51ec23","Richfield","MN","7601 Penn Ave South","","55423","Point",8001
+"59a47287cfa9a3a73e51ec24","Dallas","TX","3200 East Airfield Drive","","75261","Point",8004
+"59a47287cfa9a3a73e51ec25","Dallas","TX","3200 East Airfield Drive","","75261","Point",8003
+"59a47287cfa9a3a73e51ec26","Minneapolis","MN","7150 Humphrey Drive","","55111","Point",8006
+"59a47287cfa9a3a73e51ec27","Houston","TX","2800 North Terminal Rd.","","77032","Point",8009
+"59a47287cfa9a3a73e51ec28","Boston","MA","1 Harborside Drive","","2128","Point",8007
+"59a47287cfa9a3a73e51ec29","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8016
+"59a47287cfa9a3a73e51ec2a","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8017
+"59a47287cfa9a3a73e51ec2b","Minneapolis","MN","7150 Humphrey Drive","","55111","Point",8005
+"59a47287cfa9a3a73e51ec2c","Dallas","TX","3200 East Airfield Drive","","75261","Point",8014
+"59a47287cfa9a3a73e51ec2d","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8008
+"59a47287cfa9a3a73e51ec2e","San Francisco","CA","275 S Airport Blvd","","94080","Point",8011
+"59a47287cfa9a3a73e51ec2f","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8018
+"59a47287cfa9a3a73e51ec30","Dallas","TX","3200 East Airfield Drive","","75261","Point",8019
+"59a47287cfa9a3a73e51ec31","Houston","TX","2800 North Terminal Rd.","","77032","Point",8010
+"59a47287cfa9a3a73e51ec32","Boston","MA","1 Harborside Drive","","2128","Point",8020
+"59a47287cfa9a3a73e51ec33","Washington","DC","4500 Wisconsin Ave Nw","","20016","Point",801
+"59a47287cfa9a3a73e51ec34","Los Angeles","CA","1 World Way","","90045","Point",8013
+"59a47287cfa9a3a73e51ec35","Los Angeles","CA","1 World Way","","90045","Point",8012
+"59a47287cfa9a3a73e51ec36","Orlando","FL","One Airport Blvd.","","32827","Point",8021
+"59a47287cfa9a3a73e51ec37","Memphis","TN","2491 Winchester Rd. Suite 113","","38116","Point",8022
+"59a47287cfa9a3a73e51ec38","Dallas","TX","3200 East Airfield Drive","","75261","Point",8023
+"59a47287cfa9a3a73e51ec39","Ft. Lauderdale","FL","100 Aviation Blvd.","","33315","Point",8025
+"59a47287cfa9a3a73e51ec3a","Reno","NV","2001 East Plumb Lane","","89502","Point",8026
+"59a47287cfa9a3a73e51ec3b","Jamaica","NY","JFK Access Road","","11430","Point",8027
+"59a47287cfa9a3a73e51ec3c","Jamaica","NY","JFK Access Road","","11430","Point",8028
+"59a47287cfa9a3a73e51ec3d","Houston","TX","2800 North Terminal Rd.","","77032","Point",8031
+"59a47287cfa9a3a73e51ec3e","Las Cruces","NM","2280 E Lohman Ave","","88001","Point",802
+"59a47287cfa9a3a73e51ec3f","Houston","TX","2800 North Terminal Rd.","","77032","Point",8032
+"59a47287cfa9a3a73e51ec40","Los Angeles","CA","1 World Way","","90045","Point",8034
+"59a47287cfa9a3a73e51ec41","Jamaica","NY","JFK Access Road","","11430","Point",8033
+"59a47287cfa9a3a73e51ec42","Los Angeles","CA","1 World Way","","90045","Point",8035
+"59a47287cfa9a3a73e51ec43","Nashville","TN","One Terminal Drive","","37214","Point",8037
+"59a47287cfa9a3a73e51ec44","Ft. Lauderdale","FL","100 Aviation Blvd.","","33315","Point",8036
+"59a47287cfa9a3a73e51ec45","Ft. Lauderdale","FL","100 Aviation Blvd.","","33315","Point",8038
+"59a47287cfa9a3a73e51ec46","Oakland","CA","9 Airport Dr.","","94621","Point",8039
+"59a47287cfa9a3a73e51ec47","Lansing","MI","5216 W Saginaw Hwy","","48917","Point",803
+"59a47287cfa9a3a73e51ec48","Newark","NJ","3 Brewster Rd","","7114","Point",8040
+"59a47287cfa9a3a73e51ec49","Flushing","NY","LaGuardia Airport","","11371","Point",8042
+"59a47287cfa9a3a73e51ec4a","Columbus","OH","4600 International Gateway","","43219","Point",8045
+"59a47287cfa9a3a73e51ec4b","Flushing","NY","LaGuardia Airport","","11371","Point",8046
+"59a47287cfa9a3a73e51ec4c","Cleveland","OH","143 Airport Blvd","","44181","Point",8043
+"59a47287cfa9a3a73e51ec4d","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8048
+"59a47287cfa9a3a73e51ec4e","Jamaica","NY","JFK Access Road","","11430","Point",8047
+"59a47287cfa9a3a73e51ec4f","West Palm Beach","FL","1000 James L Turnage Boulevard","","33415","Point",8050
+"59a47287cfa9a3a73e51ec50","Dallas","TX","8008 Cedar Springs Rd","","75235","Point",8052
+"59a47287cfa9a3a73e51ec51","West Palm Beach","FL","1000 James L Turnage Boulevard","","33415","Point",8051
+"59a47287cfa9a3a73e51ec52","Los Angeles","CA","1 World Way","","90045","Point",8055
+"59a47287cfa9a3a73e51ec53","Houston","TX","2800 North Terminal Rd.","","77032","Point",8053
+"59a47287cfa9a3a73e51ec54","Jamaica","NY","JFK Access Road","","11430","Point",8059
+"59a47287cfa9a3a73e51ec55","Los Angeles","CA","1 World Way","","90045","Point",8056
+"59a47287cfa9a3a73e51ec56","Jacksonville","NC","1116 Western Blvd","","28546","Point",805
+"59a47287cfa9a3a73e51ec57","Dallas","TX","3200 East Airfield Drive","","75261","Point",8060
+"59a47287cfa9a3a73e51ec58","Boston","MA","1 Harborside Drive","","2128","Point",8062
+"59a47287cfa9a3a73e51ec59","Dallas","TX","3200 East Airfield Drive","","75261","Point",8063
+"59a47287cfa9a3a73e51ec5a","Minneapolis","MN","7150 Humphrey Drive","","55111","Point",8064
+"59a47287cfa9a3a73e51ec5b","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8066
+"59a47287cfa9a3a73e51ec5c","Indianapolis","IN","7800 Col. H. Weir Cook Memorial Dr.","","46241","Point",8067
+"59a47287cfa9a3a73e51ec5d","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8068
+"59a47287cfa9a3a73e51ec5e","Seekonk","MA","41 Commerce Way","","02771","Point",806
+"59a47287cfa9a3a73e51ec5f","Flushing","NY","LaGuardia Airport","","11371","Point",8069
+"59a47287cfa9a3a73e51ec60","Anchorage","AK","5000 West International Airport Road","","99502","Point",8070
+"59a47287cfa9a3a73e51ec61","Los Angeles","CA","1 World Way","","90045","Point",8071
+"59a47287cfa9a3a73e51ec62","Los Angeles","CA","1 World Way","","90045","Point",8073
+"59a47287cfa9a3a73e51ec63","Orlando","FL","One Airport Blvd.","","32827","Point",8074
+"59a47287cfa9a3a73e51ec64","Morrisville","NC","2600 W. Terminal Blvd","","27623","Point",8075
+"59a47287cfa9a3a73e51ec65","Newark","NJ","3 Brewster Rd","","7114","Point",8087
+"59a47287cfa9a3a73e51ec66","Columbus","OH","4600 International Gateway","","43219","Point",8077
+"59a47287cfa9a3a73e51ec67","Reno","NV","2001 East Plumb Lane","","89502","Point",8078
+"59a47287cfa9a3a73e51ec68","Orlando","FL","One Airport Blvd.","","32827","Point",8079
+"59a47287cfa9a3a73e51ec69","Indianapolis","IN","7800 Col. H. Weir Cook Memorial Dr.","","46241","Point",8080
+"59a47287cfa9a3a73e51ec6a","Hoover","AL","3780 Riverchase Vlg","Ste 200","35244","Point",807
+"59a47287cfa9a3a73e51ec6b","Anchorage","AK","5000 West International Airport Road","","99502","Point",8081
+"59a47287cfa9a3a73e51ec6c","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8082
+"59a47287cfa9a3a73e51ec6d","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8083
+"59a47287cfa9a3a73e51ec6e","Philadelphia","PA","8000 Essington Avenue","","19153","Point",8085
+"59a47287cfa9a3a73e51ec6f","Newark","NJ","3 Brewster Rd","","7114","Point",8084
+"59a47287cfa9a3a73e51ec70","Austin","TX","3600 Presidential Blvd","","78719","Point",8076
+"59a47287cfa9a3a73e51ec71","Riverhead","NY","1440 Old Country Rd","Suite 100","11901","Point",809
+"59a47287cfa9a3a73e51ec72","Boynton Beach","FL","550 N Congress Ave","","33426","Point",808
+"59a47287cfa9a3a73e51ec73","Minneapolis","MN","7150 Humphrey Drive","","55111","Point",8106
+"59a47287cfa9a3a73e51ec74","Dulles","VA","1 Saarinen Circle","","20166","Point",8090
+"59a47287cfa9a3a73e51ec75","Milwaukee","WI","5300 South Howell Ave","","53207","Point",8092
+"59a47287cfa9a3a73e51ec76","Baltimore","MD","7426 New Ridge Rd","","21240","Point",8093
+"59a47287cfa9a3a73e51ec77","Houston","TX","2800 North Terminal Rd.","","77032","Point",8113
+"59a47287cfa9a3a73e51ec78","Morrisville","NC","2600 W. Terminal Blvd","","27623","Point",8098
+"59a47287cfa9a3a73e51ec79","Orlando","FL","One Airport Blvd.","","32827","Point",8099
+"59a47287cfa9a3a73e51ec7a","Los Angeles","CA","1 World Way","","90045","Point",8103
+"59a47287cfa9a3a73e51ec7b","Jamaica","NY","JFK Access Road","","11430","Point",8088
+"59a47287cfa9a3a73e51ec7c","El Paso","TX","6701 Convair Rd","","79925","Point",8119
+"59a47287cfa9a3a73e51ec7d","Houston","TX","2800 North Terminal Rd.","","77032","Point",8089
+"59a47287cfa9a3a73e51ec7e","Austin","TX","3600 Presidential Blvd","","78719","Point",8105
+"59a47287cfa9a3a73e51ec7f","Minneapolis","MN","7150 Humphrey Drive","","55111","Point",8108
+"59a47287cfa9a3a73e51ec80","Minneapolis","MN","7150 Humphrey Drive","","55111","Point",8127
+"59a47287cfa9a3a73e51ec81","San Francisco","CA","275 S Airport Blvd","","94080","Point",8111
+"59a47287cfa9a3a73e51ec82","Ames","IA","1220 S Duff Ave","","50010","Point",812
+"59a47287cfa9a3a73e51ec83","Detroit","MI","11499 Conner Street","","48213","Point",8114
+"59a47287cfa9a3a73e51ec84","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8116
+"59a47287cfa9a3a73e51ec85","Atlanta","GA","6000 N. Terminal Pkwy","","30320","Point",8118
+"59a47287cfa9a3a73e51ec86","San Francisco","CA","275 S Airport Blvd","","94080","Point",8134
+"59a47287cfa9a3a73e51ec87","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8104
+"59a47287cfa9a3a73e51ec88","Orlando","FL","One Airport Blvd.","","32827","Point",8121
+"59a47287cfa9a3a73e51ec89","Tulsa","OK","7777 East Apache Street","","74115","Point",8125
+"59a47287cfa9a3a73e51ec8a","Orlando","FL","One Airport Blvd.","","32827","Point",8126
+"59a47287cfa9a3a73e51ec8b","San Francisco","CA","275 S Airport Blvd","","94080","Point",8112
+"59a47287cfa9a3a73e51ec8c","Orlando","FL","One Airport Blvd.","","32827","Point",8128
+"59a47287cfa9a3a73e51ec8d","Cheektowaga","NY","4200 Genesee Street","","14225","Point",8095
+"59a47287cfa9a3a73e51ec8e","Jamaica","NY","JFK Access Road","","11430","Point",8130
+"59a47287cfa9a3a73e51ec8f","Columbus","OH","4600 International Gateway","","43219","Point",8132
+"59a47287cfa9a3a73e51ec90","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8131
+"59a47287cfa9a3a73e51ec91","San Francisco","CA","275 S Airport Blvd","","94080","Point",8145
+"59a47287cfa9a3a73e51ec92","Los Angeles","CA","1 World Way","","90045","Point",8135
+"59a47287cfa9a3a73e51ec93","San Antonio","TX","9800 Airport Boulevard","","78216","Point",8137
+"59a47287cfa9a3a73e51ec94","Honolulu","HI","300 Rodgers Boulevard","","96819","Point",8139
+"59a47287cfa9a3a73e51ec95","San Antonio","TX","9800 Airport Boulevard","","78216","Point",8138
+"59a47287cfa9a3a73e51ec96","Bolingbrook","IL","315 N Weber Rd","","60490","Point",813
+"59a47287cfa9a3a73e51ec97","Atlanta","GA","6000 N. Terminal Pkwy","","30320","Point",8141
+"59a47287cfa9a3a73e51ec98","Honolulu","HI","300 Rodgers Boulevard","","96819","Point",8140
+"59a47287cfa9a3a73e51ec99","Atlanta","GA","6000 N. Terminal Pkwy","","30320","Point",8142
+"59a47287cfa9a3a73e51ec9a","Little Rock","AR","One Airport Drive","","72202","Point",8144
+"59a47287cfa9a3a73e51ec9b","Ft. Lauderdale","FL","100 Aviation Blvd.","","33315","Point",8143
+"59a47287cfa9a3a73e51ec9c","S. Burlington","VT","1200 Airport Drive","","5403","Point",8159
+"59a47287cfa9a3a73e51ec9d","San Francisco","CA","275 S Airport Blvd","","94080","Point",8146
+"59a47287cfa9a3a73e51ec9e","Oakland","CA","9 Airport Dr.","","94621","Point",8149
+"59a47287cfa9a3a73e51ec9f","Savannah","GA","400 Airways Avenue","","31408","Point",8147
+"59a47287cfa9a3a73e51eca0","Chicago","IL","2100 N Elston Ave","","60614","Point",814
+"59a47287cfa9a3a73e51eca1","Dallas","TX","3200 East Airfield Drive","","75261","Point",8150
+"59a47287cfa9a3a73e51eca2","Honolulu","HI","300 Rodgers Boulevard","","96819","Point",8153
+"59a47287cfa9a3a73e51eca3","Honolulu","HI","300 Rodgers Boulevard","","96819","Point",8152
+"59a47287cfa9a3a73e51eca4","Warwick","RI","2000 Post Road","","2886","Point",8156
+"59a47287cfa9a3a73e51eca5","Warwick","RI","2000 Post Road","","2886","Point",8157
+"59a47287cfa9a3a73e51eca6","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8117
+"59a47287cfa9a3a73e51eca7","Rochester","NY","1200 Brooks Ave","","14624","Point",8158
+"59a47287cfa9a3a73e51eca8","Kansas City","MO","601 Brasilia Avenue","","64153","Point",8160
+"59a47287cfa9a3a73e51eca9","Kansas City","MO","601 Brasilia Avenue","","64153","Point",8161
+"59a47287cfa9a3a73e51ecaa","San Diego","CA","3665 N. Harbor Drive","","92101","Point",8164
+"59a47287cfa9a3a73e51ecab","Portland","ME","1001 Westbrook Street","","4102","Point",8162
+"59a47287cfa9a3a73e51ecac","San Diego","CA","3665 N. Harbor Drive","","92101","Point",8165
+"59a47287cfa9a3a73e51ecad","San Diego","CA","3665 N. Harbor Drive","","92101","Point",8166
+"59a47287cfa9a3a73e51ecae","San Diego","CA","3665 N. Harbor Drive","","92101","Point",8167
+"59a47287cfa9a3a73e51ecaf","Charlotte","NC","5501 R C Josh Birmingham Parkway","","28208","Point",8169
+"59a47287cfa9a3a73e51ecb0","Vero Beach","FL","6156 20th St","","32966","Point",816
+"59a47287cfa9a3a73e51ecb1","Atlanta","GA","6000 N. Terminal Pkwy","","30320","Point",8170
+"59a47287cfa9a3a73e51ecb2","Bentonville","AR","1 Airport Boulevard #100","","72712","Point",8173
+"59a47287cfa9a3a73e51ecb3","Detroit","MI","11499 Conner Street","","48213","Point",8177
+"59a47287cfa9a3a73e51ecb4","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8174
+"59a47287cfa9a3a73e51ecb5","Paducah","KY","5101 Hinkleville Rd","","42001","Point",817
+"59a47287cfa9a3a73e51ecb6","Sacramento","CA","6900 Airport Boulevard","","95837","Point",8180
+"59a47287cfa9a3a73e51ecb7","Grand Rapids","MI","5500 44th Street Southeast","","49512","Point",8181
+"59a47287cfa9a3a73e51ecb8","Grand Rapids","MI","5500 44th Street Southeast","","49512","Point",8182
+"59a47287cfa9a3a73e51ecb9","Honolulu","HI","300 Rodgers Boulevard","","96819","Point",8183
+"59a47287cfa9a3a73e51ecba","San Francisco","CA","275 S Airport Blvd","","94080","Point",8184
+"59a47287cfa9a3a73e51ecbb","Pittsburgh","PA","Landside Terminal, 4th Floor, Mezz PO Box 12370","","15231","Point",8186
+"59a47287cfa9a3a73e51ecbc","Raleigh","NC","5220 Capital Boulevard","","27616","Point",821
+"59a47287cfa9a3a73e51ecbd","Greer","SC","2000 GSP Drive, Suite 1","","29651","Point",8188
+"59a47287cfa9a3a73e51ecbe","Middletown","PA","1 Terminal Dr","","17057","Point",8190
+"59a47287cfa9a3a73e51ecbf","Cranberry Township","PA","1000 Cranberry Square Dr","","16066","Point",825
+"59a47287cfa9a3a73e51ecc0","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8192
+"59a47287cfa9a3a73e51ecc1","Jacksonville","FL","2400 Yankee Clipper Drive","","32218","Point",8193
+"59a47287cfa9a3a73e51ecc2","Las Vegas","NV","5757 Wayne Newton Blvd","","89119","Point",8194
+"59a47287cfa9a3a73e51ecc3","San Marcos","TX","1050 Mckinley Place Dr","Suite 280","78666","Point",828
+"59a47287cfa9a3a73e51ecc4","Germantown","MD","20914 Frederick Rd","","20876","Point",819
+"59a47287cfa9a3a73e51ecc5","Pittsburgh","PA","Landside Terminal, 4th Floor, Mezz PO Box 12370","","15231","Point",8187
+"59a47287cfa9a3a73e51ecc6","Marlborough","MA","769 Donald Lynch Blvd","","01752","Point",820
+"59a47287cfa9a3a73e51ecc7","Patchogue","NY","499 N Service Rd","","11772","Point",824
+"59a47287cfa9a3a73e51ecc8","Hartsdale","NY","299 N Central Ave","","10530","Point",822
+"59a47287cfa9a3a73e51ecc9","Saugus","MA","1201 Broadway","","01906","Point",818
+"59a47287cfa9a3a73e51ecca","Florence","SC","2701 David H Mcleod Blvd","","29501","Point",826
+"59a47287cfa9a3a73e51eccb","New York","NY","1280 Lexington Ave","","10028","Point",835
+"59a47287cfa9a3a73e51eccc","Atlanta","GA","6000 N. Terminal Pkwy","","30320","Point",8196
+"59a47287cfa9a3a73e51eccd","El Paso","TX","815 Sunland Park Dr","","79912","Point",829
+"59a47287cfa9a3a73e51ecce","Tacoma","WA","2214 S 48th St","","98409","Point",830
+"59a47287cfa9a3a73e51eccf","Yakima","WA","2321 S 1st St","","98903","Point",831
+"59a47287cfa9a3a73e51ecd0","Battle Creek","MI","12765 Harper Village Dr","Ste 160","49014","Point",840
+"59a47287cfa9a3a73e51ecd1","St Louis","MO","8300 Eager Rd","","63144","Point",833
+"59a47287cfa9a3a73e51ecd2","Niles","OH","5815 Youngstown Warren Rd","","44446","Point",834
+"59a47287cfa9a3a73e51ecd3","Montgomery","AL","1580 N Eastern Blvd","","36117","Point",836
+"59a47287cfa9a3a73e51ecd4","Denton","TX","1800 S Loop 288","Ste 102 Bldg 1","76205","Point",827
+"59a47287cfa9a3a73e51ecd5","Lawrence","KS","2020 W 31st St","","66046","Point",837
+"59a47287cfa9a3a73e51ecd6","Redding","CA","1010 Hilltop Dr","","96003","Point",838
+"59a47287cfa9a3a73e51ecd7","Olympia","WA","625 Black Lake Blvd SW","Ste 200","98502","Point",839
+"59a47287cfa9a3a73e51ecd8","Washington","DC","50 Massachusetts Avenue NE","","20002","Point",8500
+"59a47287cfa9a3a73e51ecd9","Dover","DE","1165 N Dupont Hwy","","19901","Point",842
+"59a47287cfa9a3a73e51ecda","Brighton","MI","8487 W Grand River Ave","","48116","Point",841
+"59a47287cfa9a3a73e51ecdb","Merced","CA","1764 W Olive Ave","","95348","Point",844
+"59a47287cfa9a3a73e51ecdc","San Jose","CA","3090 Stevens Creek Blvd","","95128","Point",851
+"59a47287cfa9a3a73e51ecdd","Chino","CA","3873 Grand Ave","","91710","Point",846
+"59a47287cfa9a3a73e51ecde","DeKalb","IL","2700 Crego Rd; I-88, West of the Peace Road exit Mile post 93","","60115","Point",8529
+"59a47287cfa9a3a73e51ecdf","Morgantown","WV","3294 University Town Centre Dr","","26501","Point",832
+"59a47287cfa9a3a73e51ece0","Lake Forest","IL","I-94, Between Illinois Routes 60 and 176 Mile post 18","","60045","Point",8532
+"59a47287cfa9a3a73e51ece1","Gurnee","IL","6525 Grand Ave","","60031","Point",849
+"59a47287cfa9a3a73e51ece2","Bloomfield","NJ","1339 North Broad Street","","7003","Point",8539
+"59a47287cfa9a3a73e51ece3","Port St. Lucie","FL","Milepost 144; Florida Turnpike","","34983","Point",8511
+"59a47287cfa9a3a73e51ece4","Folsom","CA","2445 Iron Point Rd","","95630","Point",845
+"59a47287cfa9a3a73e51ece5","Belvidere","IL","I-90, East of Belvidere Toll Plaza Mile post 24","","61008","Point",8528
+"59a47287cfa9a3a73e51ece6","Milford","CT","I-95 Southbound past exit 40","","6460","Point",8527
+"59a47287cfa9a3a73e51ece7","Columbus","GA","2925 Manchester Expy","","31909","Point",843
+"59a47287cfa9a3a73e51ece8","Carson City","NV","911 Topsy Ln","","89705","Point",850
+"59a47287cfa9a3a73e51ece9","Aiea","HI","98-051 Kamehameha Hwy","","96701","Point",852
+"59a47287cfa9a3a73e51ecea","Hinsdale","IL","5800 Tri State Toll Road","","60521","Point",8531
+"59a47287cfa9a3a73e51eceb","Schiller Park","IL","I-94, South of Irving Park Road Mile post 38","","60176","Point",8534
+"59a47287cfa9a3a73e51ecec","Corona","CA","2430 Tuscany St","","92881","Point",847
+"59a47287cfa9a3a73e51eced","Greer","SC","2000 GSP Drive, Suite 1","","29651","Point",8556
+"59a47287cfa9a3a73e51ecee","Atlantic City","NJ","2831 Boardwalk","","8401","Point",8542
+"59a47287cfa9a3a73e51ecef","Houston","TX","7800 Airport Blvd","","77061","Point",8558
+"59a47287cfa9a3a73e51ecf0","Darien","CT","I-95 Southbound past exit 10","","6820","Point",8545
+"59a47287cfa9a3a73e51ecf1","Branford","CT","I-95 Northbound Branford pass exit 53","","6405","Point",8547
+"59a47287cfa9a3a73e51ecf2","Honolulu","HI","300 Rodgers Boulevard","","96819","Point",8548
+"59a47287cfa9a3a73e51ecf3","Las Vegas","NV","4500 West Tropicana Avenue","","89103","Point",8549
+"59a47287cfa9a3a73e51ecf4","Panama City","FL","1000 E 23rd St","","32405","Point",857
+"59a47287cfa9a3a73e51ecf5","Madison","WI","4000 International Ln","","53704","Point",8551
+"59a47287cfa9a3a73e51ecf6","Oxon Hill","MD","201 Waterfront Street","","20745","Point",8600
+"59a47287cfa9a3a73e51ecf7","Jackson","TN","1170 Vann Dr","","38305","Point",853
+"59a47287cfa9a3a73e51ecf8","New Orleans","LA","2 Poydras St","","70130","Point",8602
+"59a47287cfa9a3a73e51ecf9","Darien","CT","I-95 Northbound past exit 12","","6820","Point",8544
+"59a47287cfa9a3a73e51ecfa","Houston","TX","7800 Airport Blvd","","77061","Point",8559
+"59a47287cfa9a3a73e51ecfb","Myrtle Beach","SC","1145 Oak Forest Ln","","29577","Point",855
+"59a47287cfa9a3a73e51ecfc","Bakersfield","CA","8300 Rosedale Hwy","","93312","Point",856
+"59a47287cfa9a3a73e51ecfd","Irvine","CA","16171 Lake Forest Dr","","92618","Point",854
+"59a47287cfa9a3a73e51ecfe","Bloomington","IN","2721 E 3rd St","","47401","Point",858
+"59a47287cfa9a3a73e51ecff","Round Rock","TX","3201 S I H 35 ","Ste 600","78664","Point",859
+"59a47287cfa9a3a73e51ed00","Richfield","MN","7601 Penn Ave South","","55423","Point",8553
+"59a47287cfa9a3a73e51ed01","Grapevine","TX","1501 Gaylord Trail","","76051","Point",8601
+"59a47287cfa9a3a73e51ed02","Long Beach","CA","4100 Donald Douglas Dr","","90808","Point",8557
+"59a47287cfa9a3a73e51ed03","Chicago","IL","2233 S Martin L King Dr","","60616","Point",8605
+"59a47287cfa9a3a73e51ed04","Chicago","IL","10000 Bessie Coleman Drive","","60018","Point",8608
+"59a47287cfa9a3a73e51ed05","Nashville","TN","2800 Opryland Dr","","37214","Point",8611
+"59a47287cfa9a3a73e51ed06","Charlottesville","VA","1615 Emmet St N","","22901","Point",860
+"59a47287cfa9a3a73e51ed07","Rapid City","SD","2320 Haines Ave","","57701","Point",861
+"59a47287cfa9a3a73e51ed08","Ocala","FL","2499 SW 27th Ave","","34471","Point",862
+"59a47287cfa9a3a73e51ed09","Bend","OR","63455 N Highway 97","","97701","Point",863
+"59a47287cfa9a3a73e51ed0a","San Antonio","TX","17414 La Cantera","Ste 106","78257","Point",864
+"59a47287cfa9a3a73e51ed0b","Colma","CA","200 Colma Blvd","","94014","Point",873
+"59a47287cfa9a3a73e51ed0c","Lufkin","TX","4505 S. Medford Dr","Suite 203","75901","Point",867
+"59a47287cfa9a3a73e51ed0d","Farmington","NM","3520 E Main St","","87402","Point",866
+"59a47287cfa9a3a73e51ed0e","West Lebanon","NH","274 Plainfield Rd","","03784","Point",868
+"59a47287cfa9a3a73e51ed0f","Brockton","MA","200 Westgate Dr","","02301","Point",877
+"59a47287cfa9a3a73e51ed10","Dubuque","IA","801 Wacker Dr","","52002","Point",878
+"59a47287cfa9a3a73e51ed11","Scottsdale","AZ","15449 N. Hayden Rd.","","85262","Point",870
+"59a47287cfa9a3a73e51ed12","Downey","CA","12118 Lakewood Blvd","","90242","Point",872
+"59a47287cfa9a3a73e51ed13","Atlantic City","NJ","777 Harrah's Boulevard","","8401","Point",8809
+"59a47287cfa9a3a73e51ed14","Wooster","OH","3906 Burbank Rd","","44691","Point",880
+"59a47287cfa9a3a73e51ed15","Norman","OK","400 26th Ave Nw","","73069","Point",875
+"59a47287cfa9a3a73e51ed16","Houston","TX","7034 Highway 6 N","","77095","Point",876
+"59a47287cfa9a3a73e51ed17","Las Vegas","NV","3770 Las Vegas Boulevard South","","89109","Point",8815
+"59a47287cfa9a3a73e51ed18","Chandler","AZ","3100 W Frye Rd","","85226","Point",869
+"59a47287cfa9a3a73e51ed19","Las Vegas","NV","3900 Las Vegas Blvd South","","89119","Point",8803
+"59a47287cfa9a3a73e51ed1a","Sandusky","OH","4210 Milan Rd","","44870","Point",879
+"59a47287cfa9a3a73e51ed1b","Atlantic City","NJ","2100 Pacific Ave.","","8401","Point",8807
+"59a47287cfa9a3a73e51ed1c","Twin Falls","ID","2068 Bridgeview Blvd","","83301","Point",874
+"59a47287cfa9a3a73e51ed1d","Conroe","TX","501 Interstate 45 S","","77301","Point",865
+"59a47287cfa9a3a73e51ed1e","Atlantic City","NJ","1900 Pacific Avenue","","8401","Point",8811
+"59a47287cfa9a3a73e51ed1f","Las Vegas","NV","3700 West Flamingo Road","","89103","Point",8812
+"59a47287cfa9a3a73e51ed20","Las Vegas","NV","3667 Las Vegas Boulevard South","","89109","Point",8813
+"59a47287cfa9a3a73e51ed21","Paramus","NJ","1 Garden State Plaza","","07652","Point",887
+"59a47287cfa9a3a73e51ed22","Laughlin","NV","2121 S Casino Dr.","","89029","Point",8817
+"59a47287cfa9a3a73e51ed23","Las Vegas","NV","3790 Las Vegas Boulevard South","","89109","Point",8818
+"59a47287cfa9a3a73e51ed24","Stuart","FL","2555 NW Federal Hwy","","34994","Point",881
+"59a47287cfa9a3a73e51ed25","Minneapolis","MN","30 S. 7th St","","55402","Point",8918
+"59a47287cfa9a3a73e51ed26","Holland","MI","3549 W Shore Dr","","49424","Point",883
+"59a47287cfa9a3a73e51ed27","Gilroy","CA","7011 Camino Arroyo","","95020","Point",884
+"59a47287cfa9a3a73e51ed28","Port Richey","FL","9409 Us Highway 19","","34668","Point",885
+"59a47287cfa9a3a73e51ed29","Norwalk","CT","330 Connecticut Ave","Ste 4","06854","Point",886
+"59a47287cfa9a3a73e51ed2a","San Marcos","CA","567 Grand Ave","","92069","Point",871
+"59a47287cfa9a3a73e51ed2b","Rock Hill","SC","1775 Chamberside Dr","","29730","Point",894
+"59a47287cfa9a3a73e51ed2c","Atlanta","GA","2537 Piedmont Rd NE","","30324","Point",890
+"59a47287cfa9a3a73e51ed2d","Minneapolis","MN","1301 Second Avenue South","","55403","Point",8915
+"59a47287cfa9a3a73e51ed2e","Kansas City","MO","601 Brasilia Avenue","","64153","Point",8916
+"59a47287cfa9a3a73e51ed2f","Munhall","PA","680 Waterfront Dr E","","15120","Point",882
+"59a47287cfa9a3a73e51ed30","Washington","UT","844 W Telegraph St","","84780","Point",891
+"59a47287cfa9a3a73e51ed31","Chicago","IL","172 West Adams Street","","60603","Point",8920
+"59a47287cfa9a3a73e51ed32","Janesville","WI","2850 Deerfield Dr","","53546","Point",892
+"59a47287cfa9a3a73e51ed33","Burnsville","MN","14141 Aldrich Ave S","","55337","Point",8
+"59a47287cfa9a3a73e51ed34","Hollywood","CA","6801 Hollywood Blvd","","90028","Point",8900
+"59a47287cfa9a3a73e51ed35","Johnson City","TN","3222 Peoples St","","37604","Point",899
+"59a47287cfa9a3a73e51ed36","Atlanta","GA","1210 Caroline St NE","","30307","Point",896
+"59a47287cfa9a3a73e51ed37","Philadelphia","PA","2300 S. Christopher Columbus Blvd.","","19148","Point",898
+"59a47287cfa9a3a73e51ed38","Dekalb","IL","2074 Sycamore Rd","","60115","Point",893
+"59a47287cfa9a3a73e51ed39","Flowood","MS","194 Promenade Blvd","","39232","Point",938
+"59a47287cfa9a3a73e51ed3a","Fenton","MO","717 Gravois Rd","","63026","Point",942
+"59a47287cfa9a3a73e51ed3b","Valley Stream","NY","6 West Circle Dr","","11581","Point",950
+"59a47287cfa9a3a73e51ed3c","Yuma","AZ","1364 S Yuma Palms Pkwy","","85365","Point",895
+"59a47287cfa9a3a73e51ed3d","Idaho Falls","ID","2404 S 25th E","","83404","Point",944
+"59a47287cfa9a3a73e51ed3e","Farmington Hills","MI","30830 Orchard Lake Rd","","48334","Point",897
+"59a47287cfa9a3a73e51ed3f","Houma","LA","1640 Martin Luther King Blvd","Ste B","70360","Point",943
+"59a47287cfa9a3a73e51ed40","Logan","UT","1475 N Main St","Ste 120","84341","Point",945
+"59a47287cfa9a3a73e51ed41","Orange","CA","3741 W Chapman Ave","","92868","Point",947
+"59a47287cfa9a3a73e51ed42","Pearland","TX","2632 Smith Ranch Rd","","77584","Point",948
+"59a47287cfa9a3a73e51ed43","Abilene","TX","4310 Buffalo Gap Rd","","79606","Point",940
+"59a47287cfa9a3a73e51ed44","Valparaiso","IN","91 Silhavy Rd","Ste 101","46383","Point",951
+"59a47287cfa9a3a73e51ed45","Rochester Hills","MI","2651 S Rochester Rd","","48307","Point",949
+"59a47287cfa9a3a73e51ed46","Baytown","TX","4620 Garth Rd","","77521","Point",952
+"59a47287cfa9a3a73e51ed47","Arden","NC","10 McKenna Rd","","28704","Point",953
