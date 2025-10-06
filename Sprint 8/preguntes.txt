@@ -1,0 +1,81 @@
+	Preguntes
+
+-quins són els produces més i menys venuts? posa objectiu
+-en quins mesos hi ha mes ventes i menys ventes? posa un objectu
+-quins països tenen la millor mitjana de compres i quin  menys?posa un objectiu
+
+----------------------------------
+
+Aquestes estan bé, però a part afegiria alguna cosa de tendència temporal en els darrers 5 anys, tipus:
+
+Dels nostres clients que més diners es gasten: han augmentat o minvat el número de transaccions (jo no comptaria el preu, sinó el número d'operacions o compres que fan, perquè per efecte inflació si puja l'import del que es gasten tampoc seria rellevant)
+
+Una evolució del pes de cada país sobre el volum de vendes al llarg dels últims cinc anys: si EEUU abans representava el 50% de vendes i ara representa el 25% perquè està creixent la Xina com a client, per exemple
+
+O també una evolució dels clients fidels (els que fan compres recurrents, posem per cas, més d'una al trimestre) si augmenta o baixa al llarg del temps, diria que això es diu engagement, o fidelitat, per entendre'ns
+
+El primer i el segon potser es sol.lapa, agafaria el tema de fidelitat, potser, que és més important en accions de markenting
+
+Es a dir, a les teves, jo afegiria la del pes dels països al llarg dels anys (a veure si hi ha un mercat emergent que haguem de fer cas o, per contra, un mercat important que estem perdent), i la dels clients fidels, si els mantenim o els perdem
+
+La més important és la cronologia de vendes, la clàssica, es pot fer: línia cronològica de vendes totals i al mateix gràfic les línies dels tres principals països. Això és diferent de la del percentatge sobre vendes, perquè mirem si les vendes pugen o baixen, no el pes relatiu de cada mercat respecte els altres
+
+-----------------------
+VENTAS
+
+Análisis de ventas por país, región, producto y comercial
+Áreas de rentabilidad
+Tendencia de ventas por mes/año
+Tendencias de rentabilidad por mes/año
+Top de los productos más vendidos
+Evolución mensual/anual de facturación y margen por comercial y cliente
+
+COMPRAS
+
+KPIs individualizados por cada proveedor
+Datos de compras por producto y familias de producto
+Información de compras por proveedor (en facturación y unidades)
+Medición y control de volúmenes de compra (año vs año)
+
+CUADRO FINANCIERO
+
+Resumen financiero: KPIs para rastrear P&L, posibilidad de cambiar entre dos escenarios de periodo (YTD o MTD), comparaciones referencia/objeto (vs presupuesto, vs año anterior), resumen de activos, pasivos y gastos.
+
+Estado de resultados: tendencias mes a mes, embudo de KPIs, vista gráfica vs vista de tabla
+
+Hoja de balance: vista tabular completa del balance general para exportación
+
+INVENTARIO
+
+Valor de inventario
+Cantidad de existencias de inventario
+
+Coste de reabastecimiento de inventario
+Disponibilidad de stock
+
+Tiempo para reponer stock
+
+Mejores productos por categoría
+
+Principales proveedores por canal
+
+COMPORTAMIENTO DEL CLIENTE
+
+Análisis de pagos por cliente y periodo medio de cobro desde emisión de factura
+
+Comparativa año contra año de la evolución de los pagos por cliente
+Información de solvencia de la compañía comparado entre entidades de rating vs información interna de la empresa
+Información para aumentar la fuerza de negociación de los comerciales
+
+ALQUILER DE MAQUINARIA
+
+Disponibilidad de la maquinaria
+
+Analítica y ROI de cada máquina
+
+Resultados de encuestas de satisfacción de clientes
+
+Cuadros de mando con gestión de permisos de acceso a la información
+
+Visión de la rentabilidad de cada máquina (individualizada y por familias)
+
