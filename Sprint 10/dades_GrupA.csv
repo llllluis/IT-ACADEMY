@@ -1,0 +1,491 @@
+Nom,Cognoms,País d'origen,Ciutat,Dia,Mes,Any,Gènere,Salari mensual,Fills,Grup Professional,Nom_Complert,Nascut_a_Espanya,Salari numeric,naixament,Edat,increment,Salari actualitzat
+Mia,Schneider Fischer,Alemanya,Berlín,22,10,1976,Altres,951 €,No,Grup A,Mia Schneider Fischer,No,951,1976-10-22,48,5%,998.55
+Lea,Fischer,Alemanya,Berlín,9,9,1986,Dona,1.370 €,Sí,Grup A,Lea Fischer,No,1370,1986-09-09,39,5%,1438.5
+Lea,Müller,Alemanya,Hamburg,14,4,2003,Dona,1.314 €,No,Grup A,Lea Müller,No,1314,2003-04-14,22,5%,1379.7
+Laura,Schneider,Alemanya,Hamburg,25,1,1957,Dona,1.368 €,No,Grup A,Laura Schneider,No,1368,1957-01-25,68,5%,1436.4
+Anna,Müller,Alemanya,Munic,18,3,1956,Dona,1.280 €,No,Grup A,Anna Müller,No,1280,1956-03-18,69,5%,1344.0
+Mia,Schneider Müller,Alemanya,Munic,28,3,1957,Dona,766 €,No,Grup A,Mia Schneider Müller,No,766,1957-03-28,68,5%,804.3
+Lukas,Müller Schmidt,Alemanya,Munic,23,2,2005,Home,1.573 €,No,Grup A,Lukas Müller Schmidt,No,1573,2005-02-23,20,5%,1651.65
+Matías,Gómez Álvarez,Argentina,Buenos Aires,4,12,1955,Home,1.313 €,No,Grup A,Matías Gómez Álvarez,No,1313,1955-12-04,69,5%,1378.65
+Lucía,Fernández,Argentina,Buenos Aires,8,8,1953,Dona,764 €,No,Grup A,Lucía Fernández,No,764,1953-08-08,72,5%,802.2
+Lucía,Fernández,Argentina,Buenos Aires,28,11,1978,,758 €,No,Grup A,Lucía Fernández,No,758,1978-11-28,46,5%,795.9
+Matías,Rodríguez,Argentina,Buenos Aires,12,6,1950,,1.055 €,No,Grup A,Matías Rodríguez,No,1055,1950-06-12,75,5%,1107.75
+Florencia,Álvarez,Argentina,Buenos Aires,14,11,1961,Dona,1.043 €,No,Grup A,Florencia Álvarez,No,1043,1961-11-14,63,5%,1095.15
+Lucas,Álvarez,Argentina,Buenos Aires,2,8,1978,Home,899 €,Sí,Grup A,Lucas Álvarez,No,899,1978-08-02,47,5%,943.95
+Juan,Álvarez,Argentina,Buenos Aires,21,2,1968,Home,887 €,Sí,Grup A,Juan Álvarez,No,887,1968-02-21,57,5%,931.35
+Lucía,Álvarez,Argentina,Buenos Aires,10,8,1972,Altres,1.141 €,No,Grup A,Lucía Álvarez,No,1141,1972-08-10,53,5%,1198.05
+Matías,Fernández,Argentina,Buenos Aires,28,4,1953,Home,1.253 €,No,Grup A,Matías Fernández,No,1253,1953-04-28,72,5%,1315.65
+Julieta,Fernández,Argentina,Buenos Aires,28,1,1961,Dona,1.493 €,Sí,Grup A,Julieta Fernández,No,1493,1961-01-28,64,5%,1567.65
+Martina,Gómez,Argentina,Buenos Aires,5,12,1963,Dona,993 €,No,Grup A,Martina Gómez,No,993,1963-12-05,61,5%,1042.65
+Tomás,Gómez,Argentina,Còrdova,19,1,1996,Home,1.104 €,Sí,Grup A,Tomás Gómez,No,1104,1996-01-19,29,5%,1159.2
+Florencia,Gómez,Argentina,Còrdova,8,7,1984,,1.594 €,No,Grup A,Florencia Gómez,No,1594,1984-07-08,41,5%,1673.7
+Lucía,Fernández Álvarez,Argentina,Còrdova,11,3,1973,Dona,684 €,Sí,Grup A,Lucía Fernández Álvarez,No,684,1973-03-11,52,5%,718.2
+Tomás,Fernández Fernández,Argentina,Còrdova,13,6,1964,Home,1.039 €,No,Grup A,Tomás Fernández Fernández,No,1039,1964-06-13,61,5%,1090.95
+Valentina,Gutiérrez Castro,Colòmbia,Bogotà,2,1,2001,Altres,1.064 €,No,Grup A,Valentina Gutiérrez Castro,No,1064,2001-01-02,24,5%,1117.2
+Felipe,Torres,Colòmbia,Bogotà,19,3,1970,Home,1.240 €,Sí,Grup A,Felipe Torres,No,1240,1970-03-19,55,5%,1302.0
+Felipe,Gutiérrez Torres,Colòmbia,Bogotà,25,10,2004,Home,1.376 €,No,Grup A,Felipe Gutiérrez Torres,No,1376,2004-10-25,20,5%,1444.8
+Laura,Castro Gutiérrez,Colòmbia,Bogotà,18,2,1950,Dona,995 €,No,Grup A,Laura Castro Gutiérrez,No,995,1950-02-18,75,5%,1044.75
+Daniel,Castro Torres,Colòmbia,Bogotà,5,4,1992,Home,1.010 €,Sí,Grup A,Daniel Castro Torres,No,1010,1992-04-05,33,5%,1060.5
+Daniel,Rojas Torres,Colòmbia,Bogotà,20,8,1985,Home,1.457 €,Sí,Grup A,Daniel Rojas Torres,No,1457,1985-08-20,40,5%,1529.85
+Santiago,Rojas,Colòmbia,Bogotà,5,4,1987,Home,829 €,No,Grup A,Santiago Rojas,No,829,1987-04-05,38,5%,870.45
+Valentina,Torres Torres,Colòmbia,Medellín,24,7,1951,,1.252 €,No,Grup A,Valentina Torres Torres,No,1252,1951-07-24,74,5%,1314.6
+Daniela,Castro Castro,Colòmbia,Medellín,25,12,1980,Dona,1.167 €,No,Grup A,Daniela Castro Castro,No,1167,1980-12-25,44,5%,1225.35
+Daniela,Torres,Colòmbia,Medellín,17,5,1970,Dona,1.064 €,Sí,Grup A,Daniela Torres,No,1064,1970-05-17,55,5%,1117.2
+Sara,Torres Castro,Colòmbia,Medellín,8,8,1987,Dona,1.045 €,No,Grup A,Sara Torres Castro,No,1045,1987-08-08,38,5%,1097.25
+Andrés,Castro,Colòmbia,Medellín,8,3,2000,Altres,996 €,No,Grup A,Andrés Castro,No,996,2000-03-08,25,5%,1045.8
+Laura,Rojas,Colòmbia,Medellín,9,5,1969,Dona,988 €,No,Grup A,Laura Rojas,No,988,1969-05-09,56,5%,1037.4
+Laura,Castro,Colòmbia,Medellín,19,6,1958,Dona,1.484 €,No,Grup A,Laura Castro,No,1484,1958-06-19,67,5%,1558.2
+Daniel,Rojas Castro,Colòmbia,Medellín,7,10,1952,Home,799 €,Sí,Grup A,Daniel Rojas Castro,No,799,1952-10-07,73,5%,838.95
+Daniel,Castro,Colòmbia,Medellín,13,10,1956,Home,1.207 €,Sí,Grup A,Daniel Castro,No,1207,1956-10-13,69,5%,1267.35
+Andrés,Torres,Colòmbia,Medellín,13,1,1967,Home,1.567 €,No,Grup A,Andrés Torres,No,1567,1967-01-13,58,5%,1645.35
+Valentina,Castro Rojas,Colòmbia,Medellín,8,12,1986,Dona,817 €,Sí,Grup A,Valentina Castro Rojas,No,817,1986-12-08,38,5%,857.85
+Valentina,Torres,Colòmbia,Medellín,12,7,1981,Dona,859 €,Sí,Grup A,Valentina Torres,No,859,1981-07-12,44,5%,901.95
+Felipe,Gutiérrez,Colòmbia,Medellín,13,11,1989,Home,1.275 €,No,Grup A,Felipe Gutiérrez,No,1275,1989-11-13,35,5%,1338.75
+Felipe,Gutiérrez,Colòmbia,Medellín,17,9,1953,Home,1.142 €,Sí,Grup A,Felipe Gutiérrez,No,1142,1953-09-17,72,5%,1199.1
+Clara,Sánchez Martínez,Espanya,Barcelona,18,3,1996,Dona,1.253 €,Sí,Grup A,Clara Sánchez Martínez,Sí,1253,1996-03-18,29,5%,1315.65
+Toni,Sánchez García,Espanya,Barcelona,9,8,1999,Home,1.043 €,No,Grup A,Toni Sánchez García,Sí,1043,1999-08-09,26,5%,1095.15
+Toni,Martínez,Espanya,Barcelona,16,5,1964,Home,891 €,No,Grup A,Toni Martínez,Sí,891,1964-05-16,61,5%,935.55
+Oriol,Sánchez,Espanya,Barcelona,27,7,1965,Home,1.250 €,No,Grup A,Oriol Sánchez,Sí,1250,1965-07-27,60,5%,1312.5
+Núria,Castells,Espanya,Barcelona,2,7,2005,Dona,1.344 €,Sí,Grup A,Núria Castells,Sí,1344,2005-07-02,20,5%,1411.2
+Oriol,López Martínez,Espanya,Barcelona,25,6,1952,Home,1.019 €,Sí,Grup A,Oriol López Martínez,Sí,1019,1952-06-25,73,5%,1069.95
+Jordi,Romero,Espanya,Barcelona,27,8,1968,Home,808 €,No,Grup A,Jordi Romero,Sí,808,1968-08-27,57,5%,848.4
+Toni,López Sánchez,Espanya,Barcelona,25,2,1975,Home,990 €,No,Grup A,Toni López Sánchez,Sí,990,1975-02-25,50,5%,1039.5
+Joan,Castells,Espanya,Barcelona,10,12,1975,Home,1.667 €,Sí,Grup A,Joan Castells,Sí,1667,1975-12-10,49,5%,1750.35
+Arnau,Sánchez López,Espanya,Barcelona,28,6,1960,Home,1.116 €,No,Grup A,Arnau Sánchez López,Sí,1116,1960-06-28,65,5%,1171.8
+Eva,Martínez,Espanya,Barcelona,11,9,1974,Dona,783 €,No,Grup A,Eva Martínez,Sí,783,1974-09-11,51,5%,822.15
+Joan,Romero Romero,Espanya,Barcelona,21,2,1999,Home,1.543 €,Sí,Grup A,Joan Romero Romero,Sí,1543,1999-02-21,26,5%,1620.15
+Anna,Sánchez,Espanya,Barcelona,17,7,1984,Altres,1.438 €,Sí,Grup A,Anna Sánchez,Sí,1438,1984-07-17,41,5%,1509.9
+Núria,Ferrer,Espanya,Barcelona,18,4,1957,,1.396 €,Sí,Grup A,Núria Ferrer,Sí,1396,1957-04-18,68,5%,1465.8
+Marc,Ferrer Castells,Espanya,Barcelona,25,8,2002,Home,1.672 €,No,Grup A,Marc Ferrer Castells,Sí,1672,2002-08-25,23,5%,1755.6
+Marc,García,Espanya,Barcelona,23,7,1998,Home,1.341 €,Sí,Grup A,Marc García,Sí,1341,1998-07-23,27,5%,1408.05
+Joan,García,Espanya,Barcelona,24,12,1957,Home,1.558 €,Sí,Grup A,Joan García,Sí,1558,1957-12-24,67,5%,1635.9
+Marc,Martínez Martínez,Espanya,Barcelona,6,4,2001,,1.105 €,Sí,Grup A,Marc Martínez Martínez,Sí,1105,2001-04-06,24,5%,1160.25
+Toni,Romero,Espanya,Barcelona,9,12,1989,Home,1.659 €,Sí,Grup A,Toni Romero,Sí,1659,1989-12-09,35,5%,1741.95
+Oriol,García Castells,Espanya,Barcelona,18,6,1955,Home,1.212 €,No,Grup A,Oriol García Castells,Sí,1212,1955-06-18,70,5%,1272.6
+Carla,López,Espanya,Barcelona,18,7,1965,Dona,1.159 €,Sí,Grup A,Carla López,Sí,1159,1965-07-18,60,5%,1216.95
+Laia,Ferrer,Espanya,Barcelona,23,11,1972,Dona,940 €,No,Grup A,Laia Ferrer,Sí,940,1972-11-23,52,5%,987.0
+Anna,Castells García,Espanya,Barcelona,22,10,1952,Dona,698 €,No,Grup A,Anna Castells García,Sí,698,1952-10-22,72,5%,732.9
+Oriol,Ferrer Martínez,Espanya,Barcelona,26,7,1950,Home,954 €,No,Grup A,Oriol Ferrer Martínez,Sí,954,1950-07-26,75,5%,1001.7
+Jordi,Sánchez,Espanya,Barcelona,18,6,1981,Home,800 €,Sí,Grup A,Jordi Sánchez,Sí,800,1981-06-18,44,5%,840.0
+Jordi,Sánchez Martínez,Espanya,Barcelona,6,11,1998,Home,1.095 €,No,Grup A,Jordi Sánchez Martínez,Sí,1095,1998-11-06,26,5%,1149.75
+Marta,Ferrer,Espanya,Barcelona,28,6,2001,Dona,1.303 €,Sí,Grup A,Marta Ferrer,Sí,1303,2001-06-28,24,5%,1368.15
+Núria,López Romero,Espanya,Barcelona,17,9,1957,Dona,1.047 €,No,Grup A,Núria López Romero,Sí,1047,1957-09-17,68,5%,1099.35
+Laia,Martínez,Espanya,Barcelona,22,1,1951,Dona,1.188 €,Sí,Grup A,Laia Martínez,Sí,1188,1951-01-22,74,5%,1247.4
+Marc,Ferrer Sánchez,Espanya,Barcelona,15,7,1977,Home,1.674 €,No,Grup A,Marc Ferrer Sánchez,Sí,1674,1977-07-15,48,5%,1757.7
+Núria,García Martínez,Espanya,Barcelona,26,5,2005,Dona,1.320 €,Sí,Grup A,Núria García Martínez,Sí,1320,2005-05-26,20,5%,1386.0
+Carla,López López,Espanya,Barcelona,7,3,1956,Dona,812 €,Sí,Grup A,Carla López López,Sí,812,1956-03-07,69,5%,852.6
+Oriol,García Ferrer,Espanya,Barcelona,9,12,2003,Home,1.603 €,Sí,Grup A,Oriol García Ferrer,Sí,1603,2003-12-09,21,5%,1683.15
+Carla,Ferrer,Espanya,Barcelona,27,10,1987,Dona,836 €,No,Grup A,Carla Ferrer,Sí,836,1987-10-27,37,5%,877.8
+Arnau,López Martínez,Espanya,Barcelona,15,11,1972,Home,1.587 €,No,Grup A,Arnau López Martínez,Sí,1587,1972-11-15,52,5%,1666.35
+Laia,Martínez,Espanya,Barcelona,11,2,1951,Dona,1.306 €,No,Grup A,Laia Martínez,Sí,1306,1951-02-11,74,5%,1371.3
+Laia,Martínez Romero,Espanya,Barcelona,5,9,1958,Dona,1.045 €,No,Grup A,Laia Martínez Romero,Sí,1045,1958-09-05,67,5%,1097.25
+Carla,Romero López,Espanya,Barcelona,23,5,2002,Dona,776 €,Sí,Grup A,Carla Romero López,Sí,776,2002-05-23,23,5%,814.8
+Carla,García,Espanya,Barcelona,25,10,1952,Dona,950 €,No,Grup A,Carla García,Sí,950,1952-10-25,72,5%,997.5
+Clara,Castells Romero,Espanya,Barcelona,4,1,1999,Dona,1.392 €,Sí,Grup A,Clara Castells Romero,Sí,1392,1999-01-04,26,5%,1461.6
+Pau,Castells,Espanya,Barcelona,1,7,1972,Home,1.006 €,No,Grup A,Pau Castells,Sí,1006,1972-07-01,53,5%,1056.3
+Anna,Castells,Espanya,Barcelona,2,1,1951,Dona,919 €,No,Grup A,Anna Castells,Sí,919,1951-01-02,74,5%,964.95
+Núria,Ferrer,Espanya,Barcelona,27,10,1977,Dona,1.123 €,No,Grup A,Núria Ferrer,Sí,1123,1977-10-27,47,5%,1179.15
+Toni,López,Espanya,Barcelona,27,9,1979,,861 €,No,Grup A,Toni López,Sí,861,1979-09-27,46,5%,904.05
+Jordi,Castells,Espanya,Barcelona,19,7,1978,Home,1.541 €,No,Grup A,Jordi Castells,Sí,1541,1978-07-19,47,5%,1618.05
+Jordi,Ferrer,Espanya,Barcelona,28,6,2002,Home,961 €,No,Grup A,Jordi Ferrer,Sí,961,2002-06-28,23,5%,1009.05
+Pau,Castells,Espanya,Barcelona,14,9,1991,Home,1.564 €,No,Grup A,Pau Castells,Sí,1564,1991-09-14,34,5%,1642.2
+Joan,Martínez Castells,Espanya,Barcelona,22,7,1987,Home,1.165 €,No,Grup A,Joan Martínez Castells,Sí,1165,1987-07-22,38,5%,1223.25
+Toni,Ferrer,Espanya,Barcelona,24,8,1972,Home,1.667 €,Sí,Grup A,Toni Ferrer,Sí,1667,1972-08-24,53,5%,1750.35
+Jordi,García,Espanya,Barcelona,3,1,1975,Home,966 €,Sí,Grup A,Jordi García,Sí,966,1975-01-03,50,5%,1014.3
+Arnau,Sánchez,Espanya,Barcelona,16,12,1998,Home,1.435 €,No,Grup A,Arnau Sánchez,Sí,1435,1998-12-16,26,5%,1506.75
+Joan,Romero Martínez,Espanya,Barcelona,2,11,1973,Home,1.546 €,Sí,Grup A,Joan Romero Martínez,Sí,1546,1973-11-02,51,5%,1623.3
+Marta,Castells López,Espanya,Barcelona,9,6,1985,Dona,1.438 €,No,Grup A,Marta Castells López,Sí,1438,1985-06-09,40,5%,1509.9
+Pau,Ferrer Martínez,Espanya,Barcelona,24,12,1964,Home,853 €,No,Grup A,Pau Ferrer Martínez,Sí,853,1964-12-24,60,5%,895.65
+Laia,Romero Martínez,Espanya,Barcelona,28,5,1964,Dona,1.015 €,No,Grup A,Laia Romero Martínez,Sí,1015,1964-05-28,61,5%,1065.75
+Marc,Martínez Castells,Espanya,Barcelona,13,5,1979,,1.473 €,No,Grup A,Marc Martínez Castells,Sí,1473,1979-05-13,46,5%,1546.65
+Pau,Castells Martínez,Espanya,Barcelona,3,1,1985,Home,1.242 €,No,Grup A,Pau Castells Martínez,Sí,1242,1985-01-03,40,5%,1304.1
+Anna,Castells Ferrer,Espanya,Barcelona,8,1,1983,Dona,1.494 €,Sí,Grup A,Anna Castells Ferrer,Sí,1494,1983-01-08,42,5%,1568.7
+Toni,Romero,Espanya,Barcelona,7,5,1990,Home,1.101 €,No,Grup A,Toni Romero,Sí,1101,1990-05-07,35,5%,1156.05
+Joan,López,Espanya,Barcelona,22,10,1964,Home,1.623 €,No,Grup A,Joan López,Sí,1623,1964-10-22,60,5%,1704.15
+Eva,Castells Romero,Espanya,Barcelona,13,2,1980,Altres,931 €,No,Grup A,Eva Castells Romero,Sí,931,1980-02-13,45,5%,977.55
+Clara,Castells,Espanya,Barcelona,17,7,1953,Dona,778 €,No,Grup A,Clara Castells,Sí,778,1953-07-17,72,5%,816.9
+Joan,Romero Romero,Espanya,Barcelona,3,11,1995,Home,1.108 €,Sí,Grup A,Joan Romero Romero,Sí,1108,1995-11-03,29,5%,1163.4
+Clara,Sánchez,Espanya,Barcelona,3,10,1985,Dona,1.431 €,No,Grup A,Clara Sánchez,Sí,1431,1985-10-03,40,5%,1502.55
+Núria,López,Espanya,Barcelona,28,5,1961,Dona,797 €,Sí,Grup A,Núria López,Sí,797,1961-05-28,64,5%,836.85
+Eva,García,Espanya,Barcelona,27,10,1960,Dona,724 €,Sí,Grup A,Eva García,Sí,724,1960-10-27,64,5%,760.2
+Carla,Castells Castells,Espanya,Barcelona,27,3,1977,Dona,1.429 €,No,Grup A,Carla Castells Castells,Sí,1429,1977-03-27,48,5%,1500.45
+Marta,Romero,Espanya,Barcelona,8,4,1957,Dona,690 €,No,Grup A,Marta Romero,Sí,690,1957-04-08,68,5%,724.5
+Toni,Martínez Castells,Espanya,Barcelona,23,10,1957,Home,1.377 €,No,Grup A,Toni Martínez Castells,Sí,1377,1957-10-23,67,5%,1445.85
+Carla,Martínez Castells,Espanya,Barcelona,21,10,1980,Dona,755 €,No,Grup A,Carla Martínez Castells,Sí,755,1980-10-21,45,5%,792.75
+Oriol,López Romero,Espanya,Barcelona,22,5,1983,Home,1.135 €,Sí,Grup A,Oriol López Romero,Sí,1135,1983-05-22,42,5%,1191.75
+Carla,Ferrer,Espanya,Barcelona,13,12,1969,Dona,911 €,No,Grup A,Carla Ferrer,Sí,911,1969-12-13,55,5%,956.55
+Laia,Sánchez Martínez,Espanya,Barcelona,10,2,1971,Dona,1.427 €,No,Grup A,Laia Sánchez Martínez,Sí,1427,1971-02-10,54,5%,1498.35
+Oriol,Castells,Espanya,Barcelona,3,12,1987,Home,1.662 €,No,Grup A,Oriol Castells,Sí,1662,1987-12-03,37,5%,1745.1
+Jordi,Romero García,Espanya,Barcelona,17,2,1972,Home,1.134 €,No,Grup A,Jordi Romero García,Sí,1134,1972-02-17,53,5%,1190.7
+Oriol,Sánchez,Espanya,Barcelona,5,2,1986,Home,747 €,No,Grup A,Oriol Sánchez,Sí,747,1986-02-05,39,5%,784.35
+Laia,Romero,Espanya,Barcelona,17,9,1966,Dona,952 €,Sí,Grup A,Laia Romero,Sí,952,1966-09-17,59,5%,999.6
+Jordi,Romero,Espanya,Barcelona,6,9,1952,Home,1.673 €,Sí,Grup A,Jordi Romero,Sí,1673,1952-09-06,73,5%,1756.65
+Oriol,García Castells,Espanya,Barcelona,8,5,1987,Home,917 €,No,Grup A,Oriol García Castells,Sí,917,1987-05-08,38,5%,962.85
+Laia,López,Espanya,Barcelona,8,3,1970,Dona,1.315 €,No,Grup A,Laia López,Sí,1315,1970-03-08,55,5%,1380.75
+Laia,Ferrer Martínez,Espanya,Barcelona,11,11,1980,Dona,682 €,No,Grup A,Laia Ferrer Martínez,Sí,682,1980-11-11,44,5%,716.1
+Jordi,Sánchez,Espanya,Bilbao,16,8,1962,Home,742 €,No,Grup A,Jordi Sánchez,Sí,742,1962-08-16,63,5%,779.1
+Anna,Martínez Martínez,Espanya,Bilbao,26,9,1972,Dona,780 €,No,Grup A,Anna Martínez Martínez,Sí,780,1972-09-26,53,5%,819.0
+Toni,Sánchez García,Espanya,Bilbao,28,2,2000,Home,1.381 €,No,Grup A,Toni Sánchez García,Sí,1381,2000-02-28,25,5%,1450.05
+Anna,Ferrer Sánchez,Espanya,Bilbao,21,10,1982,Dona,1.323 €,No,Grup A,Anna Ferrer Sánchez,Sí,1323,1982-10-21,43,5%,1389.15
+Clara,Sánchez,Espanya,Bilbao,1,10,1965,Dona,817 €,Sí,Grup A,Clara Sánchez,Sí,817,1965-10-01,60,5%,857.85
+Anna,Castells,Espanya,Bilbao,20,3,1987,Dona,1.381 €,No,Grup A,Anna Castells,Sí,1381,1987-03-20,38,5%,1450.05
+Laia,Martínez Ferrer,Espanya,Bilbao,19,10,1956,Dona,981 €,Sí,Grup A,Laia Martínez Ferrer,Sí,981,1956-10-19,69,5%,1030.05
+Marta,Sánchez,Espanya,Bilbao,1,9,1972,Dona,1.154 €,No,Grup A,Marta Sánchez,Sí,1154,1972-09-01,53,5%,1211.7
+Pau,Ferrer,Espanya,Bilbao,6,8,1964,Home,1.156 €,No,Grup A,Pau Ferrer,Sí,1156,1964-08-06,61,5%,1213.8
+Clara,Castells García,Espanya,Bilbao,11,1,1964,Dona,1.100 €,Sí,Grup A,Clara Castells García,Sí,1100,1964-01-11,61,5%,1155.0
+Jordi,Castells Ferrer,Espanya,Bilbao,23,2,1979,Home,1.219 €,No,Grup A,Jordi Castells Ferrer,Sí,1219,1979-02-23,46,5%,1279.95
+Carla,Castells García,Espanya,Bilbao,7,1,1994,Dona,1.294 €,No,Grup A,Carla Castells García,Sí,1294,1994-01-07,31,5%,1358.7
+Marta,Romero Sánchez,Espanya,Bilbao,19,7,1968,Dona,1.036 €,No,Grup A,Marta Romero Sánchez,Sí,1036,1968-07-19,57,5%,1087.8
+Jordi,Sánchez,Espanya,Bilbao,5,3,1952,Home,1.249 €,No,Grup A,Jordi Sánchez,Sí,1249,1952-03-05,73,5%,1311.45
+Marta,Martínez,Espanya,Bilbao,22,6,1973,Dona,818 €,No,Grup A,Marta Martínez,Sí,818,1973-06-22,52,5%,858.9
+Jordi,Sánchez,Espanya,Bilbao,20,4,1993,Home,1.289 €,No,Grup A,Jordi Sánchez,Sí,1289,1993-04-20,32,5%,1353.45
+Jordi,Castells,Espanya,Bilbao,1,6,1953,Home,1.326 €,Sí,Grup A,Jordi Castells,Sí,1326,1953-06-01,72,5%,1392.3
+Marc,Martínez Martínez,Espanya,Bilbao,4,1,2001,Home,1.668 €,Sí,Grup A,Marc Martínez Martínez,Sí,1668,2001-01-04,24,5%,1751.4
+Eva,López,Espanya,Bilbao,26,12,1964,Dona,1.214 €,No,Grup A,Eva López,Sí,1214,1964-12-26,60,5%,1274.7
+Jordi,García,Espanya,Bilbao,11,1,1950,Home,994 €,No,Grup A,Jordi García,Sí,994,1950-01-11,75,5%,1043.7
+Arnau,Ferrer Sánchez,Espanya,Bilbao,6,11,1969,Home,1.332 €,Sí,Grup A,Arnau Ferrer Sánchez,Sí,1332,1969-11-06,55,5%,1398.6
+Anna,López,Espanya,Bilbao,17,6,1995,Dona,1.330 €,Sí,Grup A,Anna López,Sí,1330,1995-06-17,30,5%,1396.5
+Jordi,Romero García,Espanya,Bilbao,19,12,1984,Home,1.535 €,Sí,Grup A,Jordi Romero García,Sí,1535,1984-12-19,40,5%,1611.75
+Pau,Castells,Espanya,Bilbao,17,4,1952,,1.117 €,No,Grup A,Pau Castells,Sí,1117,1952-04-17,73,5%,1172.85
+Marta,López,Espanya,Bilbao,24,7,1967,Dona,1.421 €,No,Grup A,Marta López,Sí,1421,1967-07-24,58,5%,1492.05
+Núria,Ferrer,Espanya,Bilbao,17,3,1979,Dona,1.219 €,Sí,Grup A,Núria Ferrer,Sí,1219,1979-03-17,46,5%,1279.95
+Joan,Ferrer,Espanya,Bilbao,21,5,1981,,1.408 €,No,Grup A,Joan Ferrer,Sí,1408,1981-05-21,44,5%,1478.4
+Clara,Sánchez Romero,Espanya,Bilbao,16,3,2004,Dona,1.024 €,No,Grup A,Clara Sánchez Romero,Sí,1024,2004-03-16,21,5%,1075.2
+Eva,Romero,Espanya,Bilbao,18,7,1967,Dona,1.322 €,No,Grup A,Eva Romero,Sí,1322,1967-07-18,58,5%,1388.1
+Arnau,Sánchez,Espanya,Bilbao,23,1,1978,Home,1.107 €,No,Grup A,Arnau Sánchez,Sí,1107,1978-01-23,47,5%,1162.35
+Núria,Martínez Martínez,Espanya,Bilbao,20,8,2002,Dona,1.006 €,No,Grup A,Núria Martínez Martínez,Sí,1006,2002-08-20,23,5%,1056.3
+Anna,Ferrer Martínez,Espanya,Bilbao,15,10,1981,Dona,850 €,Sí,Grup A,Anna Ferrer Martínez,Sí,850,1981-10-15,44,5%,892.5
+Joan,García,Espanya,Bilbao,23,6,1960,Home,826 €,No,Grup A,Joan García,Sí,826,1960-06-23,65,5%,867.3
+Marc,Sánchez,Espanya,Bilbao,3,6,1996,Home,1.143 €,Sí,Grup A,Marc Sánchez,Sí,1143,1996-06-03,29,5%,1200.15
+Jordi,Ferrer,Espanya,Bilbao,22,5,1960,Home,1.325 €,No,Grup A,Jordi Ferrer,Sí,1325,1960-05-22,65,5%,1391.25
+Eva,Castells Romero,Espanya,Bilbao,25,6,1974,Dona,1.317 €,No,Grup A,Eva Castells Romero,Sí,1317,1974-06-25,51,5%,1382.85
+Arnau,Martínez Romero,Espanya,Bilbao,26,8,1997,Home,1.430 €,No,Grup A,Arnau Martínez Romero,Sí,1430,1997-08-26,28,5%,1501.5
+Toni,Ferrer,Espanya,Bilbao,7,4,1996,Altres,1.269 €,No,Grup A,Toni Ferrer,Sí,1269,1996-04-07,29,5%,1332.45
+Laia,Castells Castells,Espanya,Bilbao,3,12,1968,,1.330 €,Sí,Grup A,Laia Castells Castells,Sí,1330,1968-12-03,56,5%,1396.5
+Oriol,Romero,Espanya,Bilbao,28,3,1959,,913 €,Sí,Grup A,Oriol Romero,Sí,913,1959-03-28,66,5%,958.65
+Arnau,Martínez,Espanya,Bilbao,13,8,1964,Home,1.321 €,No,Grup A,Arnau Martínez,Sí,1321,1964-08-13,61,5%,1387.05
+Marc,García Romero,Espanya,Bilbao,25,1,2004,Home,1.086 €,No,Grup A,Marc García Romero,Sí,1086,2004-01-25,21,5%,1140.3
+Anna,Ferrer Castells,Espanya,Bilbao,1,9,1953,Dona,1.162 €,No,Grup A,Anna Ferrer Castells,Sí,1162,1953-09-01,72,5%,1220.1
+Laia,López López,Espanya,Bilbao,3,5,1997,Dona,1.057 €,Sí,Grup A,Laia López López,Sí,1057,1997-05-03,28,5%,1109.85
+Marta,Castells López,Espanya,Bilbao,10,1,1964,Dona,1.166 €,Sí,Grup A,Marta Castells López,Sí,1166,1964-01-10,61,5%,1224.3
+Eva,García,Espanya,Bilbao,17,3,1997,Dona,1.034 €,No,Grup A,Eva García,Sí,1034,1997-03-17,28,5%,1085.7
+Carla,Castells Ferrer,Espanya,Bilbao,20,7,1952,Dona,1.331 €,No,Grup A,Carla Castells Ferrer,Sí,1331,1952-07-20,73,5%,1397.55
+Joan,Sánchez,Espanya,Bilbao,18,3,1982,Home,1.632 €,No,Grup A,Joan Sánchez,Sí,1632,1982-03-18,43,5%,1713.6
+Jordi,Castells,Espanya,Bilbao,6,2,1963,Home,1.306 €,Sí,Grup A,Jordi Castells,Sí,1306,1963-02-06,62,5%,1371.3
+Núria,Martínez,Espanya,Bilbao,10,3,1971,Dona,988 €,No,Grup A,Núria Martínez,Sí,988,1971-03-10,54,5%,1037.4
+Núria,García,Espanya,Bilbao,15,6,2001,Dona,698 €,Sí,Grup A,Núria García,Sí,698,2001-06-15,24,5%,732.9
+Marc,López García,Espanya,Bilbao,10,9,2005,Home,1.270 €,No,Grup A,Marc López García,Sí,1270,2005-09-10,20,5%,1333.5
+Pau,López Ferrer,Espanya,Bilbao,13,4,1960,Home,1.129 €,Sí,Grup A,Pau López Ferrer,Sí,1129,1960-04-13,65,5%,1185.45
+Jordi,López Romero,Espanya,Bilbao,17,12,1978,Home,1.016 €,No,Grup A,Jordi López Romero,Sí,1016,1978-12-17,46,5%,1066.8
+Clara,Romero,Espanya,Bilbao,5,12,2004,Dona,1.507 €,No,Grup A,Clara Romero,Sí,1507,2004-12-05,20,5%,1582.35
+Eva,García,Espanya,Bilbao,13,9,1978,Dona,1.117 €,No,Grup A,Eva García,Sí,1117,1978-09-13,47,5%,1172.85
+Toni,López,Espanya,Bilbao,3,6,1956,Home,857 €,No,Grup A,Toni López,Sí,857,1956-06-03,69,5%,899.85
+Marc,Castells Castells,Espanya,Bilbao,18,12,1955,Home,1.330 €,Sí,Grup A,Marc Castells Castells,Sí,1330,1955-12-18,69,5%,1396.5
+Toni,Romero Martínez,Espanya,Bilbao,15,9,1980,Home,1.221 €,No,Grup A,Toni Romero Martínez,Sí,1221,1980-09-15,45,5%,1282.05
+Arnau,Martínez,Espanya,Bilbao,9,10,1996,Home,1.172 €,Sí,Grup A,Arnau Martínez,Sí,1172,1996-10-09,29,5%,1230.6
+Clara,Sánchez López,Espanya,Bilbao,1,8,1952,Dona,1.217 €,No,Grup A,Clara Sánchez López,Sí,1217,1952-08-01,73,5%,1277.85
+Eva,Castells,Espanya,Madrid,1,12,1965,Dona,879 €,No,Grup A,Eva Castells,Sí,879,1965-12-01,59,5%,922.95
+Joan,López,Espanya,Madrid,5,3,1957,Home,967 €,No,Grup A,Joan López,Sí,967,1957-03-05,68,5%,1015.35
+Eva,Ferrer,Espanya,Madrid,27,1,1974,Dona,1.001 €,No,Grup A,Eva Ferrer,Sí,1001,1974-01-27,51,5%,1051.05
+Núria,Martínez,Espanya,Madrid,19,3,1986,Dona,1.405 €,No,Grup A,Núria Martínez,Sí,1405,1986-03-19,39,5%,1475.25
+Toni,Ferrer,Espanya,Madrid,19,8,1967,Home,1.563 €,No,Grup A,Toni Ferrer,Sí,1563,1967-08-19,58,5%,1641.15
+Oriol,Martínez,Espanya,Madrid,18,1,1994,Home,1.505 €,No,Grup A,Oriol Martínez,Sí,1505,1994-01-18,31,5%,1580.25
+Pau,Romero Castells,Espanya,Madrid,14,7,1996,Home,1.552 €,Sí,Grup A,Pau Romero Castells,Sí,1552,1996-07-14,29,5%,1629.6
+Oriol,García,Espanya,Madrid,8,3,1954,Altres,1.562 €,No,Grup A,Oriol García,Sí,1562,1954-03-08,71,5%,1640.1
+Pau,Sánchez,Espanya,Madrid,1,12,1982,Altres,854 €,No,Grup A,Pau Sánchez,Sí,854,1982-12-01,42,5%,896.7
+Eva,Castells,Espanya,Madrid,20,11,1957,Dona,1.377 €,No,Grup A,Eva Castells,Sí,1377,1957-11-20,67,5%,1445.85
+Marc,Martínez Ferrer,Espanya,Madrid,14,7,1971,Altres,1.199 €,No,Grup A,Marc Martínez Ferrer,Sí,1199,1971-07-14,54,5%,1258.95
+Marta,Ferrer,Espanya,Madrid,6,10,1986,Dona,1.280 €,No,Grup A,Marta Ferrer,Sí,1280,1986-10-06,39,5%,1344.0
+Laia,Martínez,Espanya,Madrid,26,2,1979,Dona,1.306 €,No,Grup A,Laia Martínez,Sí,1306,1979-02-26,46,5%,1371.3
+Marc,Castells Sánchez,Espanya,Madrid,24,10,1974,Home,842 €,No,Grup A,Marc Castells Sánchez,Sí,842,1974-10-24,50,5%,884.1
+Pau,López,Espanya,Madrid,24,5,1977,Home,847 €,No,Grup A,Pau López,Sí,847,1977-05-24,48,5%,889.35
+Carla,García Martínez,Espanya,Madrid,19,4,1981,Dona,1.491 €,Sí,Grup A,Carla García Martínez,Sí,1491,1981-04-19,44,5%,1565.55
+Laia,Castells,Espanya,Madrid,11,4,1986,Dona,917 €,No,Grup A,Laia Castells,Sí,917,1986-04-11,39,5%,962.85
+Marta,García Romero,Espanya,Madrid,27,10,1984,Dona,954 €,No,Grup A,Marta García Romero,Sí,954,1984-10-27,40,5%,1001.7
+Anna,García,Espanya,Madrid,19,7,1972,,1.019 €,No,Grup A,Anna García,Sí,1019,1972-07-19,53,5%,1069.95
+Eva,García Sánchez,Espanya,Madrid,28,5,1968,Dona,948 €,No,Grup A,Eva García Sánchez,Sí,948,1968-05-28,57,5%,995.4
+Jordi,Romero Ferrer,Espanya,Madrid,15,4,2002,Home,1.289 €,No,Grup A,Jordi Romero Ferrer,Sí,1289,2002-04-15,23,5%,1353.45
+Núria,Sánchez Martínez,Espanya,Madrid,4,1,1958,Dona,1.450 €,No,Grup A,Núria Sánchez Martínez,Sí,1450,1958-01-04,67,5%,1522.5
+Pau,Ferrer López,Espanya,Madrid,16,2,1966,,1.183 €,Sí,Grup A,Pau Ferrer López,Sí,1183,1966-02-16,59,5%,1242.15
+Marta,López,Espanya,Madrid,26,8,1988,Dona,1.339 €,Sí,Grup A,Marta López,Sí,1339,1988-08-26,37,5%,1405.95
+Eva,García,Espanya,Madrid,10,3,1971,,1.228 €,Sí,Grup A,Eva García,Sí,1228,1971-03-10,54,5%,1289.4
+Marc,López Martínez,Espanya,Madrid,18,11,2004,Home,1.275 €,Sí,Grup A,Marc López Martínez,Sí,1275,2004-11-18,20,5%,1338.75
+Toni,García García,Espanya,Madrid,9,6,1958,Home,1.400 €,Sí,Grup A,Toni García García,Sí,1400,1958-06-09,67,5%,1470.0
+Clara,Sánchez Ferrer,Espanya,Madrid,21,4,1963,Dona,1.324 €,Sí,Grup A,Clara Sánchez Ferrer,Sí,1324,1963-04-21,62,5%,1390.2
+Jordi,Sánchez Ferrer,Espanya,Madrid,2,4,1977,Home,1.014 €,No,Grup A,Jordi Sánchez Ferrer,Sí,1014,1977-04-02,48,5%,1064.7
+Carla,Martínez Sánchez,Espanya,Madrid,6,2,2004,Dona,689 €,Sí,Grup A,Carla Martínez Sánchez,Sí,689,2004-02-06,21,5%,723.45
+Marc,García López,Espanya,Madrid,11,8,1963,Home,1.024 €,No,Grup A,Marc García López,Sí,1024,1963-08-11,62,5%,1075.2
+Anna,Ferrer,Espanya,Madrid,8,5,1966,Dona,767 €,No,Grup A,Anna Ferrer,Sí,767,1966-05-08,59,5%,805.35
+Oriol,Ferrer,Espanya,Madrid,9,7,1985,Altres,726 €,No,Grup A,Oriol Ferrer,Sí,726,1985-07-09,40,5%,762.3
+Clara,Castells,Espanya,Madrid,15,3,1981,Dona,1.519 €,Sí,Grup A,Clara Castells,Sí,1519,1981-03-15,44,5%,1594.95
+Toni,Castells Castells,Espanya,Madrid,20,3,1950,Home,1.533 €,No,Grup A,Toni Castells Castells,Sí,1533,1950-03-20,75,5%,1609.65
+Arnau,Sánchez Martínez,Espanya,Madrid,12,11,2003,Home,766 €,No,Grup A,Arnau Sánchez Martínez,Sí,766,2003-11-12,21,5%,804.3
+Joan,Ferrer Castells,Espanya,Madrid,25,10,1967,Home,1.249 €,Sí,Grup A,Joan Ferrer Castells,Sí,1249,1967-10-25,57,5%,1311.45
+Marc,Ferrer Romero,Espanya,Madrid,9,10,1973,Home,1.081 €,No,Grup A,Marc Ferrer Romero,Sí,1081,1973-10-09,52,5%,1135.05
+Anna,Sánchez López,Espanya,Madrid,4,8,1997,Altres,1.197 €,No,Grup A,Anna Sánchez López,Sí,1197,1997-08-04,28,5%,1256.85
+Núria,Romero Romero,Espanya,Madrid,3,3,1962,Dona,894 €,No,Grup A,Núria Romero Romero,Sí,894,1962-03-03,63,5%,938.7
+Laia,Castells,Espanya,Madrid,9,8,1977,Dona,981 €,No,Grup A,Laia Castells,Sí,981,1977-08-09,48,5%,1030.05
+Pau,López,Espanya,Madrid,28,12,1971,Home,794 €,Sí,Grup A,Pau López,Sí,794,1971-12-28,53,5%,833.7
+Toni,Martínez López,Espanya,Madrid,4,12,1983,Home,1.607 €,Sí,Grup A,Toni Martínez López,Sí,1607,1983-12-04,41,5%,1687.35
+Marc,García,Espanya,Madrid,14,7,1977,Home,1.599 €,No,Grup A,Marc García,Sí,1599,1977-07-14,48,5%,1678.95
+Núria,Martínez Sánchez,Espanya,Madrid,23,5,1967,Dona,914 €,Sí,Grup A,Núria Martínez Sánchez,Sí,914,1967-05-23,58,5%,959.7
+Carla,Ferrer García,Espanya,Madrid,19,12,1960,Dona,1.405 €,Sí,Grup A,Carla Ferrer García,Sí,1405,1960-12-19,64,5%,1475.25
+Eva,Romero,Espanya,Madrid,21,1,1972,Dona,1.022 €,Sí,Grup A,Eva Romero,Sí,1022,1972-01-21,53,5%,1073.1
+Laia,Ferrer,Espanya,Madrid,18,8,1973,Dona,1.083 €,Sí,Grup A,Laia Ferrer,Sí,1083,1973-08-18,52,5%,1137.15
+Joan,Martínez Romero,Espanya,Madrid,19,6,1972,Home,1.129 €,Sí,Grup A,Joan Martínez Romero,Sí,1129,1972-06-19,53,5%,1185.45
+Eva,Martínez Martínez,Espanya,Madrid,16,9,2003,Dona,1.291 €,No,Grup A,Eva Martínez Martínez,Sí,1291,2003-09-16,22,5%,1355.55
+Joan,García Ferrer,Espanya,Madrid,1,6,1975,Home,800 €,Sí,Grup A,Joan García Ferrer,Sí,800,1975-06-01,50,5%,840.0
+Marc,García,Espanya,Madrid,8,1,1972,Altres,1.553 €,No,Grup A,Marc García,Sí,1553,1972-01-08,53,5%,1630.65
+Anna,Romero,Espanya,Madrid,11,3,1990,Dona,962 €,No,Grup A,Anna Romero,Sí,962,1990-03-11,35,5%,1010.1
+Arnau,Sánchez,Espanya,Madrid,28,10,1973,Home,976 €,Sí,Grup A,Arnau Sánchez,Sí,976,1973-10-28,51,5%,1024.8
+Pau,Romero,Espanya,Madrid,20,2,1953,Home,1.345 €,No,Grup A,Pau Romero,Sí,1345,1953-02-20,72,5%,1412.25
+Pau,Romero Castells,Espanya,Madrid,8,8,1968,Home,1.429 €,Sí,Grup A,Pau Romero Castells,Sí,1429,1968-08-08,57,5%,1500.45
+Anna,López,Espanya,Madrid,2,1,1952,Dona,1.062 €,Sí,Grup A,Anna López,Sí,1062,1952-01-02,73,5%,1115.1
+Marc,Ferrer,Espanya,Madrid,27,4,1954,Home,1.636 €,Sí,Grup A,Marc Ferrer,Sí,1636,1954-04-27,71,5%,1717.8
+Laia,Castells Ferrer,Espanya,Madrid,7,5,1971,Dona,1.516 €,Sí,Grup A,Laia Castells Ferrer,Sí,1516,1971-05-07,54,5%,1591.8
+Laia,Martínez Romero,Espanya,Madrid,28,12,1957,Altres,728 €,Sí,Grup A,Laia Martínez Romero,Sí,728,1957-12-28,67,5%,764.4
+Anna,García García,Espanya,Madrid,8,5,2003,Dona,847 €,Sí,Grup A,Anna García García,Sí,847,2003-05-08,22,5%,889.35
+Núria,Romero,Espanya,Madrid,9,4,1974,Dona,683 €,Sí,Grup A,Núria Romero,Sí,683,1974-04-09,51,5%,717.15
+Núria,Romero,Espanya,Madrid,9,3,1956,Dona,1.415 €,No,Grup A,Núria Romero,Sí,1415,1956-03-09,69,5%,1485.75
+Joan,Martínez Castells,Espanya,Madrid,4,10,1985,Home,1.139 €,No,Grup A,Joan Martínez Castells,Sí,1139,1985-10-04,40,5%,1195.95
+Anna,García,Espanya,Madrid,15,3,1960,Dona,1.130 €,Sí,Grup A,Anna García,Sí,1130,1960-03-15,65,5%,1186.5
+Carla,Sánchez Romero,Espanya,Madrid,22,1,2005,,892 €,No,Grup A,Carla Sánchez Romero,Sí,892,2005-01-22,20,5%,936.6
+Eva,Castells,Espanya,Sevilla,3,5,1968,,1.247 €,Sí,Grup A,Eva Castells,Sí,1247,1968-05-03,57,5%,1309.35
+Carla,García,Espanya,Sevilla,17,5,1952,Dona,963 €,Sí,Grup A,Carla García,Sí,963,1952-05-17,73,5%,1011.15
+Toni,Martínez,Espanya,Sevilla,24,7,1982,Home,1.515 €,Sí,Grup A,Toni Martínez,Sí,1515,1982-07-24,43,5%,1590.75
+Marta,López,Espanya,Sevilla,6,6,1954,Dona,1.484 €,No,Grup A,Marta López,Sí,1484,1954-06-06,71,5%,1558.2
+Anna,Martínez Martínez,Espanya,Sevilla,10,4,1985,Dona,1.333 €,No,Grup A,Anna Martínez Martínez,Sí,1333,1985-04-10,40,5%,1399.65
+Clara,García,Espanya,Sevilla,10,3,1955,Dona,809 €,No,Grup A,Clara García,Sí,809,1955-03-10,70,5%,849.45
+Joan,Sánchez,Espanya,Sevilla,5,8,1988,Home,1.072 €,Sí,Grup A,Joan Sánchez,Sí,1072,1988-08-05,37,5%,1125.6
+Núria,Castells Sánchez,Espanya,Sevilla,26,3,1975,Dona,665 €,No,Grup A,Núria Castells Sánchez,Sí,665,1975-03-26,50,5%,698.25
+Pau,Ferrer,Espanya,Sevilla,1,1,1999,Home,1.538 €,No,Grup A,Pau Ferrer,Sí,1538,1999-01-01,26,5%,1614.9
+Pau,Castells,Espanya,Sevilla,23,3,1978,Home,819 €,No,Grup A,Pau Castells,Sí,819,1978-03-23,47,5%,859.95
+Marc,García Romero,Espanya,Sevilla,2,1,1982,Home,1.126 €,No,Grup A,Marc García Romero,Sí,1126,1982-01-02,43,5%,1182.3
+Laia,Castells,Espanya,Sevilla,6,10,1992,,1.471 €,No,Grup A,Laia Castells,Sí,1471,1992-10-06,33,5%,1544.55
+Eva,Ferrer,Espanya,Sevilla,24,1,1967,Dona,809 €,No,Grup A,Eva Ferrer,Sí,809,1967-01-24,58,5%,849.45
+Jordi,Ferrer Martínez,Espanya,Sevilla,26,1,1970,Home,1.464 €,Sí,Grup A,Jordi Ferrer Martínez,Sí,1464,1970-01-26,55,5%,1537.2
+Núria,Sánchez,Espanya,Sevilla,2,11,1991,Dona,1.027 €,No,Grup A,Núria Sánchez,Sí,1027,1991-11-02,33,5%,1078.35
+Arnau,Ferrer Sánchez,Espanya,Sevilla,3,5,1994,Home,1.079 €,No,Grup A,Arnau Ferrer Sánchez,Sí,1079,1994-05-03,31,5%,1132.95
+Oriol,Martínez Martínez,Espanya,Sevilla,14,6,1991,,1.122 €,Sí,Grup A,Oriol Martínez Martínez,Sí,1122,1991-06-14,34,5%,1178.1
+Eva,Sánchez,Espanya,Sevilla,7,8,1992,Dona,999 €,Sí,Grup A,Eva Sánchez,Sí,999,1992-08-07,33,5%,1048.95
+Carla,Ferrer López,Espanya,Sevilla,17,7,1982,Dona,816 €,No,Grup A,Carla Ferrer López,Sí,816,1982-07-17,43,5%,856.8
+Toni,López Castells,Espanya,Sevilla,18,8,1977,Home,772 €,No,Grup A,Toni López Castells,Sí,772,1977-08-18,48,5%,810.6
+Clara,Sánchez,Espanya,Sevilla,14,10,1970,Dona,938 €,Sí,Grup A,Clara Sánchez,Sí,938,1970-10-14,55,5%,984.9
+Pau,Romero Romero,Espanya,Sevilla,12,4,1990,Home,940 €,No,Grup A,Pau Romero Romero,Sí,940,1990-04-12,35,5%,987.0
+Jordi,Romero López,Espanya,Sevilla,13,3,1973,Home,1.366 €,No,Grup A,Jordi Romero López,Sí,1366,1973-03-13,52,5%,1434.3
+Carla,Romero Ferrer,Espanya,Sevilla,28,5,1991,Dona,730 €,No,Grup A,Carla Romero Ferrer,Sí,730,1991-05-28,34,5%,766.5
+Marta,López,Espanya,Sevilla,25,8,1971,Dona,1.056 €,Sí,Grup A,Marta López,Sí,1056,1971-08-25,54,5%,1108.8
+Arnau,Ferrer García,Espanya,Sevilla,17,3,1989,Home,1.377 €,No,Grup A,Arnau Ferrer García,Sí,1377,1989-03-17,36,5%,1445.85
+Clara,García,Espanya,Sevilla,19,8,1998,Dona,747 €,No,Grup A,Clara García,Sí,747,1998-08-19,27,5%,784.35
+Oriol,Martínez Martínez,Espanya,Sevilla,21,3,1951,Home,1.466 €,No,Grup A,Oriol Martínez Martínez,Sí,1466,1951-03-21,74,5%,1539.3
+Laia,Ferrer Martínez,Espanya,Sevilla,23,10,1962,Dona,1.408 €,Sí,Grup A,Laia Ferrer Martínez,Sí,1408,1962-10-23,62,5%,1478.4
+Carla,Sánchez López,Espanya,Sevilla,11,6,1989,Dona,1.081 €,Sí,Grup A,Carla Sánchez López,Sí,1081,1989-06-11,36,5%,1135.05
+Núria,López,Espanya,Sevilla,5,5,1977,Dona,1.024 €,No,Grup A,Núria López,Sí,1024,1977-05-05,48,5%,1075.2
+Pau,López García,Espanya,Sevilla,4,7,1992,Home,1.668 €,No,Grup A,Pau López García,Sí,1668,1992-07-04,33,5%,1751.4
+Toni,Sánchez Sánchez,Espanya,Sevilla,16,7,1950,Home,1.294 €,No,Grup A,Toni Sánchez Sánchez,Sí,1294,1950-07-16,75,5%,1358.7
+Laia,Ferrer Romero,Espanya,Sevilla,25,8,1951,Dona,1.303 €,Sí,Grup A,Laia Ferrer Romero,Sí,1303,1951-08-25,74,5%,1368.15
+Marc,Martínez García,Espanya,Sevilla,12,3,1965,Home,1.585 €,No,Grup A,Marc Martínez García,Sí,1585,1965-03-12,60,5%,1664.25
+Clara,Romero,Espanya,Sevilla,23,3,1999,Dona,758 €,No,Grup A,Clara Romero,Sí,758,1999-03-23,26,5%,795.9
+Carla,Ferrer Castells,Espanya,Sevilla,2,8,1957,Dona,1.091 €,Sí,Grup A,Carla Ferrer Castells,Sí,1091,1957-08-02,68,5%,1145.55
+Arnau,Sánchez Sánchez,Espanya,Sevilla,5,7,1974,Home,1.485 €,No,Grup A,Arnau Sánchez Sánchez,Sí,1485,1974-07-05,51,5%,1559.25
+Marc,Castells,Espanya,Sevilla,20,9,1970,Home,1.108 €,Sí,Grup A,Marc Castells,Sí,1108,1970-09-20,55,5%,1163.4
+Joan,Ferrer,Espanya,Sevilla,19,12,1970,,1.012 €,No,Grup A,Joan Ferrer,Sí,1012,1970-12-19,54,5%,1062.6
+Eva,Ferrer,Espanya,Sevilla,4,11,1990,Dona,1.365 €,Sí,Grup A,Eva Ferrer,Sí,1365,1990-11-04,34,5%,1433.25
+Pau,Sánchez,Espanya,Sevilla,1,2,1953,Home,1.037 €,No,Grup A,Pau Sánchez,Sí,1037,1953-02-01,72,5%,1088.85
+Joan,Ferrer,Espanya,Sevilla,2,2,1964,Home,1.213 €,No,Grup A,Joan Ferrer,Sí,1213,1964-02-02,61,5%,1273.65
+Jordi,García López,Espanya,Sevilla,6,6,1971,Home,1.249 €,Sí,Grup A,Jordi García López,Sí,1249,1971-06-06,54,5%,1311.45
+Marta,Martínez,Espanya,Sevilla,17,7,2000,Dona,1.197 €,No,Grup A,Marta Martínez,Sí,1197,2000-07-17,25,5%,1256.85
+Oriol,Martínez,Espanya,Sevilla,23,12,1991,Home,803 €,Sí,Grup A,Oriol Martínez,Sí,803,1991-12-23,33,5%,843.15
+Carla,López Romero,Espanya,Sevilla,22,4,1954,Dona,1.173 €,Sí,Grup A,Carla López Romero,Sí,1173,1954-04-22,71,5%,1231.65
+Marc,López,Espanya,Sevilla,23,1,1965,Home,842 €,Sí,Grup A,Marc López,Sí,842,1965-01-23,60,5%,884.1
+Laia,Ferrer,Espanya,Sevilla,18,6,1988,Dona,947 €,No,Grup A,Laia Ferrer,Sí,947,1988-06-18,37,5%,994.35
+Jordi,García Martínez,Espanya,Sevilla,7,2,1974,Home,774 €,Sí,Grup A,Jordi García Martínez,Sí,774,1974-02-07,51,5%,812.7
+Anna,Ferrer Romero,Espanya,Sevilla,24,1,2005,Dona,718 €,No,Grup A,Anna Ferrer Romero,Sí,718,2005-01-24,20,5%,753.9
+Núria,López,Espanya,Sevilla,7,6,1956,Dona,1.314 €,No,Grup A,Núria López,Sí,1314,1956-06-07,69,5%,1379.7
+Pau,Ferrer,Espanya,Sevilla,23,2,1996,Home,1.507 €,Sí,Grup A,Pau Ferrer,Sí,1507,1996-02-23,29,5%,1582.35
+Clara,López García,Espanya,Sevilla,18,8,1955,Dona,988 €,No,Grup A,Clara López García,Sí,988,1955-08-18,70,5%,1037.4
+Toni,Castells,Espanya,Sevilla,11,5,2004,Home,1.353 €,No,Grup A,Toni Castells,Sí,1353,2004-05-11,21,5%,1420.65
+Arnau,García,Espanya,Sevilla,10,9,1966,,1.230 €,No,Grup A,Arnau García,Sí,1230,1966-09-10,59,5%,1291.5
+Eva,Sánchez,Espanya,Sevilla,28,6,1958,Altres,703 €,No,Grup A,Eva Sánchez,Sí,703,1958-06-28,67,5%,738.15
+Jordi,López,Espanya,Sevilla,18,2,1998,Home,879 €,No,Grup A,Jordi López,Sí,879,1998-02-18,27,5%,922.95
+Jordi,García Ferrer,Espanya,Sevilla,21,8,1959,Home,1.086 €,Sí,Grup A,Jordi García Ferrer,Sí,1086,1959-08-21,66,5%,1140.3
+Anna,Martínez,Espanya,Sevilla,24,2,1973,Dona,1.155 €,No,Grup A,Anna Martínez,Sí,1155,1973-02-24,52,5%,1212.75
+Joan,López,Espanya,Sevilla,12,8,1992,Home,977 €,No,Grup A,Joan López,Sí,977,1992-08-12,33,5%,1025.85
+Oriol,Castells,Espanya,Sevilla,27,3,1998,Home,1.564 €,Sí,Grup A,Oriol Castells,Sí,1564,1998-03-27,27,5%,1642.2
+Marta,Sánchez,Espanya,Sevilla,17,3,1999,Dona,1.389 €,No,Grup A,Marta Sánchez,Sí,1389,1999-03-17,26,5%,1458.45
+Oriol,Martínez,Espanya,Sevilla,22,7,1977,Home,1.348 €,Sí,Grup A,Oriol Martínez,Sí,1348,1977-07-22,48,5%,1415.4
+Eva,López Castells,Espanya,Sevilla,4,12,2004,,874 €,Sí,Grup A,Eva López Castells,Sí,874,2004-12-04,20,5%,917.7
+Marc,Castells,Espanya,Sevilla,24,3,1974,Home,1.008 €,No,Grup A,Marc Castells,Sí,1008,1974-03-24,51,5%,1058.4
+Anna,Sánchez,Espanya,Sevilla,17,7,1971,Dona,767 €,Sí,Grup A,Anna Sánchez,Sí,767,1971-07-17,54,5%,805.35
+Clara,Ferrer Castells,Espanya,Sevilla,25,7,1998,Dona,1.393 €,No,Grup A,Clara Ferrer Castells,Sí,1393,1998-07-25,27,5%,1462.65
+Pau,Ferrer,Espanya,Sevilla,6,3,1997,Home,1.428 €,No,Grup A,Pau Ferrer,Sí,1428,1997-03-06,28,5%,1499.4
+Toni,Romero,Espanya,Sevilla,26,9,1952,,1.222 €,Sí,Grup A,Toni Romero,Sí,1222,1952-09-26,73,5%,1283.1
+Núria,García Castells,Espanya,Sevilla,23,12,1986,Dona,1.259 €,No,Grup A,Núria García Castells,Sí,1259,1986-12-23,38,5%,1321.95
+Toni,López,Espanya,Sevilla,20,10,1950,,1.538 €,No,Grup A,Toni López,Sí,1538,1950-10-20,75,5%,1614.9
+Joan,García,Espanya,Sevilla,11,4,1959,Home,971 €,No,Grup A,Joan García,Sí,971,1959-04-11,66,5%,1019.55
+Carla,García,Espanya,València,24,12,1957,Dona,942 €,No,Grup A,Carla García,Sí,942,1957-12-24,67,5%,989.1
+Núria,Ferrer Romero,Espanya,València,6,2,2003,,1.256 €,No,Grup A,Núria Ferrer Romero,Sí,1256,2003-02-06,22,5%,1318.8
+Joan,López,Espanya,València,1,2,1952,Home,1.502 €,No,Grup A,Joan López,Sí,1502,1952-02-01,73,5%,1577.1
+Oriol,García,Espanya,València,12,6,2002,Home,1.288 €,Sí,Grup A,Oriol García,Sí,1288,2002-06-12,23,5%,1352.4
+Jordi,Sánchez,Espanya,València,19,6,1984,Home,1.243 €,Sí,Grup A,Jordi Sánchez,Sí,1243,1984-06-19,41,5%,1305.15
+Eva,Romero,Espanya,València,16,4,1985,Dona,1.077 €,Sí,Grup A,Eva Romero,Sí,1077,1985-04-16,40,5%,1130.85
+Toni,Romero,Espanya,València,26,11,1991,Home,1.377 €,Sí,Grup A,Toni Romero,Sí,1377,1991-11-26,33,5%,1445.85
+Marc,García Ferrer,Espanya,València,16,8,1998,Home,1.193 €,No,Grup A,Marc García Ferrer,Sí,1193,1998-08-16,27,5%,1252.65
+Clara,Sánchez Castells,Espanya,València,19,3,1972,Dona,1.156 €,No,Grup A,Clara Sánchez Castells,Sí,1156,1972-03-19,53,5%,1213.8
+Carla,Ferrer López,Espanya,València,2,4,1984,Dona,1.495 €,Sí,Grup A,Carla Ferrer López,Sí,1495,1984-04-02,41,5%,1569.75
+Marta,García Sánchez,Espanya,València,3,2,1962,Dona,1.120 €,Sí,Grup A,Marta García Sánchez,Sí,1120,1962-02-03,63,5%,1176.0
+Clara,Ferrer,Espanya,València,14,12,2002,Dona,979 €,Sí,Grup A,Clara Ferrer,Sí,979,2002-12-14,22,5%,1027.95
+Jordi,López,Espanya,València,1,5,1996,Home,1.319 €,Sí,Grup A,Jordi López,Sí,1319,1996-05-01,29,5%,1384.95
+Clara,Ferrer García,Espanya,València,26,1,1957,Dona,696 €,Sí,Grup A,Clara Ferrer García,Sí,696,1957-01-26,68,5%,730.8
+Pau,Ferrer García,Espanya,València,14,9,1984,Home,1.269 €,Sí,Grup A,Pau Ferrer García,Sí,1269,1984-09-14,41,5%,1332.45
+Oriol,Romero Castells,Espanya,València,25,4,1970,Home,1.466 €,No,Grup A,Oriol Romero Castells,Sí,1466,1970-04-25,55,5%,1539.3
+Eva,García,Espanya,València,28,9,1950,Dona,756 €,No,Grup A,Eva García,Sí,756,1950-09-28,75,5%,793.8
+Joan,Martínez Martínez,Espanya,València,1,2,1960,Home,1.010 €,No,Grup A,Joan Martínez Martínez,Sí,1010,1960-02-01,65,5%,1060.5
+Jordi,Romero Romero,Espanya,València,11,6,1984,Home,972 €,No,Grup A,Jordi Romero Romero,Sí,972,1984-06-11,41,5%,1020.6
+Marta,Romero Castells,Espanya,València,12,12,1988,Dona,835 €,No,Grup A,Marta Romero Castells,Sí,835,1988-12-12,36,5%,876.75
+Toni,García Ferrer,Espanya,València,22,9,1988,Home,1.018 €,No,Grup A,Toni García Ferrer,Sí,1018,1988-09-22,37,5%,1068.9
+Toni,Romero,Espanya,València,17,2,2003,Home,1.624 €,Sí,Grup A,Toni Romero,Sí,1624,2003-02-17,22,5%,1705.2
+Jordi,López,Espanya,València,24,10,1954,Home,1.055 €,No,Grup A,Jordi López,Sí,1055,1954-10-24,70,5%,1107.75
+Clara,López García,Espanya,València,13,10,1988,Dona,825 €,Sí,Grup A,Clara López García,Sí,825,1988-10-13,37,5%,866.25
+Laia,Martínez López,Espanya,València,17,5,1976,Dona,1.179 €,Sí,Grup A,Laia Martínez López,Sí,1179,1976-05-17,49,5%,1237.95
+Anna,Romero,Espanya,València,17,11,1976,Dona,1.286 €,No,Grup A,Anna Romero,Sí,1286,1976-11-17,48,5%,1350.3
+Núria,Romero Castells,Espanya,València,10,4,1996,,776 €,No,Grup A,Núria Romero Castells,Sí,776,1996-04-10,29,5%,814.8
+Núria,Romero,Espanya,València,11,6,1951,Dona,712 €,No,Grup A,Núria Romero,Sí,712,1951-06-11,74,5%,747.6
+Pau,Martínez López,Espanya,València,19,12,1994,Home,1.498 €,No,Grup A,Pau Martínez López,Sí,1498,1994-12-19,30,5%,1572.9
+Laia,Romero,Espanya,València,18,7,1950,Dona,1.007 €,No,Grup A,Laia Romero,Sí,1007,1950-07-18,75,5%,1057.35
+Pau,Sánchez,Espanya,València,26,5,1954,Home,1.411 €,No,Grup A,Pau Sánchez,Sí,1411,1954-05-26,71,5%,1481.55
+Eva,García Ferrer,Espanya,València,22,2,1991,Dona,665 €,Sí,Grup A,Eva García Ferrer,Sí,665,1991-02-22,34,5%,698.25
+Toni,Castells,Espanya,València,1,5,1960,Home,1.634 €,Sí,Grup A,Toni Castells,Sí,1634,1960-05-01,65,5%,1715.7
+Clara,Martínez Romero,Espanya,València,9,7,1973,Dona,1.065 €,Sí,Grup A,Clara Martínez Romero,Sí,1065,1973-07-09,52,5%,1118.25
+Arnau,Romero,Espanya,València,24,6,1976,Home,772 €,No,Grup A,Arnau Romero,Sí,772,1976-06-24,49,5%,810.6
+Jordi,Martínez Ferrer,Espanya,València,18,2,1972,Altres,778 €,No,Grup A,Jordi Martínez Ferrer,Sí,778,1972-02-18,53,5%,816.9
+Clara,Sánchez Castells,Espanya,València,6,10,1973,Dona,1.167 €,No,Grup A,Clara Sánchez Castells,Sí,1167,1973-10-06,52,5%,1225.35
+Núria,Castells,Espanya,València,16,2,2001,Dona,892 €,No,Grup A,Núria Castells,Sí,892,2001-02-16,24,5%,936.6
+Marta,Martínez Ferrer,Espanya,València,2,11,2001,Dona,806 €,No,Grup A,Marta Martínez Ferrer,Sí,806,2001-11-02,23,5%,846.3
+Jordi,Ferrer Martínez,Espanya,València,12,11,1981,Home,1.664 €,No,Grup A,Jordi Ferrer Martínez,Sí,1664,1981-11-12,43,5%,1747.2
+Oriol,Castells Ferrer,Espanya,València,14,10,1959,Home,1.576 €,Sí,Grup A,Oriol Castells Ferrer,Sí,1576,1959-10-14,66,5%,1654.8
+Carla,López,Espanya,València,27,6,1972,Dona,912 €,No,Grup A,Carla López,Sí,912,1972-06-27,53,5%,957.6
+Marc,Romero,Espanya,València,8,6,1957,Home,793 €,Sí,Grup A,Marc Romero,Sí,793,1957-06-08,68,5%,832.65
+Oriol,Martínez,Espanya,València,17,7,1951,Home,1.593 €,No,Grup A,Oriol Martínez,Sí,1593,1951-07-17,74,5%,1672.65
+Marta,Sánchez,Espanya,València,28,10,1980,Dona,1.357 €,Sí,Grup A,Marta Sánchez,Sí,1357,1980-10-28,44,5%,1424.85
+Carla,López,Espanya,València,4,6,1994,Dona,994 €,Sí,Grup A,Carla López,Sí,994,1994-06-04,31,5%,1043.7
+Oriol,Martínez Sánchez,Espanya,València,3,9,1969,Home,1.214 €,Sí,Grup A,Oriol Martínez Sánchez,Sí,1214,1969-09-03,56,5%,1274.7
+Carla,Castells López,Espanya,València,17,10,1966,Dona,1.034 €,No,Grup A,Carla Castells López,Sí,1034,1966-10-17,59,5%,1085.7
+Clara,García López,Espanya,València,21,1,1983,Dona,1.101 €,Sí,Grup A,Clara García López,Sí,1101,1983-01-21,42,5%,1156.05
+Eva,Martínez,Espanya,València,4,12,1970,Dona,1.238 €,No,Grup A,Eva Martínez,Sí,1238,1970-12-04,54,5%,1299.9
+Carla,Sánchez,Espanya,València,10,6,1981,Dona,719 €,Sí,Grup A,Carla Sánchez,Sí,719,1981-06-10,44,5%,754.95
+Joan,García,Espanya,València,1,4,1977,Home,1.591 €,Sí,Grup A,Joan García,Sí,1591,1977-04-01,48,5%,1670.55
+Núria,García,Espanya,València,11,4,1993,Dona,799 €,No,Grup A,Núria García,Sí,799,1993-04-11,32,5%,838.95
+Eva,García,Espanya,València,22,6,1993,Dona,1.444 €,No,Grup A,Eva García,Sí,1444,1993-06-22,32,5%,1516.2
+Oriol,Sánchez García,Espanya,València,21,5,1993,Home,895 €,No,Grup A,Oriol Sánchez García,Sí,895,1993-05-21,32,5%,939.75
+Arnau,Romero Martínez,Espanya,València,7,5,1962,Home,1.245 €,Sí,Grup A,Arnau Romero Martínez,Sí,1245,1962-05-07,63,5%,1307.25
+Marc,Sánchez Ferrer,Espanya,València,1,4,1998,Home,968 €,No,Grup A,Marc Sánchez Ferrer,Sí,968,1998-04-01,27,5%,1016.4
+Anna,Sánchez,Espanya,València,5,6,1988,Dona,965 €,No,Grup A,Anna Sánchez,Sí,965,1988-06-05,37,5%,1013.25
+Núria,Ferrer,Espanya,València,26,4,1995,Dona,1.233 €,No,Grup A,Núria Ferrer,Sí,1233,1995-04-26,30,5%,1294.65
+Toni,García,Espanya,València,4,5,1952,Home,1.079 €,No,Grup A,Toni García,Sí,1079,1952-05-04,73,5%,1132.95
+Núria,Martínez Ferrer,Espanya,València,4,11,1976,Dona,1.028 €,No,Grup A,Núria Martínez Ferrer,Sí,1028,1976-11-04,48,5%,1079.4
+Oriol,Sánchez García,Espanya,València,16,7,1965,Home,1.273 €,No,Grup A,Oriol Sánchez García,Sí,1273,1965-07-16,60,5%,1336.65
+Clara,Romero García,Espanya,València,8,2,1989,Dona,1.246 €,Sí,Grup A,Clara Romero García,Sí,1246,1989-02-08,36,5%,1308.3
+Michel,Moreau,França,Lió,2,5,1970,Home,810 €,No,Grup A,Michel Moreau,No,810,1970-05-02,55,5%,850.5
+Michel,Lefevre,França,Lió,14,1,1985,Home,821 €,Sí,Grup A,Michel Lefevre,No,821,1985-01-14,40,5%,862.05
+Louis,Moreau,França,Lió,13,2,1974,Home,1.664 €,Sí,Grup A,Louis Moreau,No,1664,1974-02-13,51,5%,1747.2
+Michel,Dubois Dubois,França,Lió,4,9,1979,Home,1.095 €,No,Grup A,Michel Dubois Dubois,No,1095,1979-09-04,46,5%,1149.75
+Louis,Dubois Girard,França,Lió,21,11,1950,Home,1.085 €,No,Grup A,Louis Dubois Girard,No,1085,1950-11-21,74,5%,1139.25
+Antoine,Lefevre,França,Lió,17,6,1999,Home,1.241 €,No,Grup A,Antoine Lefevre,No,1241,1999-06-17,26,5%,1303.05
+Jean,Girard Lefevre,França,Lió,28,12,1960,Home,930 €,No,Grup A,Jean Girard Lefevre,No,930,1960-12-28,64,5%,976.5
+Jean,Dubois,França,Lió,13,2,1960,Home,1.001 €,Sí,Grup A,Jean Dubois,No,1001,1960-02-13,65,5%,1051.05
+Jean,Dubois,França,Marsella,16,12,1964,Home,1.593 €,Sí,Grup A,Jean Dubois,No,1593,1964-12-16,60,5%,1672.65
+Jean,Lefevre,França,Marsella,8,10,1959,Home,780 €,No,Grup A,Jean Lefevre,No,780,1959-10-08,66,5%,819.0
+Sophie,Moreau Dubois,França,Marsella,27,4,1956,Dona,1.506 €,No,Grup A,Sophie Moreau Dubois,No,1506,1956-04-27,69,5%,1581.3
+Louis,Girard Lefevre,França,Marsella,26,3,1983,Home,1.009 €,Sí,Grup A,Louis Girard Lefevre,No,1009,1983-03-26,42,5%,1059.45
+Jean,Moreau Girard,França,Marsella,12,11,1989,Home,866 €,No,Grup A,Jean Moreau Girard,No,866,1989-11-12,35,5%,909.3
+Jean,Dubois,França,Marsella,24,11,1970,Home,1.045 €,No,Grup A,Jean Dubois,No,1045,1970-11-24,54,5%,1097.25
+Chloé,Moreau,França,Marsella,5,5,1976,Dona,1.173 €,Sí,Grup A,Chloé Moreau,No,1173,1976-05-05,49,5%,1231.65
+Michel,Lefevre,França,Marsella,28,1,1988,Home,1.120 €,No,Grup A,Michel Lefevre,No,1120,1988-01-28,37,5%,1176.0
+Chloé,Girard Girard,França,Marsella,17,12,1956,Dona,1.433 €,No,Grup A,Chloé Girard Girard,No,1433,1956-12-17,68,5%,1504.65
+Chloé,Girard,França,París,5,10,1952,Dona,741 €,Sí,Grup A,Chloé Girard,No,741,1952-10-05,73,5%,778.05
+Élise,Moreau,França,París,25,7,2001,Dona,930 €,No,Grup A,Élise Moreau,No,930,2001-07-25,24,5%,976.5
+Camille,Moreau,França,París,6,2,1957,Dona,797 €,No,Grup A,Camille Moreau,No,797,1957-02-06,68,5%,836.85
+Louis,Dubois Dubois,França,París,22,9,1964,Home,1.000 €,No,Grup A,Louis Dubois Dubois,No,1000,1964-09-22,61,5%,1050.0
+Michel,Girard,França,París,12,3,2004,Home,1.518 €,Sí,Grup A,Michel Girard,No,1518,2004-03-12,21,5%,1593.9
+Louis,Lefevre Girard,França,París,23,10,1970,Home,737 €,Sí,Grup A,Louis Lefevre Girard,No,737,1970-10-23,54,5%,773.85
+Élise,Moreau Moreau,França,París,10,6,1992,Dona,1.378 €,No,Grup A,Élise Moreau Moreau,No,1378,1992-06-10,33,5%,1446.9
+Alessia,Rossi,Itàlia,Milà,6,12,1989,Dona,1.366 €,No,Grup A,Alessia Rossi,No,1366,1989-12-06,35,5%,1434.3
+Giulia,Russo Conti,Itàlia,Milà,25,2,1971,Dona,1.044 €,No,Grup A,Giulia Russo Conti,No,1044,1971-02-25,54,5%,1096.2
+Alessandro,Russo Ferrari,Itàlia,Roma,13,8,1965,Home,940 €,No,Grup A,Alessandro Russo Ferrari,No,940,1965-08-13,60,5%,987.0
+Francesca,Conti,Itàlia,Roma,10,8,1955,Dona,810 €,Sí,Grup A,Francesca Conti,No,810,1955-08-10,70,5%,850.5
+Marco,Rossi,Itàlia,Torí,3,11,2002,Altres,1.494 €,No,Grup A,Marco Rossi,No,1494,2002-11-03,22,5%,1568.7
+Alessandro,Ferrari,Itàlia,Torí,13,4,1972,Altres,1.334 €,Sí,Grup A,Alessandro Ferrari,No,1334,1972-04-13,53,5%,1400.7
+Francesca,Ferrari,Itàlia,Torí,25,3,1999,Dona,1.045 €,Sí,Grup A,Francesca Ferrari,No,1045,1999-03-25,26,5%,1097.25
+Alessia,Russo,Itàlia,Torí,28,11,1954,Dona,969 €,Sí,Grup A,Alessia Russo,No,969,1954-11-28,70,5%,1017.45
+Francesca,Russo,Itàlia,Torí,9,11,1986,Dona,1.344 €,Sí,Grup A,Francesca Russo,No,1344,1986-11-09,38,5%,1411.2
+Alessandro,Ferrari,Itàlia,Torí,22,7,2003,Home,1.443 €,Sí,Grup A,Alessandro Ferrari,No,1443,2003-07-22,22,5%,1515.15
+Alessia,Russo Russo,Itàlia,Torí,18,5,1995,Dona,1.162 €,No,Grup A,Alessia Russo Russo,No,1162,1995-05-18,30,5%,1220.1
+Giovanni,Rossi Ferrari,Itàlia,Torí,14,6,1991,Home,1.022 €,No,Grup A,Giovanni Rossi Ferrari,No,1022,1991-06-14,34,5%,1073.1
+Francesca,Rossi Russo,Itàlia,Torí,1,9,1994,Dona,1.254 €,No,Grup A,Francesca Rossi Russo,No,1254,1994-09-01,31,5%,1316.7
+Youssef,Bennani,Marroc,Casablanca,20,9,1957,Home,780 €,Sí,Grup A,Youssef Bennani,No,780,1957-09-20,68,5%,819.0
+Youssef,Fassi Zahraoui,Marroc,Casablanca,8,3,2003,Home,1.239 €,Sí,Grup A,Youssef Fassi Zahraoui,No,1239,2003-03-08,22,5%,1300.95
+Amina,Zahraoui Fassi,Marroc,Casablanca,20,1,1984,Dona,1.107 €,No,Grup A,Amina Zahraoui Fassi,No,1107,1984-01-20,41,5%,1162.35
+Salma,El Amrani,Marroc,Casablanca,12,10,1987,Dona,1.414 €,No,Grup A,Salma El Amrani,No,1414,1987-10-12,38,5%,1484.7
+Salma,Zahraoui,Marroc,Casablanca,20,12,1971,Dona,1.399 €,Sí,Grup A,Salma Zahraoui,No,1399,1971-12-20,53,5%,1468.95
+Amina,Fassi,Marroc,Casablanca,13,12,1971,,1.460 €,No,Grup A,Amina Fassi,No,1460,1971-12-13,53,5%,1533.0
+Youssef,Zahraoui,Marroc,Casablanca,2,3,1998,Home,1.599 €,No,Grup A,Youssef Zahraoui,No,1599,1998-03-02,27,5%,1678.95
+Khadija,El Amrani,Marroc,Casablanca,13,9,1998,Dona,1.136 €,Sí,Grup A,Khadija El Amrani,No,1136,1998-09-13,27,5%,1192.8
+Ali,Bennani Fassi,Marroc,Casablanca,14,12,1983,Home,1.510 €,No,Grup A,Ali Bennani Fassi,No,1510,1983-12-14,41,5%,1585.5
+Amina,Zahraoui Zahraoui,Marroc,Casablanca,20,4,1973,Dona,1.454 €,No,Grup A,Amina Zahraoui Zahraoui,No,1454,1973-04-20,52,5%,1526.7
+Fatima,Zahraoui Zahraoui,Marroc,Casablanca,6,2,1993,Dona,1.216 €,No,Grup A,Fatima Zahraoui Zahraoui,No,1216,1993-02-06,32,5%,1276.8
+Fatima,Fassi,Marroc,Rabat,6,11,2005,Altres,1.441 €,Sí,Grup A,Fatima Fassi,No,1441,2005-11-06,19,5%,1513.05
+Mohamed,Zahraoui,Marroc,Rabat,18,11,1950,Home,1.496 €,No,Grup A,Mohamed Zahraoui,No,1496,1950-11-18,74,5%,1570.8
+Salma,Zahraoui El Amrani,Marroc,Rabat,28,9,1950,Dona,1.141 €,No,Grup A,Salma Zahraoui El Amrani,No,1141,1950-09-28,75,5%,1198.05
+Amina,El Amrani,Marroc,Rabat,25,1,1959,Dona,854 €,Sí,Grup A,Amina El Amrani,No,854,1959-01-25,66,5%,896.7
+Youssef,Fassi El Amrani,Marroc,Rabat,26,5,1968,Home,995 €,Sí,Grup A,Youssef Fassi El Amrani,No,995,1968-05-26,57,5%,1044.75
+Fatima,Zahraoui El Amrani,Marroc,Rabat,27,1,1986,Dona,1.312 €,No,Grup A,Fatima Zahraoui El Amrani,No,1312,1986-01-27,39,5%,1377.6
+Youssef,Fassi Zahraoui,Marroc,Rabat,13,7,1974,Altres,1.109 €,Sí,Grup A,Youssef Fassi Zahraoui,No,1109,1974-07-13,51,5%,1164.45
+Omar,Zahraoui Zahraoui,Marroc,Rabat,1,7,1983,,1.271 €,Sí,Grup A,Omar Zahraoui Zahraoui,No,1271,1983-07-01,42,5%,1334.55
+Youssef,Bennani El Amrani,Marroc,Rabat,5,9,1960,Home,1.619 €,No,Grup A,Youssef Bennani El Amrani,No,1619,1960-09-05,65,5%,1699.95
+Miguel,González,Mèxic,Ciutat de Mèxic,22,3,2002,Home,1.531 €,No,Grup A,Miguel González,No,1531,2002-03-22,23,5%,1607.55
+Gabriela,Cruz González,Mèxic,Ciutat de Mèxic,3,1,1955,Dona,1.033 €,Sí,Grup A,Gabriela Cruz González,No,1033,1955-01-03,70,5%,1084.65
+José,González,Mèxic,Ciutat de Mèxic,16,8,1973,Home,1.026 €,No,Grup A,José González,No,1026,1973-08-16,52,5%,1077.3
+Miguel,Ramírez,Mèxic,Ciutat de Mèxic,26,4,2005,Home,1.665 €,No,Grup A,Miguel Ramírez,No,1665,2005-04-26,20,5%,1748.25
+José,Cruz González,Mèxic,Ciutat de Mèxic,24,10,1983,Home,1.430 €,No,Grup A,José Cruz González,No,1430,1983-10-24,41,5%,1501.5
+Camila,Cruz Cruz,Mèxic,Ciutat de Mèxic,19,7,1954,Dona,1.292 €,Sí,Grup A,Camila Cruz Cruz,No,1292,1954-07-19,71,5%,1356.6
+Carlos,Ramírez Cruz,Mèxic,Ciutat de Mèxic,28,12,1971,Home,1.529 €,Sí,Grup A,Carlos Ramírez Cruz,No,1529,1971-12-28,53,5%,1605.45
+Luisa,González Hernández,Mèxic,Ciutat de Mèxic,19,4,2005,Dona,687 €,No,Grup A,Luisa González Hernández,No,687,2005-04-19,20,5%,721.35
+Andrés,Ramírez Hernández,Mèxic,Ciutat de Mèxic,2,9,1956,Home,1.457 €,Sí,Grup A,Andrés Ramírez Hernández,No,1457,1956-09-02,69,5%,1529.85
+Camila,Hernández Ramírez,Mèxic,Guadalajara,17,12,1996,Dona,1.170 €,Sí,Grup A,Camila Hernández Ramírez,No,1170,1996-12-17,28,5%,1228.5
+José,Hernández,Mèxic,Guadalajara,12,1,1992,Altres,1.372 €,No,Grup A,José Hernández,No,1372,1992-01-12,33,5%,1440.6
+Miguel,González,Mèxic,Guadalajara,15,9,1955,Home,1.174 €,No,Grup A,Miguel González,No,1174,1955-09-15,70,5%,1232.7
+Miguel,Cruz,Mèxic,Guadalajara,28,9,1955,Home,1.256 €,Sí,Grup A,Miguel Cruz,No,1256,1955-09-28,70,5%,1318.8
+María,Cruz,Mèxic,Guadalajara,23,6,1978,Dona,746 €,Sí,Grup A,María Cruz,No,746,1978-06-23,47,5%,783.3
+Gabriela,Cruz,Mèxic,Guadalajara,27,1,1955,Dona,1.396 €,No,Grup A,Gabriela Cruz,No,1396,1955-01-27,70,5%,1465.8
+Camila,Cruz Cruz,Mèxic,Guadalajara,2,1,1952,Dona,839 €,No,Grup A,Camila Cruz Cruz,No,839,1952-01-02,73,5%,880.95
+Luisa,Cruz Ramírez,Mèxic,Guadalajara,19,2,1985,Dona,722 €,No,Grup A,Luisa Cruz Ramírez,No,722,1985-02-19,40,5%,758.1
+Beatriz,Ferreira Ferreira,Portugal,Lisboa,17,11,1952,,974 €,No,Grup A,Beatriz Ferreira Ferreira,No,974,1952-11-17,72,5%,1022.7
+João,Oliveira Ferreira,Portugal,Lisboa,21,3,1985,Home,1.225 €,No,Grup A,João Oliveira Ferreira,No,1225,1985-03-21,40,5%,1286.25
+Miguel,Silva,Portugal,Lisboa,12,6,1971,,897 €,No,Grup A,Miguel Silva,No,897,1971-06-12,54,5%,941.85
+Inês,Silva,Portugal,Lisboa,20,8,1990,Dona,1.121 €,Sí,Grup A,Inês Silva,No,1121,1990-08-20,35,5%,1177.05
+João,Oliveira,Portugal,Lisboa,1,7,1979,Home,1.276 €,No,Grup A,João Oliveira,No,1276,1979-07-01,46,5%,1339.8
+João,Silva,Portugal,Lisboa,2,7,1994,Home,1.634 €,No,Grup A,João Silva,No,1634,1994-07-02,31,5%,1715.7
+Tiago,Ferreira Pereira,Portugal,Lisboa,15,3,1959,Altres,1.263 €,No,Grup A,Tiago Ferreira Pereira,No,1263,1959-03-15,66,5%,1326.15
+Inês,Oliveira Ferreira,Portugal,Lisboa,2,5,1970,Dona,687 €,No,Grup A,Inês Oliveira Ferreira,No,687,1970-05-02,55,5%,721.35
+Tiago,Ferreira,Portugal,Porto,22,11,1993,Home,1.246 €,Sí,Grup A,Tiago Ferreira,No,1246,1993-11-22,31,5%,1308.3
+Tiago,Silva Pereira,Portugal,Porto,24,3,1980,Home,1.431 €,No,Grup A,Tiago Silva Pereira,No,1431,1980-03-24,45,5%,1502.55
+Tiago,Oliveira,Portugal,Porto,22,3,1989,Home,1.354 €,Sí,Grup A,Tiago Oliveira,No,1354,1989-03-22,36,5%,1421.7
+Miguel,Ferreira,Portugal,Porto,19,2,1990,Home,1.202 €,No,Grup A,Miguel Ferreira,No,1202,1990-02-19,35,5%,1262.1
+Inês,Silva Oliveira,Portugal,Porto,11,2,1986,Dona,953 €,No,Grup A,Inês Silva Oliveira,No,953,1986-02-11,39,5%,1000.65
+Miguel,Oliveira Pereira,Portugal,Porto,19,4,1958,Home,1.030 €,No,Grup A,Miguel Oliveira Pereira,No,1030,1958-04-19,67,5%,1081.5
+Sophie,Taylor,Regne Unit,Londres,27,2,1983,Dona,1.469 €,No,Grup A,Sophie Taylor,No,1469,1983-02-27,42,5%,1542.45
+Oliver,Jones,Regne Unit,Londres,1,6,1959,Home,911 €,Sí,Grup A,Oliver Jones,No,911,1959-06-01,66,5%,956.55
+George,Taylor Taylor,Regne Unit,Londres,8,9,1965,Home,1.135 €,Sí,Grup A,George Taylor Taylor,No,1135,1965-09-08,60,5%,1191.75
+James,Smith,Regne Unit,Londres,1,6,1954,Home,1.078 €,No,Grup A,James Smith,No,1078,1954-06-01,71,5%,1131.9
+William,Brown Smith,Regne Unit,Londres,17,7,1959,Home,1.147 €,Sí,Grup A,William Brown Smith,No,1147,1959-07-17,66,5%,1204.35
+Sophie,Jones,Regne Unit,Londres,26,1,1963,Dona,684 €,No,Grup A,Sophie Jones,No,684,1963-01-26,62,5%,718.2
+William,Brown,Regne Unit,Londres,24,2,1991,Home,997 €,Sí,Grup A,William Brown,No,997,1991-02-24,34,5%,1046.85
+Olivia,Taylor,Regne Unit,Londres,13,9,1992,,1.416 €,Sí,Grup A,Olivia Taylor,No,1416,1992-09-13,33,5%,1486.8
+Emily,Taylor,Regne Unit,Londres,24,3,1976,Dona,1.250 €,Sí,Grup A,Emily Taylor,No,1250,1976-03-24,49,5%,1312.5
+Isla,Taylor Smith,Regne Unit,Londres,7,5,1965,Dona,1.237 €,No,Grup A,Isla Taylor Smith,No,1237,1965-05-07,60,5%,1298.85
+William,Taylor,Regne Unit,Londres,11,10,1957,Home,1.017 €,No,Grup A,William Taylor,No,1017,1957-10-11,68,5%,1067.85
+George,Brown Jones,Regne Unit,Manchester,27,12,1979,Home,1.130 €,Sí,Grup A,George Brown Jones,No,1130,1979-12-27,45,5%,1186.5
+Olivia,Brown Brown,Regne Unit,Manchester,28,8,1952,Altres,1.023 €,No,Grup A,Olivia Brown Brown,No,1023,1952-08-28,73,5%,1074.15
+Isla,Jones Brown,Regne Unit,Manchester,28,3,1999,Dona,1.197 €,No,Grup A,Isla Jones Brown,No,1197,1999-03-28,26,5%,1256.85
+William,Smith,Regne Unit,Manchester,19,5,1997,Home,1.405 €,Sí,Grup A,William Smith,No,1405,1997-05-19,28,5%,1475.25
