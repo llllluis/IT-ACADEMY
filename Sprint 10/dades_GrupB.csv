@@ -1,6 +1,6 @@
 Nom,Cognoms,País d'origen,Ciutat,Dia,Mes,Any,Gènere,Salari mensual,Fills,Grup Professional,Nom_Complert,Nascut_a_Espanya,Salari numeric,naixament,Edat,increment,Salari actualitzat
 Laura,Schneider Fischer,Alemanya,Berlín,2,2,1958,Dona,1.769 €,Sí,Grup B,Laura Schneider Fischer,No,1769,1958-02-02,67,"3,5%",1830.91
-Lea,Schneider Schneider,Alemanya,Berlín,23,10,2005,Dona,2.013 €,No,Grup B,Lea Schneider Schneider,No,2013,2005-10-23,19,"3,5%",2083.45
+Lea,Schneider Schneider,Alemanya,Berlín,23,10,2005,Dona,2.013 €,No,Grup B,Lea Schneider Schneider,No,2013,2005-10-23,20,"3,5%",2083.45
 Mia,Fischer,Alemanya,Berlín,11,8,1950,Dona,1.557 €,Sí,Grup B,Mia Fischer,No,1557,1950-08-11,75,"3,5%",1611.49
 Lukas,Müller Fischer,Alemanya,Hamburg,28,3,1971,Home,2.042 €,No,Grup B,Lukas Müller Fischer,No,2042,1971-03-28,54,"3,5%",2113.47
 Laura,Schmidt,Alemanya,Hamburg,3,5,1956,,1.828 €,Sí,Grup B,Laura Schmidt,No,1828,1956-05-03,69,"3,5%",1891.98
@@ -29,7 +29,7 @@ Sara,Torres Castro,Colòmbia,Medellín,25,2,1992,Dona,1.334 €,Sí,Grup B,Sara 
 Santiago,Gutiérrez Torres,Colòmbia,Medellín,4,12,1959,Home,2.238 €,Sí,Grup B,Santiago Gutiérrez Torres,No,2238,1959-12-04,65,"3,5%",2316.33
 Laura,Castro Torres,Colòmbia,Medellín,6,6,1997,Dona,1.438 €,No,Grup B,Laura Castro Torres,No,1438,1997-06-06,28,"3,5%",1488.33
 Valentina,Gutiérrez Rojas,Colòmbia,Medellín,2,10,1959,Dona,1.728 €,Sí,Grup B,Valentina Gutiérrez Rojas,No,1728,1959-10-02,66,"3,5%",1788.48
-Valentina,Torres Rojas,Colòmbia,Medellín,22,10,1957,Dona,1.441 €,No,Grup B,Valentina Torres Rojas,No,1441,1957-10-22,67,"3,5%",1491.43
+Valentina,Torres Rojas,Colòmbia,Medellín,22,10,1957,Dona,1.441 €,No,Grup B,Valentina Torres Rojas,No,1441,1957-10-22,68,"3,5%",1491.43
 Toni,Castells Romero,Espanya,Barcelona,13,4,1961,Home,1.438 €,No,Grup B,Toni Castells Romero,Sí,1438,1961-04-13,64,"3,5%",1488.33
 Toni,Castells Martínez,Espanya,Barcelona,10,1,1981,Home,2.102 €,Sí,Grup B,Toni Castells Martínez,Sí,2102,1981-01-10,44,"3,5%",2175.57
 Oriol,López Ferrer,Espanya,Barcelona,3,11,1969,Home,1.498 €,Sí,Grup B,Oriol López Ferrer,Sí,1498,1969-11-03,55,"3,5%",1550.43
@@ -151,7 +151,7 @@ Laia,García,Espanya,Madrid,9,8,1991,Dona,1.495 €,No,Grup B,Laia García,Sí,1
 Toni,López,Espanya,Madrid,12,10,1964,Home,1.367 €,Sí,Grup B,Toni López,Sí,1367,1964-10-12,61,"3,5%",1414.84
 Arnau,López,Espanya,Madrid,4,4,1994,Altres,1.803 €,No,Grup B,Arnau López,Sí,1803,1994-04-04,31,"3,5%",1866.1
 Laia,López,Espanya,Madrid,21,4,1984,Dona,1.179 €,Sí,Grup B,Laia López,Sí,1179,1984-04-21,41,"3,5%",1220.26
-Joan,García,Espanya,Madrid,22,10,2000,Home,2.067 €,No,Grup B,Joan García,Sí,2067,2000-10-22,24,"3,5%",2139.34
+Joan,García,Espanya,Madrid,22,10,2000,Home,2.067 €,No,Grup B,Joan García,Sí,2067,2000-10-22,25,"3,5%",2139.34
 Jordi,Ferrer López,Espanya,Madrid,13,9,1955,Home,1.691 €,Sí,Grup B,Jordi Ferrer López,Sí,1691,1955-09-13,70,"3,5%",1750.18
 Marta,López Sánchez,Espanya,Madrid,17,5,1992,Dona,1.871 €,Sí,Grup B,Marta López Sánchez,Sí,1871,1992-05-17,33,"3,5%",1936.48
 Marc,Romero,Espanya,Madrid,2,8,1984,Home,1.635 €,No,Grup B,Marc Romero,Sí,1635,1984-08-02,41,"3,5%",1692.22
@@ -309,7 +309,7 @@ Sofia,Oliveira,Portugal,Porto,5,7,1952,Dona,1.413 €,No,Grup B,Sofia Oliveira,N
 Maria,Pereira Pereira,Portugal,Porto,19,6,1980,Dona,1.672 €,No,Grup B,Maria Pereira Pereira,No,1672,1980-06-19,45,"3,5%",1730.52
 Beatriz,Ferreira,Portugal,Porto,11,5,1950,Altres,1.574 €,Sí,Grup B,Beatriz Ferreira,No,1574,1950-05-11,75,"3,5%",1629.09
 Maria,Ferreira Ferreira,Portugal,Porto,4,3,1996,Dona,1.896 €,Sí,Grup B,Maria Ferreira Ferreira,No,1896,1996-03-04,29,"3,5%",1962.36
-João,Silva,Portugal,Porto,23,10,1970,Home,1.984 €,Sí,Grup B,João Silva,No,1984,1970-10-23,54,"3,5%",2053.44
+João,Silva,Portugal,Porto,23,10,1970,Home,1.984 €,Sí,Grup B,João Silva,No,1984,1970-10-23,55,"3,5%",2053.44
 Emily,Jones,Regne Unit,Londres,15,11,1969,Dona,1.274 €,No,Grup B,Emily Jones,No,1274,1969-11-15,55,"3,5%",1318.59
 George,Jones Taylor,Regne Unit,Londres,27,5,2000,,2.100 €,No,Grup B,George Jones Taylor,No,2100,2000-05-27,25,"3,5%",2173.5
 William,Smith Smith,Regne Unit,Londres,1,12,1952,Home,1.643 €,Sí,Grup B,William Smith Smith,No,1643,1952-12-01,72,"3,5%",1700.5

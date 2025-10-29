@@ -1,5 +1,5 @@
 Nom,Cognoms,País d'origen,Ciutat,Dia,Mes,Any,Gènere,Salari mensual,Fills,Grup Professional,Nom_Complert,Nascut_a_Espanya,Salari numeric,naixament,Edat,increment,Salari actualitzat
-Mia,Schneider Fischer,Alemanya,Berlín,22,10,1976,Altres,951 €,No,Grup A,Mia Schneider Fischer,No,951,1976-10-22,48,5%,998.55
+Mia,Schneider Fischer,Alemanya,Berlín,22,10,1976,Altres,951 €,No,Grup A,Mia Schneider Fischer,No,951,1976-10-22,49,5%,998.55
 Lea,Fischer,Alemanya,Berlín,9,9,1986,Dona,1.370 €,Sí,Grup A,Lea Fischer,No,1370,1986-09-09,39,5%,1438.5
 Lea,Müller,Alemanya,Hamburg,14,4,2003,Dona,1.314 €,No,Grup A,Lea Müller,No,1314,2003-04-14,22,5%,1379.7
 Laura,Schneider,Alemanya,Hamburg,25,1,1957,Dona,1.368 €,No,Grup A,Laura Schneider,No,1368,1957-01-25,68,5%,1436.4
@@ -64,7 +64,7 @@ Toni,Romero,Espanya,Barcelona,9,12,1989,Home,1.659 €,Sí,Grup A,Toni Romero,S�
 Oriol,García Castells,Espanya,Barcelona,18,6,1955,Home,1.212 €,No,Grup A,Oriol García Castells,Sí,1212,1955-06-18,70,5%,1272.6
 Carla,López,Espanya,Barcelona,18,7,1965,Dona,1.159 €,Sí,Grup A,Carla López,Sí,1159,1965-07-18,60,5%,1216.95
 Laia,Ferrer,Espanya,Barcelona,23,11,1972,Dona,940 €,No,Grup A,Laia Ferrer,Sí,940,1972-11-23,52,5%,987.0
-Anna,Castells García,Espanya,Barcelona,22,10,1952,Dona,698 €,No,Grup A,Anna Castells García,Sí,698,1952-10-22,72,5%,732.9
+Anna,Castells García,Espanya,Barcelona,22,10,1952,Dona,698 €,No,Grup A,Anna Castells García,Sí,698,1952-10-22,73,5%,732.9
 Oriol,Ferrer Martínez,Espanya,Barcelona,26,7,1950,Home,954 €,No,Grup A,Oriol Ferrer Martínez,Sí,954,1950-07-26,75,5%,1001.7
 Jordi,Sánchez,Espanya,Barcelona,18,6,1981,Home,800 €,Sí,Grup A,Jordi Sánchez,Sí,800,1981-06-18,44,5%,840.0
 Jordi,Sánchez Martínez,Espanya,Barcelona,6,11,1998,Home,1.095 €,No,Grup A,Jordi Sánchez Martínez,Sí,1095,1998-11-06,26,5%,1149.75
@@ -101,7 +101,7 @@ Marc,Martínez Castells,Espanya,Barcelona,13,5,1979,,1.473 €,No,Grup A,Marc Ma
 Pau,Castells Martínez,Espanya,Barcelona,3,1,1985,Home,1.242 €,No,Grup A,Pau Castells Martínez,Sí,1242,1985-01-03,40,5%,1304.1
 Anna,Castells Ferrer,Espanya,Barcelona,8,1,1983,Dona,1.494 €,Sí,Grup A,Anna Castells Ferrer,Sí,1494,1983-01-08,42,5%,1568.7
 Toni,Romero,Espanya,Barcelona,7,5,1990,Home,1.101 €,No,Grup A,Toni Romero,Sí,1101,1990-05-07,35,5%,1156.05
-Joan,López,Espanya,Barcelona,22,10,1964,Home,1.623 €,No,Grup A,Joan López,Sí,1623,1964-10-22,60,5%,1704.15
+Joan,López,Espanya,Barcelona,22,10,1964,Home,1.623 €,No,Grup A,Joan López,Sí,1623,1964-10-22,61,5%,1704.15
 Eva,Castells Romero,Espanya,Barcelona,13,2,1980,Altres,931 €,No,Grup A,Eva Castells Romero,Sí,931,1980-02-13,45,5%,977.55
 Clara,Castells,Espanya,Barcelona,17,7,1953,Dona,778 €,No,Grup A,Clara Castells,Sí,778,1953-07-17,72,5%,816.9
 Joan,Romero Romero,Espanya,Barcelona,3,11,1995,Home,1.108 €,Sí,Grup A,Joan Romero Romero,Sí,1108,1995-11-03,29,5%,1163.4
@@ -110,7 +110,7 @@ Núria,López,Espanya,Barcelona,28,5,1961,Dona,797 €,Sí,Grup A,Núria López,
 Eva,García,Espanya,Barcelona,27,10,1960,Dona,724 €,Sí,Grup A,Eva García,Sí,724,1960-10-27,64,5%,760.2
 Carla,Castells Castells,Espanya,Barcelona,27,3,1977,Dona,1.429 €,No,Grup A,Carla Castells Castells,Sí,1429,1977-03-27,48,5%,1500.45
 Marta,Romero,Espanya,Barcelona,8,4,1957,Dona,690 €,No,Grup A,Marta Romero,Sí,690,1957-04-08,68,5%,724.5
-Toni,Martínez Castells,Espanya,Barcelona,23,10,1957,Home,1.377 €,No,Grup A,Toni Martínez Castells,Sí,1377,1957-10-23,67,5%,1445.85
+Toni,Martínez Castells,Espanya,Barcelona,23,10,1957,Home,1.377 €,No,Grup A,Toni Martínez Castells,Sí,1377,1957-10-23,68,5%,1445.85
 Carla,Martínez Castells,Espanya,Barcelona,21,10,1980,Dona,755 €,No,Grup A,Carla Martínez Castells,Sí,755,1980-10-21,45,5%,792.75
 Oriol,López Romero,Espanya,Barcelona,22,5,1983,Home,1.135 €,Sí,Grup A,Oriol López Romero,Sí,1135,1983-05-22,42,5%,1191.75
 Carla,Ferrer,Espanya,Barcelona,13,12,1969,Dona,911 €,No,Grup A,Carla Ferrer,Sí,911,1969-12-13,55,5%,956.55
@@ -278,7 +278,7 @@ Marta,López,Espanya,Sevilla,25,8,1971,Dona,1.056 €,Sí,Grup A,Marta López,S�
 Arnau,Ferrer García,Espanya,Sevilla,17,3,1989,Home,1.377 €,No,Grup A,Arnau Ferrer García,Sí,1377,1989-03-17,36,5%,1445.85
 Clara,García,Espanya,Sevilla,19,8,1998,Dona,747 €,No,Grup A,Clara García,Sí,747,1998-08-19,27,5%,784.35
 Oriol,Martínez Martínez,Espanya,Sevilla,21,3,1951,Home,1.466 €,No,Grup A,Oriol Martínez Martínez,Sí,1466,1951-03-21,74,5%,1539.3
-Laia,Ferrer Martínez,Espanya,Sevilla,23,10,1962,Dona,1.408 €,Sí,Grup A,Laia Ferrer Martínez,Sí,1408,1962-10-23,62,5%,1478.4
+Laia,Ferrer Martínez,Espanya,Sevilla,23,10,1962,Dona,1.408 €,Sí,Grup A,Laia Ferrer Martínez,Sí,1408,1962-10-23,63,5%,1478.4
 Carla,Sánchez López,Espanya,Sevilla,11,6,1989,Dona,1.081 €,Sí,Grup A,Carla Sánchez López,Sí,1081,1989-06-11,36,5%,1135.05
 Núria,López,Espanya,Sevilla,5,5,1977,Dona,1.024 €,No,Grup A,Núria López,Sí,1024,1977-05-05,48,5%,1075.2
 Pau,López García,Espanya,Sevilla,4,7,1992,Home,1.668 €,No,Grup A,Pau López García,Sí,1668,1992-07-04,33,5%,1751.4
@@ -408,7 +408,7 @@ Chloé,Girard,França,París,5,10,1952,Dona,741 €,Sí,Grup A,Chloé Girard,No,
 Camille,Moreau,França,París,6,2,1957,Dona,797 €,No,Grup A,Camille Moreau,No,797,1957-02-06,68,5%,836.85
 Louis,Dubois Dubois,França,París,22,9,1964,Home,1.000 €,No,Grup A,Louis Dubois Dubois,No,1000,1964-09-22,61,5%,1050.0
 Michel,Girard,França,París,12,3,2004,Home,1.518 €,Sí,Grup A,Michel Girard,No,1518,2004-03-12,21,5%,1593.9
-Louis,Lefevre Girard,França,París,23,10,1970,Home,737 €,Sí,Grup A,Louis Lefevre Girard,No,737,1970-10-23,54,5%,773.85
+Louis,Lefevre Girard,França,París,23,10,1970,Home,737 €,Sí,Grup A,Louis Lefevre Girard,No,737,1970-10-23,55,5%,773.85
 Élise,Moreau Moreau,França,París,10,6,1992,Dona,1.378 €,No,Grup A,Élise Moreau Moreau,No,1378,1992-06-10,33,5%,1446.9
 Alessia,Rossi,Itàlia,Milà,6,12,1989,Dona,1.366 €,No,Grup A,Alessia Rossi,No,1366,1989-12-06,35,5%,1434.3
 Giulia,Russo Conti,Itàlia,Milà,25,2,1971,Dona,1.044 €,No,Grup A,Giulia Russo Conti,No,1044,1971-02-25,54,5%,1096.2
