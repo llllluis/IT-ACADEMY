@@ -32,7 +32,7 @@ Valentina,Gutiérrez Rojas,Colòmbia,Medellín,2,10,1959,Dona,1.728 €,Sí,Grup
 Valentina,Torres Rojas,Colòmbia,Medellín,22,10,1957,Dona,1.441 €,No,Grup B,Valentina Torres Rojas,No,1441,1957-10-22,68,"3,5%",1491.43
 Toni,Castells Romero,Espanya,Barcelona,13,4,1961,Home,1.438 €,No,Grup B,Toni Castells Romero,Sí,1438,1961-04-13,64,"3,5%",1488.33
 Toni,Castells Martínez,Espanya,Barcelona,10,1,1981,Home,2.102 €,Sí,Grup B,Toni Castells Martínez,Sí,2102,1981-01-10,44,"3,5%",2175.57
-Oriol,López Ferrer,Espanya,Barcelona,3,11,1969,Home,1.498 €,Sí,Grup B,Oriol López Ferrer,Sí,1498,1969-11-03,55,"3,5%",1550.43
+Oriol,López Ferrer,Espanya,Barcelona,3,11,1969,Home,1.498 €,Sí,Grup B,Oriol López Ferrer,Sí,1498,1969-11-03,56,"3,5%",1550.43
 Pau,Sánchez,Espanya,Barcelona,13,3,1962,Home,1.473 €,No,Grup B,Pau Sánchez,Sí,1473,1962-03-13,63,"3,5%",1524.55
 Laia,Sánchez Castells,Espanya,Barcelona,21,11,1970,Dona,2.057 €,Sí,Grup B,Laia Sánchez Castells,Sí,2057,1970-11-21,54,"3,5%",2128.99
 Toni,Sánchez,Espanya,Barcelona,1,1,1987,Home,1.493 €,No,Grup B,Toni Sánchez,Sí,1493,1987-01-01,38,"3,5%",1545.25
@@ -59,7 +59,7 @@ Joan,Romero López,Espanya,Barcelona,11,1,1950,Home,1.982 €,Sí,Grup B,Joan Ro
 Pau,Martínez García,Espanya,Barcelona,15,11,1989,Home,2.254 €,No,Grup B,Pau Martínez García,Sí,2254,1989-11-15,35,"3,5%",2332.89
 Carla,Romero,Espanya,Barcelona,17,6,1998,Dona,1.785 €,Sí,Grup B,Carla Romero,Sí,1785,1998-06-17,27,"3,5%",1847.47
 Arnau,Martínez Sánchez,Espanya,Barcelona,20,6,1971,Home,1.373 €,No,Grup B,Arnau Martínez Sánchez,Sí,1373,1971-06-20,54,"3,5%",1421.05
-Carla,Castells,Espanya,Barcelona,24,10,1962,Dona,1.248 €,Sí,Grup B,Carla Castells,Sí,1248,1962-10-24,62,"3,5%",1291.68
+Carla,Castells,Espanya,Barcelona,24,10,1962,Dona,1.248 €,Sí,Grup B,Carla Castells,Sí,1248,1962-10-24,63,"3,5%",1291.68
 Núria,Romero,Espanya,Barcelona,24,12,1970,Dona,1.939 €,No,Grup B,Núria Romero,Sí,1939,1970-12-24,54,"3,5%",2006.86
 Laia,Sánchez,Espanya,Barcelona,27,1,1965,Dona,1.876 €,Sí,Grup B,Laia Sánchez,Sí,1876,1965-01-27,60,"3,5%",1941.66
 Marta,Sánchez Romero,Espanya,Barcelona,5,6,1993,Dona,1.320 €,No,Grup B,Marta Sánchez Romero,Sí,1320,1993-06-05,32,"3,5%",1366.2
@@ -140,7 +140,7 @@ Oriol,Sánchez,Espanya,Bilbao,11,9,1989,Home,2.115 €,Sí,Grup B,Oriol Sánchez
 Núria,García Ferrer,Espanya,Bilbao,11,4,1982,Dona,1.758 €,Sí,Grup B,Núria García Ferrer,Sí,1758,1982-04-11,43,"3,5%",1819.53
 Núria,García López,Espanya,Madrid,8,6,1969,Dona,1.374 €,No,Grup B,Núria García López,Sí,1374,1969-06-08,56,"3,5%",1422.09
 Pau,Martínez,Espanya,Madrid,17,8,1999,Home,1.971 €,No,Grup B,Pau Martínez,Sí,1971,1999-08-17,26,"3,5%",2039.98
-Núria,Romero,Espanya,Madrid,26,10,1993,Dona,1.352 €,Sí,Grup B,Núria Romero,Sí,1352,1993-10-26,31,"3,5%",1399.32
+Núria,Romero,Espanya,Madrid,26,10,1993,Dona,1.352 €,Sí,Grup B,Núria Romero,Sí,1352,1993-10-26,32,"3,5%",1399.32
 Eva,Martínez,Espanya,Madrid,19,10,1974,,2.015 €,No,Grup B,Eva Martínez,Sí,2015,1974-10-19,51,"3,5%",2085.52
 Pau,Martínez,Espanya,Madrid,14,2,1959,Home,2.100 €,No,Grup B,Pau Martínez,Sí,2100,1959-02-14,66,"3,5%",2173.5
 Eva,Castells,Espanya,Madrid,9,7,1956,Dona,1.669 €,Sí,Grup B,Eva Castells,Sí,1669,1956-07-09,69,"3,5%",1727.41
@@ -195,13 +195,13 @@ Clara,Ferrer Martínez,Espanya,Sevilla,24,5,1951,Dona,1.767 €,No,Grup B,Clara 
 Marc,Sánchez Castells,Espanya,Sevilla,21,3,1980,Home,1.279 €,No,Grup B,Marc Sánchez Castells,Sí,1279,1980-03-21,45,"3,5%",1323.76
 Núria,Ferrer Romero,Espanya,Sevilla,16,3,1989,Dona,1.257 €,No,Grup B,Núria Ferrer Romero,Sí,1257,1989-03-16,36,"3,5%",1300.99
 Carla,Castells Castells,Espanya,Sevilla,22,6,1979,Dona,1.845 €,No,Grup B,Carla Castells Castells,Sí,1845,1979-06-22,46,"3,5%",1909.57
-Marta,Romero,Espanya,Sevilla,26,10,2002,Dona,1.291 €,Sí,Grup B,Marta Romero,Sí,1291,2002-10-26,22,"3,5%",1336.18
+Marta,Romero,Espanya,Sevilla,26,10,2002,Dona,1.291 €,Sí,Grup B,Marta Romero,Sí,1291,2002-10-26,23,"3,5%",1336.18
 Marc,López Sánchez,Espanya,Sevilla,11,4,1968,Home,1.315 €,No,Grup B,Marc López Sánchez,Sí,1315,1968-04-11,57,"3,5%",1361.02
 Laia,Romero,Espanya,Sevilla,18,5,1960,Dona,1.354 €,No,Grup B,Laia Romero,Sí,1354,1960-05-18,65,"3,5%",1401.39
 Jordi,Ferrer,Espanya,Sevilla,5,3,1993,Home,1.653 €,Sí,Grup B,Jordi Ferrer,Sí,1653,1993-03-05,32,"3,5%",1710.85
 Laia,Castells Ferrer,Espanya,Sevilla,23,6,1986,Dona,1.178 €,Sí,Grup B,Laia Castells Ferrer,Sí,1178,1986-06-23,39,"3,5%",1219.23
 Arnau,Martínez Martínez,Espanya,Sevilla,6,12,1960,Home,1.789 €,No,Grup B,Arnau Martínez Martínez,Sí,1789,1960-12-06,64,"3,5%",1851.61
-Marc,Romero,Espanya,Sevilla,2,11,1975,Home,1.569 €,No,Grup B,Marc Romero,Sí,1569,1975-11-02,49,"3,5%",1623.91
+Marc,Romero,Espanya,Sevilla,2,11,1975,Home,1.569 €,No,Grup B,Marc Romero,Sí,1569,1975-11-02,50,"3,5%",1623.91
 Núria,Martínez Castells,Espanya,Sevilla,8,12,1962,Dona,1.300 €,No,Grup B,Núria Martínez Castells,Sí,1300,1962-12-08,62,"3,5%",1345.5
 Núria,Castells Ferrer,Espanya,Sevilla,13,10,2005,Dona,2.058 €,No,Grup B,Núria Castells Ferrer,Sí,2058,2005-10-13,20,"3,5%",2130.03
 Marta,López López,Espanya,Sevilla,24,2,1986,Dona,1.292 €,No,Grup B,Marta López López,Sí,1292,1986-02-24,39,"3,5%",1337.22
